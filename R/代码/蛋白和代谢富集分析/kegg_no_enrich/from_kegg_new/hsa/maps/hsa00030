@@ -1,0 +1,87 @@
+C01151 (D-Ribose 1,5-bisphosphate)	692,603,4
+C00668 (alpha-D-Glucose 6-phosphate)	201,383,4
+C00118 (D-Glyceraldehyde 3-phosphate)	818,320,4
+C00022 (Pyruvate)	778,228,4
+C00257 (D-Gluconic acid)	529,155,4
+C00198 (D-Glucono-1,5-lactone)	331,155,4
+C00031 (D-Glucose)	201,203,4
+C00221 (beta-D-Glucose)	201,155,4
+C00345 (6-Phospho-D-gluconate)	529,320,4
+C00204 (2-Dehydro-3-deoxy-D-gluconate)	666,155,4
+C03752 (2-Amino-2-deoxy-D-gluconate)	576,383,4
+C04442 (2-Dehydro-3-deoxy-6-phospho-D-gluconate)	666,320,4
+C00117 (D-Ribose 5-phosphate)	529,520,4
+C00119 (5-Phospho-alpha-D-ribose 1-diphosphate)	529,603,4
+C00620 (alpha-D-Ribose 1-phosphate)	692,551,4
+C00121 (D-Ribose)	692,520,4
+C00279 (D-Erythrose 4-phosphate)	363,477,4
+C01218 (6-Phospho-2-dehydro-D-gluconate)	450,276,4
+C05382 (Sedoheptulose 7-phosphate)	363,584,4
+C01801 (Deoxyribose)	465,663,4
+C00673 (2-Deoxy-D-ribose 5-phosphate)	331,694,4
+C00118 (D-Glyceraldehyde 3-phosphate)	201,602,4
+C05378 (beta-D-Fructose 1,6-bisphosphate)	201,523,4
+C01172 (beta-D-Glucose 6-phosphate)	201,320,4
+C01236 (D-Glucono-1,5-lactone 6-phosphate)	365,320,4
+C06473 (2-Keto-D-gluconic acid)	450,215,4
+C05345 (beta-D-Fructose 6-phosphate)	201,446,4
+C00672 (2-Deoxy-D-ribose 1-phosphate)	465,694,4
+C00577 (D-Glyceraldehyde)	818,155,4
+C00258 (D-Glycerate)	916,155,4
+C00631 (2-Phospho-D-glycerate)	1002,155,4
+C00231 (D-Xylulose 5-phosphate)	422,446,4
+C00231 (D-Xylulose 5-phosphate)	331,638,4
+C00199 (D-Ribulose 5-phosphate)	529,446,4
+C06019 (D-arabino-Hex-3-ulose 6-phosphate)	365,383,4
+C20589 (D-Glucosaminate-6-phosphate)	666,383,4
+C03752 (2-Amino-2-deoxy-D-gluconate)	666,77,4
+C00197 (3-Phospho-D-glycerate)	916,320,4
+2821 (GPI)	179,342,225,359
+64080 (RBKS)	378,654,424,671
+55276 (PGM2)	379,686,425,703
+51071 (DERA)	239,686,285,703
+221823 (PRPS1L1)	507,558,553,575
+5631 (PRPS1)	507,558,553,575
+5634 (PRPS2)	507,558,553,575
+55276 (PGM2)	605,532,651,549
+64080 (RBKS)	605,511,651,528
+7086 (TKT)	397,551,443,568
+8277 (TKTL1)	397,551,443,568
+84076 (TKTL2)	397,551,443,568
+22934 (RPIA)	507,476,553,493
+6120 (RPE)	453,437,499,454
+729020 (RPEL1)	453,437,499,454
+7086 (TKT)	282,437,328,454
+8277 (TKTL1)	282,437,328,454
+84076 (TKTL2)	282,437,328,454
+226 (ALDOA)	177,553,223,570
+229 (ALDOB)	177,553,223,570
+230 (ALDOC)	177,553,223,570
+5211 (PFKL)	153,484,199,501
+5213 (PFKM)	153,484,199,501
+5214 (PFKP)	153,484,199,501
+2203 (FBP1)	117,460,163,477
+8789 (FBP2)	117,460,163,477
+2821 (GPI)	179,407,225,424
+5226 (PGD)	481,354,527,371
+25796 (PGLS)	428,311,474,328
+2539 (G6PD)	257,301,303,318
+414328 (IDNK)	511,232,557,249
+9104 (RGN)	398,147,444,164
+6888 (TALDO1)	341,517,387,534
+5236 (PGM1)	605,553,651,570
+55276 (PGM2)	605,553,651,570
+132158 (GLYCTK)	932,147,978,164
+9563 (H6PD)	336,285,382,302
+5226 (PGD)	531,354,577,371
+2539 (G6PD)	232,322,278,339
+hsa00010: Glycolysis / Gluconeogenesis	969,214,1040,240
+hsa00010: Glycolysis / Gluconeogenesis	18,361,82,624
+hsa00040: Pentose and glucuronate interconversions	617,429,753,463
+hsa00230: Purine metabolism	598,628,671,660
+hsa00030: Pentose phosphate pathway	40,45,279,70
+hsa00240: Pyrimidine metabolism	598,663,671,695
+hsa00340: Histidine metabolism	599,698,672,730
+hsa00040: Pentose and glucuronate interconversions	431,99,560,133
+hsa00052: Galactose metabolism	758,78,880,103
+hsa00052: Galactose metabolism	758,367,880,392

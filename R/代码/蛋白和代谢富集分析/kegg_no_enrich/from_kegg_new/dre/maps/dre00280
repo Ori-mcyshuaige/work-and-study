@@ -1,0 +1,148 @@
+C15978 (2-Methyl-1-hydroxybutyl-ThPP)	621,298,4
+C15973 (Enzyme N6-(dihydrolipoyl)lysine)	584,389,4
+C15973 (Enzyme N6-(dihydrolipoyl)lysine)	406,389,4
+C15972 (Enzyme N6-(lipoyl)lysine)	584,323,4
+C15972 (Enzyme N6-(lipoyl)lysine)	406,323,4
+C15976 (2-Methyl-1-hydroxypropyl-ThPP)	444,298,4
+C00068 (Thiamin diphosphate)	659,282,4
+C00068 (Thiamin diphosphate)	482,282,4
+C15973 (Enzyme N6-(dihydrolipoyl)lysine)	129,389,4
+C15972 (Enzyme N6-(lipoyl)lysine)	129,323,4
+C15974 (3-Methyl-1-hydroxybutyl-ThPP)	167,298,4
+C00068 (Thiamin diphosphate)	205,282,4
+C00123 (L-Leucine)	167,163,4
+C00233 (4-Methyl-2-oxopentanoate)	167,229,4
+C15975 ([Dihydrolipoyllysine-residue (2-methylpropanoyl)transferase] S-(3-methylbutanoyl)dihydrolipoyllysine)	167,367,4
+C02939 (3-Methylbutanoyl-CoA)	167,435,4
+C03069 (3-Methylcrotonyl-CoA)	167,527,4
+C05998 (3-Hydroxyisovaleryl-CoA)	76,527,4
+C03231 (3-Methylglutaconyl-CoA)	167,585,4
+C00356 ((S)-3-Hydroxy-3-methylglutaryl-CoA)	167,649,4
+C00164 (Acetoacetate)	101,685,4
+C00332 (Acetoacetyl-CoA)	101,750,4
+C00024 (Acetyl-CoA)	242,719,4
+C00091 (Succinyl-CoA)	246,915,4
+C03284 (L-3-Aminoisobutanoate)	330,756,4
+C06002 ((S)-Methylmalonate semialdehyde)	444,756,4
+C00349 (2-Methyl-3-oxopropanoate)	444,756,4
+C02170 (Methylmalonate)	444,848,4
+C01213 ((R)-Methylmalonyl-CoA)	444,915,4
+C00683 ((S)-Methylmalonyl-CoA)	621,915,4
+C00100 (Propanoyl-CoA)	621,756,4
+C03344 (2-Methylacetoacetyl-CoA)	621,668,4
+C03345 (2-Methylbut-2-enoyl-CoA)	621,527,4
+C05996 (Branched chain fatty acid)	301,435,4
+C00630 (2-Methylpropanoyl-CoA)	444,435,4
+C03460 (2-Methylprop-2-enoyl-CoA)	444,527,4
+C06000 ((S)-3-Hydroxyisobutyryl-CoA)	444,604,4
+C06001 ((S)-3-Hydroxyisobutyrate)	444,668,4
+C00183 (L-Valine)	444,163,4
+C00141 (3-Methyl-2-oxobutanoic acid)	444,229,4
+C15977 ([Dihydrolipoyllysine-residue (2-methylpropanoyl)transferase] S-(2-methylpropanoyl)dihydrolipoyllysine)	444,367,4
+C00407 (L-Isoleucine)	621,163,4
+C00671 ((S)-3-Methyl-2-oxopentanoic acid)	621,229,4
+C15979 ([Dihydrolipoyllysine-residue (2-methylpropanoyl)transferase] S-(2-methylbutanoyl)dihydrolipoyllysine)	621,367,4
+C15980 ((S)-2-Methylbutanoyl-CoA)	621,435,4
+C04405 ((2S,3S)-3-Hydroxy-2-methylbutanoyl-CoA)	621,604,4
+C20827 (3-Hydroxyisovalerate)	76,585,4
+C01205 ((R)-3-Amino-2-methylpropanoate)	330,792,4
+554124 (bckdha)	599,316,645,333
+569980 (bckdhb)	599,316,645,333
+399479 (dldh)	562,353,608,370
+399479 (dldh)	384,353,430,370
+554124 (bckdha)	421,316,467,333
+569980 (bckdhb)	421,316,467,333
+399479 (dldh)	107,353,153,370
+554124 (bckdha)	144,316,190,333
+569980 (bckdhb)	144,316,190,333
+30643 (acat2)	157,742,203,759
+445290 (acat1)	157,742,203,759
+394060 (hmgcs1)	27,703,73,720
+442923 (oxct1a)	78,709,124,726
+560273 (oxct1b)	78,709,124,726
+394190 (hmgcl)	144,660,190,677
+571388 (hmgcll1)	144,660,190,677
+445182 (auh)	144,608,190,625
+100004018 (si:ch211-198n5.11)	144,545,190,562
+405863 (mccc2)	144,545,190,562
+777632 (mccc1)	144,545,190,562
+100000859 (ehhadh)	99,519,145,536
+368912 (echs1)	99,519,145,536
+553401 (hadhaa)	99,519,145,536
+793834 (hadhab)	99,519,145,536
+368775 (ivd)	144,468,190,485
+554124 (bckdha)	599,252,645,269
+569980 (bckdhb)	599,252,645,269
+337412 (bcat1)	421,185,467,202
+436949 (bcat2)	421,185,467,202
+336606 (hadhb)	599,694,645,711
+406325 (acaa2)	599,694,645,711
+431754 (acaa1)	599,694,645,711
+100000859 (ehhadh)	446,694,492,711
+445121 (hadh)	446,694,492,711
+100000859 (ehhadh)	599,555,645,572
+368912 (echs1)	599,555,645,572
+553401 (hadhaa)	599,555,645,572
+793834 (hadhab)	599,555,645,572
+100037342 (acadsb)	446,468,492,485
+541388 (dbt)	599,390,645,407
+554124 (bckdha)	421,252,467,269
+569980 (bckdhb)	421,252,467,269
+337412 (bcat1)	598,185,644,202
+436949 (bcat2)	598,185,644,202
+337166 (si:dkey-40g16.6)	548,185,594,202
+569581 (mut)	327,907,373,924
+553804 (mcee)	508,907,554,924
+405861 (pccb)	599,821,645,838
+437019 (pcca)	599,821,645,838
+570457 (aox6)	446,806,492,823
+64265 (aox5)	446,806,492,823
+100000026 (aldh3a1)	396,806,442,823
+100005587 (aldh9a1a.1)	396,806,442,823
+100536795 (wu:fb14d09)	396,806,442,823
+323653 (aldh3a2a)	396,806,442,823
+334197 (aldh7a1)	396,806,442,823
+368239 (aldh2.2)	396,806,442,823
+393462 (aldh2.1)	396,806,442,823
+399481 (aldh9a1b)	396,806,442,823
+447920 (aldh3a2b)	396,806,442,823
+492710 (aldh16a1)	396,806,442,823
+436647 (aldh6a1)	508,748,554,765
+378968 (abat)	366,758,412,775
+100000859 (ehhadh)	574,627,620,644
+445121 (hadh)	574,627,620,644
+450078 (hsd17b10)	574,627,620,644
+394135 (hibadhb)	396,694,442,711
+798364 (hibch)	421,627,467,644
+450078 (hsd17b10)	624,627,670,644
+100000859 (ehhadh)	421,555,467,572
+368912 (echs1)	421,555,467,572
+553401 (hadhaa)	421,555,467,572
+793834 (hadhab)	421,555,467,572
+406283 (acadm)	346,468,392,485
+100037342 (acadsb)	624,468,670,485
+541388 (dbt)	421,390,467,407
+554124 (bckdha)	144,252,190,269
+569980 (bckdhb)	144,252,190,269
+541388 (dbt)	144,390,190,407
+337412 (bcat1)	119,185,165,202
+436949 (bcat2)	119,185,165,202
+406283 (acadm)	194,468,240,485
+406283 (acadm)	674,468,720,485
+445288 (acads)	396,468,442,485
+445288 (acads)	574,468,620,485
+394130 (acad8)	421,487,467,504
+562292 (acsf3)	421,872,467,889
+393984 (aacs)	128,709,174,726
+619269 (agxt2)	366,784,412,801
+map00522: Biosynthesis of 12-	670,897,821,931
+14- and 16-membered macrolides	670,897,821,931
+map01056: Biosynthesis of type II polyketide backbone	694,935,821,969
+dre00280: Valine	198,35,585,60
+leucine and isoleucine degradation	198,35,585,60
+dre00020: Citrate cycle (TCA cycle)	209,840,285,865
+dre00240: Pyrimidine metabolism	294,831,366,865
+dre00640: Propanoate metabolism	506,779,579,813
+dre00290: Valine	299,88,426,122
+leucine and isoleucine biosynthesis	299,88,426,122
+dre00900: Terpenoid backbone biosynthesis	245,632,359,666

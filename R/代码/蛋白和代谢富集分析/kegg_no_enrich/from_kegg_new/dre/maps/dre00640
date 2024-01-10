@@ -1,0 +1,109 @@
+C00222 (3-Oxopropanoate)	225,327,4
+C00804 (Propynoate)	222,449,4
+C01013 (3-Hydroxypropanoate)	324,327,4
+C00099 (beta-Alanine)	325,388,4
+C00083 (Malonyl-CoA)	222,228,4
+C00109 (2-Oxobutanoate)	806,105,4
+C02876 (Propanoyl phosphate)	911,105,4
+C00163 (Propanoate)	1026,105,4
+C00186 ((S)-Lactate)	523,157,4
+C00827 (Lactoyl-CoA)	523,228,4
+C00100 (Propanoyl-CoA)	806,324,4
+C00683 ((S)-Methylmalonyl-CoA)	807,454,4
+C02170 (Methylmalonate)	897,454,4
+C02335 (beta-Alanyl-CoA)	419,388,4
+C05668 (3-Hydroxypropionyl-CoA)	418,327,4
+C05984 (2-Hydroxybutanoic acid)	684,63,4
+C05989 (3-Oxopropionyl-CoA)	418,228,4
+C05983 (Propionyladenylate)	1026,179,4
+C01213 ((R)-Methylmalonyl-CoA)	807,538,4
+C04225 ((Z)-But-2-ene-1,2,3-tricarboxylate)	1041,532,4
+C00091 (Succinyl-CoA)	807,619,4
+C02225 (2-Methylcitrate)	1041,433,4
+C00042 (Succinate)	918,619,4
+C04593 ((2S,3R)-3-Hydroxybutane-1,2,3-tricarboxylate)	1041,619,4
+C00024 (Acetyl-CoA)	90,227,4
+C00132 (Methanol)	86,649,4
+C01845 (Propan-2-ol)	180,520,4
+C00207 (Acetone)	86,520,4
+C00164 (Acetoacetate)	86,454,4
+C00332 (Acetoacetyl-CoA)	86,379,4
+C20783 (Propane)	180,454,4
+C17530 (Methyl acetate)	86,585,4
+C00033 (Acetate)	134,631,4
+C05979 (Propane-1-ol)	637,581,4
+C00479 (Propanal)	637,468,4
+C00111 (Glycerone phosphate)	291,581,4
+C00583 (Propane-1,2-diol)	499,468,4
+C00424 ((S)-Lactaldehyde)	499,581,4
+C05235 (Hydroxyacetone)	396,468,4
+C00546 (Methylglyoxal)	396,581,4
+C06002 ((S)-Methylmalonate semialdehyde)	950,454,4
+C15973 (Enzyme N6-(dihydrolipoyl)lysine)	768,271,4
+C15972 (Enzyme N6-(lipoyl)lysine)	768,206,4
+C21017 (2-(alpha-Hydroxypropyl)thiamine diphosphate)	806,177,4
+C00068 (Thiamin diphosphate)	844,160,4
+C21018 (Enzyme N6-(S-propyldihydrolipoyl)lysine)	806,249,4
+C21250 (2-Methyl-trans-aconitate)	1127,532,4
+C00894 (Propenoyl-CoA)	523,327,4
+436647 (aldh6a1)	136,316,182,333
+556236 (acacb)	136,243,182,260
+559403 (acaca)	136,243,182,260
+100037349 (mlycd)	136,195,182,212
+378968 (abat)	253,369,299,386
+798364 (hibch)	354,318,400,335
+436647 (aldh6a1)	928,400,974,417
+553804 (mcee)	784,485,830,502
+405861 (pccb)	698,381,744,398
+437019 (pcca)	698,381,744,398
+553585 (echdc1)	808,381,854,398
+566019 (acss3)	1028,220,1074,237
+566019 (acss3)	1028,134,1074,151
+436914 (acss2)	978,220,1024,237
+541435 (acss1)	978,220,1024,237
+560020 (acss2l)	978,220,1024,237
+436914 (acss2)	978,134,1024,151
+541435 (acss1)	978,134,1024,151
+560020 (acss2l)	978,134,1024,151
+30496 (ldha)	720,55,766,72
+30497 (ldhba)	720,55,766,72
+436747 (ldhbb)	720,55,766,72
+100000859 (ehhadh)	445,308,491,325
+368912 (echs1)	445,308,491,325
+553401 (hadhaa)	445,308,491,325
+793834 (hadhab)	445,308,491,325
+445288 (acads)	570,308,616,325
+569581 (mut)	784,568,830,585
+317746 (suclg2)	842,621,888,638
+406299 (sucla2)	842,621,888,638
+436850 (suclg1)	842,621,888,638
+317746 (suclg2)	842,600,888,617
+406299 (sucla2)	842,600,888,617
+436850 (suclg1)	842,600,888,617
+30643 (acat2)	64,331,110,348
+445290 (acat1)	64,331,110,348
+399479 (dldh)	746,232,792,249
+554124 (bckdha)	783,200,829,217
+569980 (bckdhb)	783,200,829,217
+554124 (bckdha)	783,129,829,146
+569980 (bckdhb)	783,129,829,146
+541388 (dbt)	783,266,829,283
+406421 (acox3)	570,329,616,346
+449662 (acox1)	570,329,616,346
+dre00640: Propanoate metabolism	40,45,240,70
+dre00770: Pantothenate and CoA biosynthesis	270,432,372,466
+dre00010: Glycolysis / Gluconeogenesis	411,144,478,169
+dre00280: Valine	1075,311,1200,336
+leucine and isoleucine degradation	1075,311,1200,336
+map00660: C5-Branched dibasic acid metabolism	1075,242,1206,276
+dre00410: beta-Alanine metabolism	1075,281,1200,306
+dre00270: Cysteine and methionine metabolism	852,13,988,47
+map00641: 3-Chloroacrylic acid degradation	33,138,152,172
+dre00620: Pyruvate metabolism	193,159,263,193
+dre00010: Glycolysis / Gluconeogenesis	260,511,328,536
+dre00020: Citrate cycle (TCA cycle)	771,660,844,685
+dre00620: Pyruvate metabolism	859,660,977,685
+dre00280: Valine	844,479,919,513
+leucine and isoleucine degradation	844,479,919,513
+dre00260: Glycine	852,52,998,77
+serine and threonine metabolism	852,52,998,77

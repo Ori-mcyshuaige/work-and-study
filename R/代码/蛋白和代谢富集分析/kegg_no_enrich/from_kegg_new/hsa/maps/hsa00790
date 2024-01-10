@@ -1,0 +1,109 @@
+C11355 (4-Amino-4-deoxychorismate)	371,555,4
+C00251 (Chorismate)	371,619,4
+C00044 (GTP)	188,278,4
+C04895 (7,8-Dihydroneopterin 3'-triphosphate)	547,142,4
+C03684 (6-Pyruvoyltetrahydropterin)	1125,208,4
+C04244 (6-Lactoyl-5,6,7,8-tetrahydropterin)	1063,277,4
+C00272 (Tetrahydrobiopterin)	1125,345,4
+C00268 (Dihydrobiopterin)	1125,431,4
+C04874 (7,8-Dihydroneopterin)	547,278,4
+C00266 (Glycolaldehyde)	610,337,4
+C01300 (6-(Hydroxymethyl)-7,8-dihydropterin)	547,361,4
+C04807 (6-Hydroxymethyl-7,8-dihydropterin diphosphate)	547,465,4
+C00921 (Dihydropteroate)	547,567,4
+C00568 (4-Aminobenzoate)	371,491,4
+C00415 (Dihydrofolate)	547,648,4
+C00504 (Folate)	455,648,4
+C00101 (Tetrahydrofolate)	547,735,4
+C09332 (THF-L-glutamate)	547,821,4
+C03541 (THF-polyglutamate)	547,908,4
+C05927 (7,8-Dihydromethanopterin)	893,648,4
+C05926 (Neopterin)	720,304,4
+C05925 (Dihydroneopterin phosphate)	411,219,4
+C05924 (Molybdopterin)	188,484,4
+C05923 (2,5-Diaminopyrimidine nucleoside triphosphate)	156,142,4
+C05922 (Formamidopyrimidine nucleoside triphosphate)	156,212,4
+C01217 (5,6,7,8-Tetrahydromethanopterin)	893,735,4
+C06148 (2,5-Diamino-6-(5'-triphosphoryl-3',4'-trihydroxy-2'-oxopentyl)-amino-4-oxopyrimidine)	321,142,4
+C18239 (Precursor Z)	188,416,4
+C20239 (6-Carboxy-5,6,7,8-tetrahydropterin)	660,79,4
+C20248 (7-Carboxy-7-carbaguanine)	753,79,4
+C15996 (7-Cyano-7-carbaguanine)	846,79,4
+C16675 (7-Aminomethyl-7-carbaguanine)	938,79,4
+C18802 (Tetrahydrosarcinapterin)	893,821,4
+C02587 (Pyrimidodiazepine)	1237,205,4
+C21310 ((8S)-3',8-Cyclo-7,8-dihydroguanosine 5'-triphosphate)	188,347,4
+C19848 (Adenylated molybdopterin)	188,552,4
+C18237 (Molybdoenzyme molybdenum cofactor)	188,621,4
+C19871 (Guanylyl molybdenum cofactor)	188,707,4
+C21485 (Cytidylyl molybdenum cofactor)	128,707,4
+C21486 (Thio-molybdenum cofactor)	281,621,4
+C21094 (7,8-Dihydromonapterin 3'-triphosphate)	659,150,4
+C20264 (L-threo-Tetrahydrobiopterin)	873,350,4
+C15522 (4a-Hydroxytetrahydrobiopterin)	1125,514,4
+C20567 (7,8-Dihydroneopterin 2',3'-cyclic phosphate)	321,278,4
+C20566 (7,8-Dihydroneopterin 2'-phosphate)	434,278,4
+C21065 (7,8-Dihydroxanthopterin)	660,278,4
+C20562 (N-[(7,8-Dihydropterin-6-yl)methyl]-4-(beta-D-ribofuranosyl)aniline 5'-phosphate)	758,465,4
+C21107 (4-(beta-D-Ribofuranosyl)phenol 5'-phosphate)	671,562,4
+C00156 (4-Hydroxybenzoate)	781,562,4
+C00119 (5-Phospho-alpha-D-ribose 1-diphosphate)	762,535,4
+C21008 (7,8-Dihydromonapterin)	659,219,4
+C21007 (5,6,7,8-Tetrahydromonapterin)	772,219,4
+C01304 (2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one)	282,212,4
+C00835 (Sepiapterin)	955,277,4
+C02953 (7,8-Dihydrobiopterin)	955,350,4
+C21640 (6-(1'-Hydroxy-2'-oxopropyl)-tetrahydropterin)	1186,277,4
+C20559 (4-(beta-D-Ribofuranosyl)aniline 5'-phosphate)	671,496,4
+2356 (FPGS)	524,858,570,875
+2356 (FPGS)	524,772,570,789
+1719 (DHFR)	524,685,570,702
+200895 (DHFR2)	524,685,570,702
+1719 (DHFR)	478,640,524,657
+200895 (DHFR2)	478,640,524,657
+5860 (QDPR)	1103,382,1149,399
+2643 (GCH1)	353,134,399,151
+2643 (GCH1)	208,134,254,151
+2643 (GCH1)	133,172,179,189
+1719 (DHFR)	478,727,524,744
+200895 (DHFR2)	478,727,524,744
+2356 (FPGS)	499,600,545,617
+8836 (GGH)	582,808,628,825
+248 (ALPI)	525,180,571,197
+249 (ALPL)	525,180,571,197
+250 (ALPP)	525,180,571,197
+251 (ALPG)	525,180,571,197
+5805 (PTS)	1103,158,1149,175
+4337 (MOCS1)	165,300,211,317
+4338 (MOCS2)	165,438,211,455
+5805 (PTS)	581,71,627,88
+4337 (MOCS1)	165,370,211,387
+10243 (GPHN)	165,507,211,524
+10243 (GPHN)	165,574,211,591
+55034 (MOCOS)	209,613,255,630
+5092 (PCBD1)	1103,465,1149,482
+84105 (PCBD2)	1103,465,1149,482
+5053 (PAH)	1187,382,1233,399
+7054 (TH)	1237,382,1283,399
+121278 (TPH2)	1213,401,1259,418
+7166 (TPH1)	1213,401,1259,418
+6697 (SPR)	1103,270,1149,287
+2643 (GCH1)	134,243,180,260
+6697 (SPR)	1041,306,1087,323
+6697 (SPR)	957,306,1003,323
+1719 (DHFR)	994,342,1040,359
+200895 (DHFR2)	994,342,1040,359
+231 (AKR1B1)	1065,233,1111,250
+57016 (AKR1B10)	1065,233,1111,250
+873 (CBR1)	1015,233,1061,250
+8644 (AKR1C3)	1164,233,1210,250
+231 (AKR1B1)	1164,306,1210,323
+57016 (AKR1B10)	1164,306,1210,323
+873 (CBR1)	907,306,953,323
+hsa00790: Folate biosynthesis	40,45,225,70
+hsa00670: One carbon pool by folate	652,631,750,665
+hsa00230: Purine metabolism	60,265,135,299
+map00680: Methane metabolism	766,719,842,753
+hsa00400: Phenylalanine	325,652,418,686
+tyrosine and tryptophan biosynthesis	325,652,418,686
+map00362: Benzoate degradation	752,596,825,630

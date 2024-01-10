@@ -1,0 +1,106 @@
+C00122 (Fumarate)	285,530,4
+C00042 (Succinate)	284,587,4
+C00036 (Oxaloacetate)	748,528,4
+C00026 (2-Oxoglutarate)	680,587,4
+C00041 (L-Alanine)	143,302,4
+C00049 (L-Aspartate)	496,306,4
+C00152 (L-Asparagine)	749,306,4
+C00402 (D-Aspartate)	616,455,4
+C02362 (2-Oxosuccinamate)	752,411,4
+C01042 (N-Acetyl-L-aspartate)	680,210,4
+C03794 (N6-(1,2-Dicarboxyethyl)-AMP)	359,395,4
+C03406 (N-(L-Arginino)succinate)	416,395,4
+C00022 (Pyruvate)	143,528,4
+C00438 (N-Carbamoyl-L-aspartate)	680,149,4
+C00232 (Succinate semialdehyde)	284,718,4
+C00025 (L-Glutamate)	680,715,4
+C00334 (4-Aminobutanoate)	416,718,4
+C00064 (L-Glutamine)	848,715,4
+C00014 (Ammonia)	709,831,4
+C00169 (Carbamoyl phosphate)	848,831,4
+C00940 (2-Oxoglutaramate)	848,587,4
+C03912 ((S)-1-Pyrroline-5-carboxylate)	677,877,4
+C00352 (D-Glucosamine 6-phosphate)	948,670,4
+C03090 (5-Phosphoribosylamine)	948,770,4
+C00014 (Ammonia)	532,612,4
+C12270 (N-Acetylaspartylglutamate)	811,210,4
+C20776 (N-Acetylaspartylglutamylglutamate)	942,210,4
+C00158 (Citrate)	759,558,4
+C20775 (beta-Citryl-L-glutamate)	891,558,4
+402904 (nit2)	729,431,775,448
+394138 (asns)	624,264,670,281
+541402 (asrgl1)	624,354,670,371
+570552 (si:dkey-103j14.5)	624,354,670,371
+795494 (si:ch211-256m1.8)	624,354,670,371
+564754 (nat8l)	558,201,604,218
+337166 (si:dkey-40g16.6)	585,477,631,494
+335974 (got2b)	585,519,631,536
+406330 (got1)	585,519,631,536
+406688 (got2a)	585,519,631,536
+565385 (zgc:172341)	655,436,701,453
+447864 (ass1)	392,339,438,356
+192305 (adssl)	335,339,381,356
+407989 (adssl1)	335,339,381,356
+550502 (adss)	335,339,381,356
+393423 (asl)	393,433,439,450
+334431 (adsl)	336,433,382,450
+436603 (agxta)	120,386,166,403
+619269 (agxt2)	120,386,166,403
+79378 (agxtb)	120,386,166,403
+100148522 (si:ch211-217a12.1)	32,417,78,434
+403086 (gpt2l)	32,417,78,434
+799963 (gpt2)	32,417,78,434
+266992 (cad)	558,140,604,157
+565235 (aldh5a1)	286,652,332,669
+317737 (glud1a)	528,663,574,680
+373092 (glud1b)	528,663,574,680
+378968 (abat)	329,699,375,716
+100038790 (zgc:163121)	519,710,565,727
+100329827 (gad1a)	519,710,565,727
+378441 (gad1b)	519,710,565,727
+550403 (gad2)	519,710,565,727
+100000775 (glula)	740,707,786,724
+336473 (glulb)	740,707,786,724
+566165 (glulc)	740,707,786,724
+564147 (glsa)	740,749,786,766
+564746 (glsb)	740,749,786,766
+266992 (cad)	825,785,871,802
+555623 (cps1)	755,824,801,841
+402904 (nit2)	755,568,801,585
+394133 (aldh4a1)	653,784,699,801
+567861 (gfpt1)	874,662,920,679
+569945 (gfpt2)	874,662,920,679
+572027 (ppat)	873,761,919,778
+557232 (aspa)	558,232,604,249
+447815 (rimkla)	722,191,768,208
+447815 (rimkla)	808,549,854,566
+dre00020: Citrate cycle (TCA cycle)	274,541,748,575
+map00473: D-Alanine metabolism	81,214,209,239
+dre00240: Pyrimidine metabolism	760,137,886,162
+dre00010: Glycolysis / Gluconeogenesis	90,580,194,614
+dre00340: Histidine metabolism	545,388,671,413
+map00460: Cyanoamino acid metabolism	257,92,415,117
+dre00220: Arginine biosynthesis	532,91,614,125
+map00300: Lysine biosynthesis	302,148,415,173
+dre00410: beta-Alanine metabolism	293,204,415,229
+dre00260: Glycine	271,232,415,257
+serine and threonine metabolism	271,232,415,257
+dre00760: Nicotinate and nicotinamide metabolism	215,120,415,145
+dre00770: Pantothenate and CoA biosynthesis	231,260,415,285
+map00530: Aminosugars metabolism	1004,653,1087,687
+dre00230: Purine metabolism	1004,757,1108,782
+dre00240: Pyrimidine metabolism	917,818,1046,843
+dre00330: Arginine and proline metabolism	722,923,895,948
+dre00340: Histidine metabolism	469,736,590,761
+dre00910: Nitrogen metabolism	469,764,590,789
+dre00471: D-Glutamine and D-glutamate metabolism	440,792,590,817
+dre00480: Glutathione metabolism	458,820,589,845
+dre00860: Porphyrin and chlorophyll metabolism	459,848,590,873
+map00460: Cyanoamino acid metabolism	434,876,590,901
+dre00650: Butanoate metabolism	468,904,590,929
+map00660: C5-Branched dibasic acid metabolism	393,932,591,957
+dre00250: Alanine	40,45,459,70
+aspartate and glutamate metabolism	40,45,459,70
+dre00630: Glyoxylate and dicarboxylate metabolism	376,960,591,985
+map00261: Monobactam biosynthesis	274,176,415,201
+dre00220: Arginine biosynthesis	788,875,912,900

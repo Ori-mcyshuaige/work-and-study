@@ -1,0 +1,68 @@
+C00058 (Formate)	713,158,4
+C00488 (Formamide)	640,102,4
+C00014 (Ammonia)	640,276,4
+C00192 (Hydroxylamine)	499,356,4
+C06058 (Nitroalkane)	332,402,4
+C00887 (Nitrous oxide)	441,161,4
+C00533 (Nitric oxide)	332,161,4
+C00088 (Nitrite)	332,276,4
+C00244 (Nitrate)	168,276,4
+C00726 (Nitrile)	640,402,4
+C01417 (Cyanate)	915,215,4
+C01563 (Carbamate)	803,215,4
+C00288 (HCO3-)	902,188,4
+C00011 (CO2)	761,188,4
+C00169 (Carbamoyl phosphate)	803,276,4
+C00244 (Nitrate)	50,276,4
+C00088 (Nitrite)	50,340,4
+C00064 (L-Glutamine)	739,356,4
+C00025 (L-Glutamate)	890,356,4
+C00244 (Nitrate)	166,515,4
+C00088 (Nitrite)	278,515,4
+C00014 (Ammonia)	950,515,4
+C00244 (Nitrate)	166,582,4
+C00088 (Nitrite)	278,582,4
+C00244 (Nitrate)	166,649,4
+C00088 (Nitrite)	278,649,4
+C00697 (Nitrogen)	614,649,4
+C00887 (Nitrous oxide)	502,649,4
+C00533 (Nitric oxide)	390,649,4
+C00697 (Nitrogen)	614,713,4
+C00014 (Ammonia)	950,713,4
+C00014 (Ammonia)	950,776,4
+C00088 (Nitrite)	278,776,4
+C00244 (Nitrate)	166,776,4
+C00014 (Ammonia)	950,582,4
+C00192 (Hydroxylamine)	726,776,4
+C00014 (Ammonia)	950,837,4
+C00697 (Nitrogen)	614,837,4
+C00088 (Nitrite)	278,875,4
+C05361 (Hydrazine)	838,837,4
+C00533 (Nitric oxide)	390,875,4
+C00697 (Nitrogen)	550,161,4
+C05361 (Hydrazine)	550,226,4
+12319 (Car8)	808,180,854,197
+12346 (Car1)	808,180,854,197
+12349 (Car2)	808,180,854,197
+12350 (Car3)	808,180,854,197
+12351 (Car4)	808,180,854,197
+12352 (Car5a)	808,180,854,197
+12353 (Car6)	808,180,854,197
+12354 (Car7)	808,180,854,197
+230099 (Car9)	808,180,854,197
+23831 (Car14)	808,180,854,197
+56078 (Car5b)	808,180,854,197
+71934 (Car13)	808,180,854,197
+76459 (Car12)	808,180,854,197
+80733 (Car15)	808,180,854,197
+227231 (Cps1)	707,268,753,285
+14645 (Glul)	665,348,711,365
+14661 (Glud1)	690,315,736,332
+map00720: Carbon fixation pathways in prokaryotes	180,187,321,221
+map00460: Cyanoamino acid metabolism	465,83,569,117
+mmu00910: Nitrogen metabolism	40,45,226,70
+map00680: Methane metabolism	793,112,912,137
+mmu00630: Glyoxylate and dicarboxylate metabolism	793,145,924,170
+mmu00220: Arginine biosynthesis	889,264,1014,289
+mmu00250: Alanine	946,339,1023,373
+aspartate and glutamate metabolism	946,339,1023,373

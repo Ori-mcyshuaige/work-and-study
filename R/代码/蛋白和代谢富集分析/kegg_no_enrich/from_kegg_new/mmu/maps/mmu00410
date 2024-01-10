@@ -1,0 +1,77 @@
+C00429 (5,6-Dihydrouracil)	174,260,4
+C02642 (3-Ureidopropionate)	276,260,4
+C00099 (beta-Alanine)	402,292,4
+C00083 (Malonyl-CoA)	95,569,4
+C00024 (Acetyl-CoA)	203,569,4
+C00383 (Malonate)	95,648,4
+C05669 (beta-Nitropropanoate)	569,63,4
+C05670 (3-Aminopropiononitrile)	569,84,4
+C01073 (N-Acetyl-beta-alanine)	569,105,4
+C05665 (3-Aminopropanal)	519,292,4
+C00986 (1,3-Diaminopropane)	634,292,4
+C00315 (Spermidine)	749,292,4
+C00049 (L-Aspartate)	749,139,4
+C00750 (Spermine)	864,292,4
+C00864 (Pantothenate)	354,599,4
+C00222 (3-Oxopropanoate)	314,641,4
+C01013 (3-Hydroxypropanoate)	462,641,4
+C05668 (3-Hydroxypropionyl-CoA)	593,641,4
+C00894 (Propenoyl-CoA)	724,641,4
+C00100 (Propanoyl-CoA)	855,641,4
+C02335 (beta-Alanyl-CoA)	724,714,4
+C00386 (Carnosine)	634,366,4
+C00135 (L-Histidine)	481,340,4
+C05340 (beta-Alanyl-L-arginine)	749,427,4
+C05341 (beta-Alanyl-L-lysine)	634,479,4
+C03722 (Quinolinate)	749,532,4
+C00804 (Propynoate)	314,714,4
+C00555 (4-Aminobutyraldehyde)	659,333,4
+C00334 (4-Aminobutanoate)	749,333,4
+C01262 (beta-Alanyl-N(pi)-methyl-L-histidine)	749,185,4
+C00106 (Uracil)	71,260,4
+C03492 (D-4'-Phosphopantothenate)	384,582,4
+11409 (Acads)	768,622,814,639
+74147 (Ehhadh)	636,622,682,639
+93747 (Echs1)	636,622,682,639
+97212 (Hadha)	636,622,682,639
+227095 (Hibch)	505,633,551,650
+56690 (Mlycd)	122,561,168,578
+104776 (Aldh6a1)	180,602,226,619
+268860 (Abat)	193,423,239,440
+107239 (Carns1)	498,419,544,436
+14415 (Gad1)	554,141,600,158
+14417 (Gad2)	554,141,600,158
+73748 (Gadl1)	554,120,600,137
+11754 (Aoc3)	554,284,600,301
+237940 (Aoc2)	554,284,600,301
+110695 (Aldh7a1)	444,273,490,290
+11669 (Aldh2)	444,273,490,290
+11671 (Aldh3a2)	444,273,490,290
+56752 (Aldh9a1)	444,273,490,290
+72535 (Aldh1b1)	444,273,490,290
+103149 (Upb1)	317,252,363,269
+64705 (Dpys)	201,252,247,269
+99586 (Dpyd)	100,262,146,279
+107239 (Carns1)	498,393,544,410
+107239 (Carns1)	498,445,544,462
+338403 (Cndp1)	498,368,544,385
+107239 (Carns1)	554,210,600,227
+338403 (Cndp1)	554,187,600,204
+11670 (Aldh3a1)	444,294,490,311
+56847 (Aldh1a3)	444,294,490,311
+621603 (Aldh3b2)	444,294,490,311
+67689 (Aldh3b1)	444,294,490,311
+73458 (Aldh3b3)	444,294,490,311
+66054 (Cndp2)	498,347,544,364
+228608 (Smox)	790,273,836,290
+11430 (Acox1)	768,643,814,660
+80911 (Acox3)	768,643,814,660
+mmu00410: beta-Alanine metabolism	40,45,235,70
+mmu00640: Propanoate metabolism	819,689,893,723
+mmu00061: Fatty acid biosynthesis	55,478,136,512
+mmu00770: Pantothenate and CoA biosynthesis	488,582,591,616
+mmu00240: Pyrimidine metabolism	35,310,109,344
+mmu00330: Arginine and proline metabolism	913,274,1032,308
+map00460: Cyanoamino acid metabolism	700,42,800,76
+mmu00250: Alanine	806,122,932,156
+aspartate and glutamate metabolism	806,122,932,156

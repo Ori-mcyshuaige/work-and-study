@@ -1,0 +1,108 @@
+C01673 (Calcitriol)	88,1015,4
+C01561 (Calcidiol)	88,960,4
+C01902 (Cycloartenol)	668,354,4
+C05442 (Stigmasterol)	834,1154,4
+C15776 (4alpha-Methylfecosterol)	668,754,4
+C11508 (4alpha-Methyl-5alpha-ergosta-8,14,24(28)-trien-3beta-ol)	668,704,4
+C01802 (Desmosterol)	372,954,4
+C01789 (Campesterol)	669,1104,4
+C15781 (24-Methylenecholesterol)	668,1054,4
+C05107 (7-Dehydrodesmosterol)	372,904,4
+C15780 (5-Dehydroepisterol)	668,1004,4
+C15783 (5-Dehydroavenasterol)	834,1004,4
+C01753 (beta-Sitosterol)	834,1104,4
+C08830 (24-Methylidenecycloartanol)	668,454,4
+C08821 (Isofucosterol)	834,1054,4
+C15782 (Delta7-Avenasterol)	834,954,4
+C02141 (Cycloeucalenol)	668,604,4
+C01943 (Obtusifoliol)	668,654,4
+C11523 (24-Ethylidenelophenol)	834,804,4
+C01054 ((S)-2,3-Epoxysqualene)	372,288,4
+C01724 (Lanosterol)	372,354,4
+C05109 (24,25-Dihydrolanosterol)	237,353,4
+C04525 (Fecosterol)	526,804,4
+C11455 (4,4-Dimethyl-5alpha-cholesta-8,14,24-trien-3beta-ol)	372,404,4
+C15915 (4,4-Dimethyl-5alpha-cholesta-8-en-3beta-ol)	238,454,4
+C05108 (14-Demethyllanosterol)	372,454,4
+C15777 (Episterol)	526,854,4
+C15808 (4alpha-Methylzymosterol-4-carboxylate)	372,504,4
+C15778 (5,7,24(28)-Ergostatrienol)	526,904,4
+C15816 (3-Keto-4-methylzymosterol)	372,554,4
+C01189 (Lathosterol)	237,854,4
+C01164 (7-Dehydrocholesterol)	237,904,4
+C05443 (Vitamin D3)	88,904,4
+C05103 (4alpha-Methylzymosterol)	372,604,4
+C05437 (Zymosterol)	372,804,4
+C05440 (Ergosta-5,7,22,24(28)-tetraen-3beta-ol)	526,954,4
+C01694 (Ergosterol)	526,1004,4
+C03845 (5alpha-Cholest-8-en-3beta-ol)	237,804,4
+C11522 (24-Methylenelophenol)	668,804,4
+C05441 (Vitamin D2)	526,1057,4
+C05439 (5alpha-Cholesta-7,24-dien-3beta-ol)	372,854,4
+C15777 (Episterol)	668,954,4
+C00187 (Cholesterol)	237,954,4
+C02530 (Cholesterol ester)	151,954,4
+C18231 (Calcitetrol)	88,1070,4
+C07712 (Secalciferol)	144,1070,4
+C00448 (trans,trans-Farnesyl diphosphate)	372,109,4
+C03428 (Presqualene diphosphate)	372,169,4
+C00751 (Squalene)	372,228,4
+C21106 (24-epi-Campesterol)	748,1104,4
+C08813 (Brassicasterol)	748,1154,4
+C22116 (3beta-Hydroxy-4beta,14alpha-dimethyl-9beta,19-cyclo-5alpha-ergost-24(24(1))-en-4alpha-carboxylate)	668,504,4
+C22119 (3beta-Hydroxyergosta-7,24(24(1))-dien-4alpha-carboxylate)	668,854,4
+C22120 (4alpha-Carboxy-stigmasta-7,24(24(1))-dien-3beta-ol)	834,854,4
+C22121 (Cycloeucalenone)	668,554,4
+C22122 (Episterone)	668,904,4
+C22123 (Avenastenone)	834,904,4
+C22112 (4alpha-Carboxy-5alpha-cholesta-8,24-dien-3beta-ol)	372,654,4
+C22136 (Zymosterone)	372,704,4
+6309 (SC5D)	812,966,858,983
+10682 (EBP)	350,816,396,833
+1717 (DHCR7)	215,915,261,932
+6309 (SC5D)	215,866,261,883
+10682 (EBP)	215,816,261,833
+6309 (SC5D)	505,866,551,883
+1718 (DHCR24)	647,1066,693,1083
+1717 (DHCR7)	645,1017,691,1034
+6309 (SC5D)	645,966,691,983
+1718 (DHCR24)	283,946,329,963
+1718 (DHCR24)	283,896,329,913
+1718 (DHCR24)	283,845,329,862
+1718 (DHCR24)	283,796,329,813
+1718 (DHCR24)	283,446,329,463
+1718 (DHCR24)	812,1066,858,1083
+1595 (CYP51A1)	646,666,692,683
+7108 (TM7SF2)	645,716,691,733
+1717 (DHCR7)	812,1017,858,1034
+4047 (LSS)	349,308,395,325
+3930 (LBR)	350,416,396,433
+7108 (TM7SF2)	350,416,396,433
+10682 (EBP)	645,766,691,783
+50814 (NSDHL)	350,516,396,533
+1718 (DHCR24)	283,345,329,362
+6307 (MSMO1)	350,466,396,483
+1595 (CYP51A1)	323,366,369,383
+51478 (HSD17B7)	350,566,396,583
+1056 (CEL)	172,943,218,960
+3988 (LIPA)	172,943,218,960
+6646 (SOAT1)	172,965,218,982
+8435 (SOAT2)	172,965,218,982
+120227 (CYP2R1)	40,915,86,932
+1594 (CYP27B1)	40,973,86,990
+1591 (CYP24A1)	65,1029,111,1046
+1591 (CYP24A1)	121,1029,167,1046
+2222 (FDFT1)	349,128,395,145
+2222 (FDFT1)	349,186,395,203
+6713 (SQLE)	324,247,370,264
+1718 (DHCR24)	725,1066,771,1083
+1595 (CYP51A1)	375,366,421,383
+6307 (MSMO1)	350,616,396,633
+50814 (NSDHL)	350,666,396,683
+51478 (HSD17B7)	350,736,396,753
+map00905: Brassinosteroid biosynthesis	621,1180,716,1214
+hsa00100: Steroid biosynthesis	40,45,220,70
+hsa00120: Primary bile acid biosynthesis	186,1041,288,1075
+hsa00140: Steroid hormone biosynthesis	303,977,462,1002
+map00984: Steroid degradation	303,1007,414,1032
+hsa00900: Terpenoid backbone biosynthesis	313,42,432,76

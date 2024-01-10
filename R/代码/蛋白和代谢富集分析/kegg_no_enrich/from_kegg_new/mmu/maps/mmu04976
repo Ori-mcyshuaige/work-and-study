@@ -1,0 +1,563 @@
+C01330 (Sodium cation)	244,757,4
+C00080 (H+)	359,765,4
+C00698 (Cl-)	697,720,4
+C00288 (HCO3-)	608,729,4
+C01353 (Carbonic acid)	483,788,4
+C00001 (H2O)	505,825,4
+C00011 (CO2)	461,825,4
+C00238 (Potassium cation)	244,794,4
+C01330 (Sodium cation)	359,802,4
+C00288 (HCO3-)	870,253,4
+C01330 (Sodium cation)	168,306,4
+C00698 (Cl-)	601,692,4
+C00575 (3',5'-Cyclic AMP)	521,661,4
+C00011 (CO2)	1000,41,4
+C00011 (CO2)	244,825,4
+C01330 (Sodium cation)	244,720,4
+C00288 (HCO3-)	244,730,4
+C00001 (H2O)	612,40,4
+C00187 (Cholesterol)	464,172,4
+C00695 (Cholic acid)	465,267,4
+C02528 (Chenodeoxycholate)	465,267,4
+C05122 (Taurocholate)	465,267,4
+C01921 (Glycocholate)	465,267,4
+C05465 (Taurochenodeoxycholate)	465,267,4
+C05466 (Glycochenodeoxycholate)	465,267,4
+C04483 (Deoxycholic acid)	465,267,4
+C03990 (Lithocholic acid)	465,267,4
+C05122 (Taurocholate)	770,664,4
+C01921 (Glycocholate)	770,664,4
+C05465 (Taurochenodeoxycholate)	770,664,4
+C05466 (Glycochenodeoxycholate)	770,664,4
+C01330 (Sodium cation)	770,674,4
+C05122 (Taurocholate)	1126,688,4
+C01921 (Glycocholate)	1126,688,4
+C00486 (Bilirubin)	1126,688,4
+C05503 (Estradiol-17beta 3-glucuronide)	1126,688,4
+C01576 (Etoposide)	1126,688,4
+C11245 (Glucuronosyletoposide)	1126,688,4
+C00504 (Folate)	1126,688,4
+C01921 (Glycocholate)	1126,688,4
+D07987 (Folinic acid calcium salt pentahydrate)	1126,688,4
+C01937 (Methotrexate)	1126,688,4
+C16643 (Morphine-3-glucuronide)	1126,688,4
+C16578 (Morphine-6-glucuronide)	1126,688,4
+C05122 (Taurocholate)	1126,688,4
+C00051 (Glutathione)	1126,770,4
+C11277 (Adefovir)	1126,780,4
+D01421 (Aminohippurate sodium (USP))	1126,780,4
+C06880 (Cefazolin)	1126,780,4
+C06890 (Ceftizoxime)	1126,780,4
+C00695 (Cholic acid)	1126,780,4
+C00575 (3',5'-Cyclic AMP)	1126,780,4
+C00942 (3',5'-Cyclic GMP)	1126,780,4
+C04555 (Dehydroepiandrosterone sulfate)	1126,780,4
+C05503 (Estradiol-17beta 3-glucuronide)	1126,780,4
+C00504 (Folate)	1126,780,4
+D00331 (Furosemide (JP17/USP/INN))	1126,780,4
+D00340 (Hydrochlorothiazide (JP17/USP/INN))	1126,780,4
+D08086 (Irinotecan (INN))	1126,780,4
+D07986 (Folinic acid (BAN))	1126,780,4
+C02165 (Leukotriene B4)	1126,780,4
+C02166 (Leukotriene C4)	1126,780,4
+D04931 (Mercaptopurine (INN))	1126,780,4
+D00142 (Methotrexate (JP17/USP/INN))	1126,780,4
+C00584 (Prostaglandin E2)	1126,780,4
+C00639 (Prostaglandin F2alpha)	1126,780,4
+C05122 (Taurocholate)	1126,780,4
+D06074 (Tenofovir (USAN))	1126,780,4
+C05963 (Thromboxane B2)	1126,780,4
+C11158 (Topotecan)	1126,780,4
+C00366 (Urate)	1126,780,4
+C07210 (Zidovudine)	1126,780,4
+C00695 (Cholic acid)	168,316,4
+C02528 (Chenodeoxycholate)	168,316,4
+C05122 (Taurocholate)	168,316,4
+C01921 (Glycocholate)	168,316,4
+C05465 (Taurochenodeoxycholate)	168,316,4
+C05466 (Glycochenodeoxycholate)	168,316,4
+C00695 (Cholic acid)	168,358,4
+C05122 (Taurocholate)	168,358,4
+C01921 (Glycocholate)	168,358,4
+D01421 (Aminohippurate sodium (USP))	168,358,4
+C01405 (Aspirin)	168,358,4
+D00224 (Allopurinol (JP17/USP/INN))	168,358,4
+D00247 (Bumetanide (JP17/USP/INN))	168,358,4
+C00575 (3',5'-Cyclic AMP)	168,358,4
+C04555 (Dehydroepiandrosterone sulfate)	168,358,4
+C02538 (Estrone 3-sulfate)	168,358,4
+C07649 (5-FU)	168,358,4
+C00026 (2-Oxoglutarate)	168,358,4
+D00142 (Methotrexate (JP17/USP/INN))	168,358,4
+C07394 (Paclitaxel)	168,358,4
+C00584 (Prostaglandin E2)	168,358,4
+C00639 (Prostaglandin F2alpha)	168,358,4
+C09955 (Ochratoxin A)	168,358,4
+C00805 (Salicylate)	168,358,4
+C06570 (Tetracycline)	168,358,4
+C07185 (Valproic acid)	168,358,4
+C07210 (Zidovudine)	168,358,4
+C05551 (Penicillin G)	168,358,4
+C00318 (L-Carnitine)	168,358,4
+C06880 (Cefazolin)	168,358,4
+C11754 (Cephaloridine)	168,358,4
+C00695 (Cholic acid)	168,358,4
+D00295 (Cimetidine (JP17/USP/INN))	168,358,4
+C00735 (Cortisol)	168,358,4
+D00318 (Famotidine (JP17/USP/INN))	168,358,4
+C07649 (5-FU)	168,358,4
+C01921 (Glycocholate)	168,358,4
+C01937 (Methotrexate)	168,358,4
+C02380 (6-Mercaptopurine)	168,358,4
+C01844 (Pravastatin)	168,358,4
+D08492 (Rosuvastatin (INN))	168,358,4
+C05122 (Taurocholate)	168,358,4
+C00366 (Urate)	168,358,4
+C07184 (Valacyclovir)	168,358,4
+C07210 (Zidovudine)	168,358,4
+C00031 (D-Glucose)	770,729,4
+C01330 (Sodium cation)	770,740,4
+C00031 (D-Glucose)	1126,812,4
+C00001 (H2O)	612,228,4
+C00080 (H+)	1202,158,4
+C01330 (Sodium cation)	1309,167,4
+C01330 (Sodium cation)	1201,502,4
+C00238 (Potassium cation)	1309,512,4
+C07512 (Tetraethylammonium)	168,408,4
+C11310 (1-Methyl-4-phenylpyridinium)	168,408,4
+C01996 (Acetylcholine)	168,408,4
+C06810 (Aciclovir)	168,408,4
+D00295 (Cimetidine (JP17/USP/INN))	168,408,4
+C00114 (Choline)	168,408,4
+C03758 (Dopamine)	168,408,4
+D00318 (Famotidine (JP17/USP/INN))	168,408,4
+D00333 (Ganciclovir (JAN/USP/INN))	168,408,4
+C07065 (Lamivudine)	168,408,4
+C07151 (Metformin)	168,408,4
+C02918 (1-Methylnicotinamide)	168,408,4
+C06526 (Quinine)	168,408,4
+D00422 (Ranitidine (USAN/INN))	168,408,4
+C00780 (Serotonin)	168,408,4
+C00750 (Spermine)	168,408,4
+C00315 (Spermidine)	168,408,4
+C07207 (Zalcitabine)	168,408,4
+C05122 (Taurocholate)	1201,269,4
+C01921 (Glycocholate)	1201,269,4
+C00486 (Bilirubin)	1201,269,4
+C05503 (Estradiol-17beta 3-glucuronide)	1201,269,4
+C01576 (Etoposide)	1201,269,4
+C11245 (Glucuronosyletoposide)	1201,269,4
+C00504 (Folate)	1201,269,4
+C01921 (Glycocholate)	1201,269,4
+D07987 (Folinic acid calcium salt pentahydrate)	1201,269,4
+C01937 (Methotrexate)	1201,269,4
+C16643 (Morphine-3-glucuronide)	1201,269,4
+C16578 (Morphine-6-glucuronide)	1201,269,4
+C05122 (Taurocholate)	1201,269,4
+C00051 (Glutathione)	1201,332,4
+C05122 (Taurocholate)	1201,322,4
+C01921 (Glycocholate)	1201,322,4
+C05465 (Taurochenodeoxycholate)	1201,322,4
+C05466 (Glycochenodeoxycholate)	1201,322,4
+C11277 (Adefovir)	1201,322,4
+D01421 (Aminohippurate sodium (USP))	1201,322,4
+C06880 (Cefazolin)	1201,322,4
+C06890 (Ceftizoxime)	1201,322,4
+C00695 (Cholic acid)	1201,322,4
+C00575 (3',5'-Cyclic AMP)	1201,322,4
+C00942 (3',5'-Cyclic GMP)	1201,322,4
+C04555 (Dehydroepiandrosterone sulfate)	1201,322,4
+C05503 (Estradiol-17beta 3-glucuronide)	1201,322,4
+C00504 (Folate)	1201,322,4
+D00331 (Furosemide (JP17/USP/INN))	1201,322,4
+D00340 (Hydrochlorothiazide (JP17/USP/INN))	1201,322,4
+D08086 (Irinotecan (INN))	1201,322,4
+D07986 (Folinic acid (BAN))	1201,322,4
+C02165 (Leukotriene B4)	1201,322,4
+C02166 (Leukotriene C4)	1201,322,4
+D04931 (Mercaptopurine (INN))	1201,322,4
+D00142 (Methotrexate (JP17/USP/INN))	1201,322,4
+C00584 (Prostaglandin E2)	1201,322,4
+C00639 (Prostaglandin F2alpha)	1201,322,4
+C05122 (Taurocholate)	1201,322,4
+D06074 (Tenofovir (USAN))	1201,322,4
+C05963 (Thromboxane B2)	1201,322,4
+C11158 (Topotecan)	1201,322,4
+C00366 (Urate)	1201,322,4
+C07210 (Zidovudine)	1201,322,4
+C00865 (Phospholipid)	879,379,4
+C05122 (Taurocholate)	584,347,4
+C01921 (Glycocholate)	584,347,4
+C05465 (Taurochenodeoxycholate)	584,347,4
+C05466 (Glycochenodeoxycholate)	584,347,4
+C05122 (Taurocholate)	591,384,4
+C01921 (Glycocholate)	591,384,4
+C05465 (Taurochenodeoxycholate)	591,384,4
+C05466 (Glycochenodeoxycholate)	591,384,4
+C06804 (Acetaminophen)	591,384,4
+D01421 (Aminohippurate sodium (USP))	591,384,4
+C03033 (beta-D-Glucuronoside)	591,384,4
+C11587 (BQ 123)	591,384,4
+C05503 (Estradiol-17beta 3-glucuronide)	591,384,4
+C07051 (Indinavir)	591,384,4
+C02166 (Leukotriene C4)	591,384,4
+C01937 (Methotrexate)	591,384,4
+C16643 (Morphine-3-glucuronide)	591,384,4
+C09955 (Ochratoxin A)	591,384,4
+C07240 (Ritonavir)	591,384,4
+C12560 (Saquinavir mesylate)	591,384,4
+C03642 (Taurolithocholate sulfate)	591,384,4
+C07201 (Vinblastine)	591,384,4
+C01330 (Sodium cation)	1126,634,4
+C05122 (Taurocholate)	1126,646,4
+C01921 (Glycocholate)	1126,646,4
+C05465 (Taurochenodeoxycholate)	1126,646,4
+C05466 (Glycochenodeoxycholate)	1126,646,4
+C00698 (Cl-)	765,244,4
+C01330 (Sodium cation)	770,792,4
+C00080 (H+)	875,782,4
+C00695 (Cholic acid)	1030,305,4
+C02528 (Chenodeoxycholate)	1030,305,4
+C05122 (Taurocholate)	1030,305,4
+C01921 (Glycocholate)	1030,305,4
+C05465 (Taurochenodeoxycholate)	1030,305,4
+C05466 (Glycochenodeoxycholate)	1030,305,4
+C04483 (Deoxycholic acid)	1030,305,4
+C03990 (Lithocholic acid)	1030,305,4
+C01353 (Carbonic acid)	1028,206,4
+C00011 (CO2)	1000,134,4
+C00001 (H2O)	1053,134,4
+C00695 (Cholic acid)	1201,387,4
+C02528 (Chenodeoxycholate)	1201,387,4
+C05122 (Taurocholate)	1201,387,4
+C01921 (Glycocholate)	1201,387,4
+C05465 (Taurochenodeoxycholate)	1201,387,4
+C05466 (Glycochenodeoxycholate)	1201,387,4
+C00695 (Cholic acid)	277,250,4
+C02528 (Chenodeoxycholate)	277,250,4
+C05122 (Taurocholate)	277,250,4
+C01921 (Glycocholate)	277,250,4
+C05465 (Taurochenodeoxycholate)	277,250,4
+C05466 (Glycochenodeoxycholate)	277,250,4
+C00288 (HCO3-)	277,250,4
+C00051 (Glutathione)	277,250,4
+C00695 (Cholic acid)	168,242,4
+C02528 (Chenodeoxycholate)	168,242,4
+C05122 (Taurocholate)	168,242,4
+C01921 (Glycocholate)	168,242,4
+C05465 (Taurochenodeoxycholate)	168,242,4
+C05466 (Glycochenodeoxycholate)	168,242,4
+C11363 (Sulfobromophthalein)	168,242,4
+C11587 (BQ 123)	168,242,4
+C00695 (Cholic acid)	168,242,4
+C04555 (Dehydroepiandrosterone sulfate)	168,242,4
+C02538 (Estrone 3-sulfate)	168,242,4
+C06999 (Fexofenadine)	168,242,4
+C01921 (Glycocholate)	168,242,4
+C07660 (Levofloxacin)	168,242,4
+C01937 (Methotrexate)	168,242,4
+C05371 (Microcystin LR)	168,242,4
+C01443 (Ouabain)	168,242,4
+C00584 (Prostaglandin E2)	168,242,4
+D08492 (Rosuvastatin (INN))	168,242,4
+D00429 (Saquinavir (JAN/USP/INN))	168,242,4
+C05122 (Taurocholate)	168,242,4
+C01829 (Thyroxine)	168,242,4
+C02465 (Triiodothyronine)	168,242,4
+C05551 (Penicillin G)	168,242,4
+C00486 (Bilirubin)	168,242,4
+D07538 (Bosentan (INN))	168,242,4
+D07626 (Caspofungin (INN))	168,242,4
+C07966 (Cerivastatin)	168,242,4
+C05503 (Estradiol-17beta 3-glucuronide)	168,242,4
+C07014 (Fluvastatin)	168,242,4
+D08086 (Irinotecan (INN))	168,242,4
+C02166 (Leukotriene C4)	168,242,4
+C05371 (Microcystin LR)	168,242,4
+D05246 (Olmesartan (USAN/INN))	168,242,4
+C08439 (Phalloidin)	168,242,4
+C01844 (Pravastatin)	168,242,4
+C06688 (Rifampicin)	168,242,4
+C05963 (Thromboxane B2)	168,242,4
+D00400 (Valsartan (JP17/USAN/INN))	168,242,4
+C16114 (Cholecystokinin-8)	168,242,4
+C06956 (Digoxin)	168,242,4
+C11231 (Docetaxel anhydrous)	168,242,4
+C06999 (Fexofenadine)	168,242,4
+C01443 (Ouabain)	168,242,4
+C07394 (Paclitaxel)	168,242,4
+C00187 (Cholesterol)	590,288,4
+C00001 (H2O)	244,856,4
+C00001 (H2O)	607,856,4
+C01330 (Sodium cation)	168,179,4
+C05122 (Taurocholate)	168,189,4
+C01921 (Glycocholate)	168,189,4
+C05465 (Taurochenodeoxycholate)	168,189,4
+C05466 (Glycochenodeoxycholate)	168,189,4
+C02538 (Estrone 3-sulfate)	607,431,4
+C08357 (Estradiol-17beta 3-sulfate)	607,431,4
+D07776 (Daunorubicin (INN))	607,431,4
+D01264 (Daunorubicin hydrochloride (JP17/USP))	607,431,4
+D03899 (Doxorubicin (USAN/INN))	607,431,4
+D01275 (Doxorubicin hydrochloride (JP17/USP))	607,431,4
+D07901 (Epirubicin (INN))	607,431,4
+D02214 (Epirubicin hydrochloride (JP17/USAN))	607,431,4
+D08224 (Mitoxantrone (INN))	607,431,4
+D02166 (Mitoxantrone hydrochloride (JAN/USP))	607,431,4
+D03130 (Bisantrene hydrochloride (USAN))	607,431,4
+D08618 (Topotecan (BAN))	607,431,4
+D01061 (Irinotecan hydrochloride (USAN))	607,431,4
+D08086 (Irinotecan (INN))	607,431,4
+D00142 (Methotrexate (JP17/USP/INN))	607,431,4
+D02115 (Methotrexate sodium)	607,431,4
+D00240 (Aztreonam (JP17/USP/INN))	607,431,4
+D00353 (Lamivudine (JAN/USP/INN))	607,431,4
+D01862 (Pitavastatin calcium (JAN))	607,431,4
+D00186 (Ciprofloxacin (JP17/USP/INN))	607,431,4
+D02216 (Ciprofloxacin hydrochloride (USP))	607,431,4
+D00453 (Ofloxacin (JP17/USP/INN))	607,431,4
+D08291 (Ofloxacin hydrochloride)	607,431,4
+D00439 (Nitrofurantoin (JAN/USP/INN))	607,431,4
+C00695 (Cholic acid)	279,367,4
+C02528 (Chenodeoxycholate)	279,367,4
+C05122 (Taurocholate)	279,367,4
+C01921 (Glycocholate)	279,367,4
+C05465 (Taurochenodeoxycholate)	279,367,4
+C05466 (Glycochenodeoxycholate)	279,367,4
+C00288 (HCO3-)	279,367,4
+C00051 (Glutathione)	279,367,4
+D00214 (Dactinomycin (USP))	599,639,4
+D07448 (Amitriptyline (INN))	599,639,4
+D07661 (Cerivastatin (INN))	599,639,4
+D00570 (Colchicine (JP17/USP))	599,639,4
+D00184 (Cyclosporine (USP))	599,639,4
+D07776 (Daunorubicin (INN))	599,639,4
+D00298 (Digoxin (JP17/USP))	599,639,4
+D07845 (Diltiazem (INN))	599,639,4
+D07866 (Docetaxel (JAN/INN))	599,639,4
+D01745 (Domperidone (JP17/USAN/INN))	599,639,4
+D03899 (Doxorubicin (USAN/INN))	599,639,4
+D07907 (Erlotinib (INN))	599,639,4
+D00140 (Erythromycin (JP17/USP/INN))	599,639,4
+D00125 (Etoposide (JP17/USP/INN))	599,639,4
+D07958 (Fexofenadine (INN))	599,639,4
+D08066 (Imatinib (INN))	599,639,4
+D03833 (Indinavir (USAN))	599,639,4
+D00804 (Ivermectin (JAN/USAN/INN))	599,639,4
+D08108 (Lapatinib (INN))	599,639,4
+D08144 (Loperamide (INN))	599,639,4
+D08146 (Losartan (INN))	599,639,4
+D00359 (Lovastatin (USP/INN))	599,639,4
+D08259 (Nelfinavir (INN))	599,639,4
+D00456 (Ondansetron (JAN/USP/INN))	599,639,4
+D08306 (Oseltamivir (INN))	599,639,4
+D00491 (Paclitaxel (JAN/USP/INN))	599,639,4
+D00512 (Phenytoin (JP17/USP/INN))	599,639,4
+D08411 (Prazosin (INN))	599,639,4
+D08458 (Quinidine (BAN))	599,639,4
+D00427 (Ritonavir (JAN/USAN/INN))	599,639,4
+D00429 (Saquinavir (JAN/USP/INN))	599,639,4
+D00590 (Sparfloxacin (JAN/USAN/INN))	599,639,4
+D00521 (Terfenadine (JAN/USAN/INN))	599,639,4
+D00201 (Tetracycline (JAN/USP/INN))	599,639,4
+D06050 (Technetium Tc 99m tetrofosmin (USP))	599,639,4
+D08618 (Topotecan (BAN))	599,639,4
+D00767 (Vecuronium bromide (JAN/USAN/INN))	599,639,4
+D02356 (Verapamil (USAN/INN))	599,639,4
+D08675 (Vinblastine (INN))	599,639,4
+D08679 (Vincristine (INN))	599,639,4
+C00001 (H2O)	771,851,4
+C00001 (H2O)	1126,851,4
+C00001 (H2O)	726,43,4
+C05122 (Taurocholate)	1126,730,4
+C01921 (Glycocholate)	1126,730,4
+C05465 (Taurochenodeoxycholate)	1126,730,4
+C05466 (Glycochenodeoxycholate)	1126,730,4
+C01330 (Sodium cation)	1309,209,4
+C00288 (HCO3-)	1309,219,4
+C00695 (Cholic acid)	124,568,4
+C02528 (Chenodeoxycholate)	124,568,4
+C05122 (Taurocholate)	124,568,4
+C01921 (Glycocholate)	124,568,4
+C05465 (Taurochenodeoxycholate)	124,568,4
+C05466 (Glycochenodeoxycholate)	124,568,4
+C04483 (Deoxycholic acid)	124,568,4
+C03990 (Lithocholic acid)	124,568,4
+C00695 (Cholic acid)	126,905,4
+C02528 (Chenodeoxycholate)	126,905,4
+C05122 (Taurocholate)	126,905,4
+C01921 (Glycocholate)	126,905,4
+C05465 (Taurochenodeoxycholate)	126,905,4
+C05466 (Glycochenodeoxycholate)	126,905,4
+C04483 (Deoxycholic acid)	126,905,4
+C03990 (Lithocholic acid)	126,905,4
+C00865 (Phospholipid)	722,882,4
+C00695 (Cholic acid)	722,909,4
+C02528 (Chenodeoxycholate)	722,909,4
+C05122 (Taurocholate)	722,909,4
+C01921 (Glycocholate)	722,909,4
+C05465 (Taurochenodeoxycholate)	722,909,4
+C05466 (Glycochenodeoxycholate)	722,909,4
+C04483 (Deoxycholic acid)	722,909,4
+C03990 (Lithocholic acid)	722,909,4
+C00187 (Cholesterol)	750,882,4
+C06804 (Acetaminophen)	751,909,4
+D01421 (Aminohippurate sodium (USP))	751,909,4
+C03033 (beta-D-Glucuronoside)	751,909,4
+C11587 (BQ 123)	751,909,4
+C05503 (Estradiol-17beta 3-glucuronide)	751,909,4
+C07051 (Indinavir)	751,909,4
+C02166 (Leukotriene C4)	751,909,4
+C01937 (Methotrexate)	751,909,4
+C16643 (Morphine-3-glucuronide)	751,909,4
+C09955 (Ochratoxin A)	751,909,4
+C07240 (Ritonavir)	751,909,4
+C12560 (Saquinavir mesylate)	751,909,4
+C03642 (Taurolithocholate sulfate)	751,909,4
+C07201 (Vinblastine)	751,909,4
+C01330 (Sodium cation)	737,43,4
+C00238 (Potassium cation)	1201,460,4
+C02530 (Cholesterol ester)	493,140,4
+C02530 (Cholesterol ester)	562,139,4
+C00024 (Acetyl-CoA)	424,134,4
+D00214 (Dactinomycin (USP))	893,307,4
+D07448 (Amitriptyline (INN))	893,307,4
+D07661 (Cerivastatin (INN))	893,307,4
+D00570 (Colchicine (JP17/USP))	893,307,4
+D00184 (Cyclosporine (USP))	893,307,4
+D07776 (Daunorubicin (INN))	893,307,4
+D00298 (Digoxin (JP17/USP))	893,307,4
+D07845 (Diltiazem (INN))	893,307,4
+D07866 (Docetaxel (JAN/INN))	893,307,4
+D01745 (Domperidone (JP17/USAN/INN))	893,307,4
+D03899 (Doxorubicin (USAN/INN))	893,307,4
+D07907 (Erlotinib (INN))	893,307,4
+D00140 (Erythromycin (JP17/USP/INN))	893,307,4
+D00125 (Etoposide (JP17/USP/INN))	893,307,4
+D07958 (Fexofenadine (INN))	893,307,4
+D08066 (Imatinib (INN))	893,307,4
+D03833 (Indinavir (USAN))	893,307,4
+D00804 (Ivermectin (JAN/USAN/INN))	893,307,4
+D08108 (Lapatinib (INN))	893,307,4
+D08144 (Loperamide (INN))	893,307,4
+D08146 (Losartan (INN))	893,307,4
+D00359 (Lovastatin (USP/INN))	893,307,4
+D08259 (Nelfinavir (INN))	893,307,4
+D00456 (Ondansetron (JAN/USP/INN))	893,307,4
+D08306 (Oseltamivir (INN))	893,307,4
+D00491 (Paclitaxel (JAN/USP/INN))	893,307,4
+D00512 (Phenytoin (JP17/USP/INN))	893,307,4
+D08411 (Prazosin (INN))	893,307,4
+D08458 (Quinidine (BAN))	893,307,4
+D00427 (Ritonavir (JAN/USAN/INN))	893,307,4
+D00429 (Saquinavir (JAN/USP/INN))	893,307,4
+D00590 (Sparfloxacin (JAN/USAN/INN))	893,307,4
+D00521 (Terfenadine (JAN/USAN/INN))	893,307,4
+D00201 (Tetracycline (JAN/USP/INN))	893,307,4
+D06050 (Technetium Tc 99m tetrofosmin (USP))	893,307,4
+D08618 (Topotecan (BAN))	893,307,4
+D00767 (Vecuronium bromide (JAN/USAN/INN))	893,307,4
+D02356 (Verapamil (USAN/INN))	893,307,4
+D08675 (Vinblastine (INN))	893,307,4
+D08679 (Vincristine (INN))	893,307,4
+64008 (Aqp9)	589,82,635,99
+20544 (Slc9a1)	274,752,320,769
+20535 (Slc4a2)	628,716,674,733
+11928 (Atp1a1)	274,789,320,806
+11931 (Atp1b1)	274,789,320,806
+11932 (Atp1b2)	274,789,320,806
+11933 (Atp1b3)	274,789,320,806
+11936 (Fxyd2)	274,789,320,806
+232975 (Atp1a3)	274,789,320,806
+27222 (Atp1a4)	274,789,320,806
+67821 (Atp1b4)	274,789,320,806
+98660 (Atp1a2)	274,789,320,806
+12638 (Cftr)	628,684,674,701
+319229 (Sctr)	274,653,320,670
+12349 (Car2)	491,800,537,817
+54403 (Slc4a4)	274,716,320,733
+14683 (Gnas)	355,653,401,670
+104110 (Adcy4)	436,653,482,670
+104111 (Adcy3)	436,653,482,670
+11512 (Adcy6)	436,653,482,670
+11513 (Adcy7)	436,653,482,670
+11514 (Adcy8)	436,653,482,670
+11515 (Adcy9)	436,653,482,670
+210044 (Adcy2)	436,653,482,670
+224129 (Adcy5)	436,653,482,670
+432530 (Adcy1)	436,653,482,670
+18747 (Prkaca)	561,653,607,670
+18749 (Prkacb)	561,653,607,670
+108096 (Slco1a5)	198,238,244,255
+28248 (Slco1a1)	198,238,244,255
+28250 (Slco1a4)	198,238,244,255
+28253 (Slco1b2)	198,238,244,255
+28254 (Slco1a6)	198,238,244,255
+13849 (Ephx1)	198,174,244,191
+20493 (Slc10a1)	198,302,244,319
+27413 (Abcb11)	613,338,659,355
+12780 (Abcc2)	619,375,665,392
+239273 (Abcc4)	1232,319,1278,336
+76408 (Abcc3)	1232,262,1278,279
+13122 (Cyp7a1)	413,217,459,234
+20186 (Nr1h4)	442,302,488,319
+27409 (Abcg5)	615,271,661,288
+67470 (Abcg8)	615,288,661,305
+11928 (Atp1a1)	1232,498,1278,515
+11931 (Atp1b1)	1232,498,1278,515
+11932 (Atp1b2)	1232,498,1278,515
+11933 (Atp1b3)	1232,498,1278,515
+11936 (Fxyd2)	1232,498,1278,515
+232975 (Atp1a3)	1232,498,1278,515
+27222 (Atp1a4)	1232,498,1278,515
+67821 (Atp1b4)	1232,498,1278,515
+98660 (Atp1a2)	1232,498,1278,515
+108114 (Slc22a7)	198,354,244,371
+19879 (Slc22a8)	198,354,244,371
+20517 (Slc22a1)	198,400,244,417
+20494 (Slc10a2)	800,661,846,678
+76408 (Abcc3)	1157,679,1203,696
+239273 (Abcc4)	1157,766,1203,783
+18670 (Abcb4)	810,371,856,388
+18669 (Abcb1b)	817,298,863,315
+18671 (Abcb1a)	817,298,863,315
+20537 (Slc5a1)	800,726,846,743
+20525 (Slc2a1)	1157,803,1203,820
+11833 (Aqp8)	637,221,683,238
+20544 (Slc9a1)	1232,155,1278,172
+23957 (Nr0b2)	384,326,430,343
+20494 (Slc10a2)	1157,631,1203,648
+20535 (Slc4a2)	797,239,843,256
+20859 (Sult2a1)	499,472,545,489
+629203 (Sult2a3)	499,472,545,489
+26459 (Slc27a5)	448,493,494,510
+12012 (Baat)	499,493,545,510
+105243 (Slc9a3)	800,779,846,796
+106407 (Slc51a)	1232,371,1278,388
+330962 (Slc51b)	1232,388,1278,405
+20186 (Nr1h4)	1008,336,1054,353
+12349 (Car2)	976,164,1022,181
+11829 (Aqp4)	274,848,320,865
+11826 (Aqp1)	628,847,674,864
+26357 (Abcg2)	641,423,687,440
+18669 (Abcb1b)	628,631,674,648
+18671 (Abcb1a)	628,631,674,648
+11826 (Aqp1)	800,844,846,861
+11829 (Aqp4)	1157,842,1203,859
+106407 (Slc51a)	1157,713,1203,730
+330962 (Slc51b)	1157,730,1203,747
+232156 (Slc4a5)	1232,205,1278,222
+140492 (Kcnn2)	1232,452,1278,469
+20181 (Rxra)	485,334,531,351
+20181 (Rxra)	1051,363,1097,380
+20778 (Scarb1)	512,82,558,99
+16835 (Ldlr)	442,82,488,99
+15357 (Hmgcr)	386,148,432,165
+320024 (Nceh1)	528,151,574,168
+20287 (Sct)	184,653,230,670
+mmu04976: Bile secretion	40,45,188,70
+mmu04530: Tight junction	797,144,912,169
+mmu00120: Primary bile acid biosynthesis	346,178,457,212
+ko00121: Secondary bile acid biosynthesis	317,947,428,981
+mmu04975: Fat digestion and absorption	520,946,631,980
+mmu04144: Endocytosis	376,36,468,61

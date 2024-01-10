@@ -1,0 +1,139 @@
+C06178 (1-Methylpyrrolinium)	470,337,4
+C15523 (2,6-Dihydroxynicotinate)	580,682,4
+C00022 (Pyruvate)	714,667,4
+C00163 (Propanoate)	755,643,4
+C03652 ((2R,3S)-2,3-Dimethylmalate)	714,593,4
+C00922 (2,3-Dimethylmaleate)	618,593,4
+C02295 (Methylitaconate)	618,529,4
+C02930 (2-Methyleneglutarate)	706,529,4
+C16390 ((S)-2-(Hydroxymethyl)glutarate)	777,529,4
+C16159 (2-Formylglutarate)	777,450,4
+C04226 (6-Oxo-1,4,5,6-tetrahydronicotinate)	682,450,4
+C16152 (Blue pigment)	308,802,4
+C03458 (2,3,6-Trihydroxypyridine)	308,753,4
+C03056 (2,6-Dihydroxypyridine)	151,753,4
+C16151 (2,6-Dihydroxy-N-methylmyosmine)	83,594,4
+C15986 (2,6-Dihydroxypseudooxynicotine)	151,594,4
+C01297 (6-Hydroxypseudooxynicotine)	151,536,4
+C01056 ((S)-6-Hydroxynicotine)	96,442,4
+C16150 ((R,S)-Nicotine)	151,358,4
+C00006 (NADP+)	1017,86,4
+C00003 (NAD+)	1008,240,4
+C00857 (Deamino-NAD+)	1008,358,4
+C00455 (Nicotinamide D-ribonucleotide)	869,240,4
+C01185 (Nicotinate D-ribonucleotide)	869,358,4
+C03722 (Quinolinate)	869,436,4
+C00111 (Glycerone phosphate)	899,494,4
+C00049 (L-Aspartate)	869,613,4
+C00122 (Fumarate)	754,753,4
+C01384 (Maleic acid)	667,753,4
+C01596 (Maleamate)	580,753,4
+C01059 (2,5-Dihydroxypyridine)	537,584,4
+C01020 (6-Hydroxynicotinate)	580,450,4
+C00253 (Nicotinate)	580,358,4
+C02918 (1-Methylnicotinamide)	474,240,4
+C03150 (Nicotinamide-beta-riboside)	720,240,4
+C05840 (Iminoaspartate)	869,508,4
+C05841 (Nicotinate D-ribonucleoside)	719,358,4
+C05380 (Nicotinurate)	502,392,4
+C01004 (N-Methylnicotinate)	484,481,4
+C05843 (N1-Methyl-4-pyridone-5-carboxamide)	347,240,4
+C05842 (N1-Methyl-2-pyridone-5-carboxamide)	347,202,4
+C03043 ((R)-6-Hydroxynicotine)	151,442,4
+C00153 (Nicotinamide)	584,240,4
+C19631 (6-Hydroxy-3-succinoylpyridine)	303,536,4
+C00232 (Succinate semialdehyde)	303,637,4
+C18232 (N-Formylmaleamic acid)	537,668,4
+C20381 (3,3'-Bipyridine-2,2',5,5',6,6'-hexol)	423,801,4
+C00334 (4-Aminobutanoate)	303,699,4
+C15987 (4-Methylaminobutyrate)	200,637,4
+C20361 (Pseudooxynicotine)	303,389,4
+C19569 (3-Succinoylpyridine)	303,460,4
+C19567 (4-Oxo-1-(3-pyridyl)-1-butanone)	400,389,4
+C21154 (N-Methylmyosmine)	247,389,4
+C21075 (5-(N-Methyl-4,5-dihydro-1H-pyrrol-2-yl)pyridin-2-ol)	151,497,4
+C00042 (Succinate)	397,637,4
+68352 (Aspdh)	871,558,917,575
+67993 (Nudt12)	912,392,958,409
+67375 (Qprt)	846,403,892,420
+18605 (Enpp1)	912,371,958,388
+209558 (Enpp3)	912,371,958,388
+225994 (Nmrk1)	766,350,812,367
+69564 (Nmrk2)	766,350,812,367
+18950 (Pnp)	630,350,676,367
+667034 (Pnp2)	630,350,676,367
+226518 (Nmnat2)	912,330,958,347
+66454 (Nmnat1)	912,330,958,347
+74080 (Nmnat3)	912,330,958,347
+226518 (Nmnat2)	912,309,958,326
+66454 (Nmnat1)	912,309,958,326
+74080 (Nmnat3)	912,309,958,326
+78914 (Nadsyn1)	1014,284,1060,301
+223646 (Naprt)	695,307,741,324
+67993 (Nudt12)	912,269,958,286
+18605 (Enpp1)	912,248,958,265
+209558 (Enpp3)	912,248,958,265
+226518 (Nmnat2)	912,212,958,229
+66454 (Nmnat1)	912,212,958,229
+74080 (Nmnat3)	912,212,958,229
+226518 (Nmnat2)	912,191,958,208
+66454 (Nmnat1)	912,191,958,208
+74080 (Nmnat3)	912,191,958,208
+225994 (Nmrk1)	766,202,812,219
+69564 (Nmrk2)	766,202,812,219
+18950 (Pnp)	630,202,676,219
+667034 (Pnp2)	630,202,676,219
+59027 (Nampt)	699,150,745,167
+12182 (Bst1)	766,117,812,134
+12494 (Cd38)	766,117,812,134
+11871 (Art2a)	766,98,812,115
+11872 (Art2b)	766,98,812,115
+18113 (Nnmt)	509,233,555,250
+192185 (Nadk)	1063,171,1109,188
+68646 (Nadk2)	1063,171,1109,188
+18115 (Nnt)	1141,149,1187,166
+11761 (Aox1)	397,194,443,211
+213043 (Aox2)	397,194,443,211
+71724 (Aox3)	397,194,443,211
+71872 (Aox4)	397,194,443,211
+11761 (Aox1)	396,232,442,249
+213043 (Aox2)	396,232,442,249
+71724 (Aox3)	396,232,442,249
+71872 (Aox4)	396,232,442,249
+209011 (Sirt7)	766,136,812,153
+50721 (Sirt6)	766,136,812,153
+64383 (Sirt2)	766,136,812,153
+64384 (Sirt3)	766,136,812,153
+68346 (Sirt5)	766,136,812,153
+75387 (Sirt4)	766,136,812,153
+93759 (Sirt1)	766,136,812,153
+12182 (Bst1)	870,78,916,95
+12494 (Cd38)	870,78,916,95
+103850 (Nt5m)	766,249,812,266
+107569 (Nt5c3)	766,249,812,266
+230718 (Nt5c1a)	766,249,812,266
+23959 (Nt5e)	766,249,812,266
+50773 (Nt5c)	766,249,812,266
+66763 (4933425L06Rik)	766,249,812,266
+68106 (Nt5c3b)	766,249,812,266
+70881 (Nt5c1b)	766,249,812,266
+76952 (Nt5c2)	766,249,812,266
+103850 (Nt5m)	766,374,812,391
+107569 (Nt5c3)	766,374,812,391
+230718 (Nt5c1a)	766,374,812,391
+50773 (Nt5c)	766,374,812,391
+66763 (4933425L06Rik)	766,374,812,391
+68106 (Nt5c3b)	766,374,812,391
+70881 (Nt5c1b)	766,374,812,391
+76952 (Nt5c2)	766,374,812,391
+mmu00620: Pyruvate metabolism	758,663,831,697
+map00660: C5-Branched dibasic acid metabolism	646,703,785,737
+mmu00760: Nicotinate and nicotinamide metabolism	40,45,380,70
+mmu00250: Alanine	808,736,932,770
+aspartate and glutamate metabolism	808,736,932,770
+mmu00380: Tryptophan metabolism	944,423,1082,448
+map00960: Tropane	278,293,444,327
+piperidine and pyridine alkaloid biosynthesis	278,293,444,327
+mmu00250: Alanine	363,682,435,716
+aspartate and glutamate metabolism	363,682,435,716
+mmu00020: Citrate cycle (TCA cycle)	433,625,510,650

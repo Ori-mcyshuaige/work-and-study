@@ -1,0 +1,25 @@
+C00064 (L-Glutamine)	196,132,4
+C00819 (D-Glutamine)	345,132,4
+C03933 (5-D-Glutamyl-D-glutamyl-peptide)	559,128,4
+C05723 (Poly-gamma-D-glutamate)	74,209,4
+C00025 (L-Glutamate)	196,209,4
+C00217 (D-Glutamate)	345,209,4
+C02671 (D-Glutamyl-peptide)	438,170,4
+C00692 (UDP-N-acetylmuramoyl-L-alanyl-D-glutamate)	559,212,4
+C01212 (UDP-N-acetylmuramoyl-L-alanine)	438,272,4
+C01050 (UDP-N-acetylmuramate)	438,338,4
+C02237 (5-Oxo-D-proline)	345,304,4
+C00026 (2-Oxoglutarate)	196,304,4
+C22053 (UDP-N-acetyl-alpha-D-muramoyl-L-alanyl-L-glutamate)	559,272,4
+217830 (Dglucy)	321,247,367,264
+14661 (Glud1)	164,247,210,264
+14660 (Gls)	274,161,320,178
+216456 (Gls2)	274,161,320,178
+14660 (Gls)	148,161,194,178
+216456 (Gls2)	148,161,194,178
+mmu00471: D-Glutamine and D-glutamate metabolism	40,45,402,70
+map00550: Peptidoglycan biosynthesis	644,195,731,229
+mmu00520: Amino sugar and nucleotide sugar metabolism	495,321,649,355
+mmu00020: Citrate cycle (TCA cycle)	62,291,142,316
+map00251: Glutamate metabolism	62,251,136,285
+map00460: Cyanoamino acid metabolism	52,116,153,150

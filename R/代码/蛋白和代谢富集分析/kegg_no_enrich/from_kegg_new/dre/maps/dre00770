@@ -1,0 +1,56 @@
+C03688 (Apo-[acyl-carrier-protein])	740,560,4
+C00022 (Pyruvate)	173,129,4
+C04272 ((R)-2,3-Dihydroxy-3-methylbutanoate)	478,129,4
+C00141 (3-Methyl-2-oxobutanoic acid)	478,195,4
+C00183 (L-Valine)	664,195,4
+C00966 (2-Dehydropantoate)	298,195,4
+C00522 ((R)-Pantoate)	298,338,4
+C00864 (Pantothenate)	444,338,4
+C00097 (L-Cysteine)	691,358,4
+C04352 ((R)-4'-Phosphopantothenoyl-L-cysteine)	621,416,4
+C01134 (Pantetheine 4'-phosphate)	621,481,4
+C00882 (Dephospho-CoA)	621,590,4
+C00054 (Adenosine 3',5'-bisphosphate)	740,499,4
+C00229 (Acyl-carrier protein)	796,481,4
+C00010 (CoA)	796,589,4
+C00831 (Pantetheine)	502,481,4
+C00099 (beta-Alanine)	320,502,4
+C02642 (3-Ureidopropionate)	233,502,4
+C00429 (5,6-Dihydrouracil)	147,502,4
+C00106 (Uracil)	50,502,4
+C04079 (N-((R)-Pantothenoyl)-L-cysteine)	502,416,4
+C01053 ((R)-4-Dehydropantoate)	388,269,4
+C01088 ((R)-3,3-Dimethylmalate)	478,269,4
+C00049 (L-Aspartate)	320,587,4
+C18911 ((R)-4-Phosphopantoate)	444,305,4
+C03492 (D-4'-Phosphopantothenate)	621,338,4
+C05944 (Pantothenol)	382,396,4
+C06010 ((S)-2-Acetolactate)	297,129,4
+447838 (coasy)	684,581,730,598
+100536156	623,531,669,548
+562399 (enpp1)	623,531,669,548
+393487 (pank4)	538,462,584,479
+565059 (pank1b)	538,462,584,479
+570866 (pank2)	538,462,584,479
+393753 (ppcdc)	599,436,645,453
+393487 (pank4)	537,408,583,425
+565059 (pank1b)	537,408,583,425
+570866 (pank2)	537,408,583,425
+393487 (pank4)	496,330,542,347
+565059 (pank1b)	496,330,542,347
+570866 (pank2)	496,330,542,347
+322660 (upb1)	250,494,296,511
+100144569 (dpys)	163,493,209,510
+405829 (dpydb)	77,504,123,521
+337412 (bcat1)	568,197,614,214
+436949 (bcat2)	568,197,614,214
+447838 (coasy)	573,531,619,548
+619247 (aasdhppt)	798,531,844,548
+561272 (ppcs)	623,376,669,393
+dre00770: Pantothenate and CoA biosynthesis	40,45,340,70
+dre00250: Alanine	135,569,262,603
+aspartate and glutamate metabolism	135,569,262,603
+dre00640: Propanoate metabolism	380,486,453,520
+dre00010: Glycolysis / Gluconeogenesis	47,116,121,141
+dre00270: Cysteine and methionine metabolism	747,341,885,375
+dre00410: beta-Alanine metabolism	487,352,561,386

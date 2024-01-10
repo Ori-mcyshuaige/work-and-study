@@ -1,0 +1,21 @@
+C16241 ((R)-Lipoate)	614,179,4
+C16238 (Lipoyl-AMP)	614,274,4
+C22160 ([Lipoyl-carrier protein E2]-N6-octanoyl-L-lysine)	244,274,4
+C15972 (Enzyme N6-(lipoyl)lysine)	614,369,4
+C22159 ([Glycine cleavage system H]-N6-octanoyl-L-lysine)	357,274,4
+C06423 (Octanoic acid)	74,274,4
+C15973 (Enzyme N6-(dihydrolipoyl)lysine)	244,369,4
+C01944 (Octanoyl-CoA)	144,179,4
+C02051 (Lipoylprotein)	814,369,4
+C05752 (Octanoyl-[acp])	244,179,4
+C02972 (Dihydrolipoylprotein)	357,369,4
+C02147 (Dihydrolipoate)	515,179,4
+C22161 (Dihydrolipoyl-AMP)	515,274,4
+393528 (lias)	222,312,268,329
+334494 (lipt1)	592,312,638,329
+393528 (lias)	335,312,381,329
+334494 (lipt1)	280,371,326,388
+334494 (lipt1)	246,217,292,234
+664765 (lipt2)	359,217,405,234
+dre00785: Lipoic acid metabolism	40,45,240,70
+dre00061: Fatty acid biosynthesis	130,106,216,140

@@ -1,0 +1,94 @@
+C06311 (Galactitol 1-phosphate)	728,769,4
+C01216 (2-Dehydro-3-deoxy-D-galactonate)	785,126,4
+C00137 (myo-Inositol)	85,535,4
+C00095 (D-Fructose)	787,657,4
+C03383 (D-Galactono-1,4-lactone)	366,126,4
+C00124 (D-Galactose)	124,281,4
+C00052 (UDP-alpha-D-galactose)	387,345,4
+C00103 (D-Glucose 1-phosphate)	505,281,4
+C00029 (UDP-glucose)	505,219,4
+C00880 (D-Galactonate)	581,126,4
+C01286 (2-Dehydro-3-deoxy-6-phospho-D-galactonate)	785,217,4
+C00446 (alpha-D-Galactose 1-phosphate)	290,281,4
+C01235 (alpha-D-Galactosyl-(1->3)-1D-myo-inositol)	628,350,4
+C00089 (Sucrose)	787,422,4
+C00492 (Raffinose)	628,423,4
+C01235 (alpha-D-Galactosyl-(1->3)-1D-myo-inositol)	173,499,4
+C05399 (Melibiitol)	173,557,4
+C05400 (Epimelibiose)	173,619,4
+C05401 (3-beta-D-Galactosyl-sn-glycerol)	173,681,4
+C00116 (Glycerol)	85,716,4
+C00159 (D-Mannose)	85,654,4
+C00794 (D-Sorbitol)	86,593,4
+C05396 (Lactose 6'-phosphate)	272,527,4
+C01113 (D-Galactose 6-phosphate)	272,691,4
+C00031 (D-Glucose)	712,657,4
+C00124 (D-Galactose)	632,656,4
+C05404 (D-Gal alpha 1->6D-Gal alpha 1->6D-Glucose)	628,539,4
+C01613 (Stachyose)	628,472,4
+C00118 (D-Glyceraldehyde 3-phosphate)	989,217,4
+C00111 (Glycerone phosphate)	1025,285,4
+C03785 (D-Tagatose 1,6-bisphosphate)	989,446,4
+C01097 (D-Tagatose 6-phosphate)	984,741,4
+C01697 (Galactitol)	451,741,4
+C05796 (Galactan)	272,350,4
+C00795 (D-Tagatose)	728,741,4
+C00243 (Lactose)	272,403,4
+C01132 (N-Acetyl-D-galactosamine)	881,459,4
+C06376 (N-Acetyl-D-galactosamine 6-phosphate)	881,547,4
+C06377 (D-Galactosamine 6-phosphate)	881,638,4
+C02262 (D-Galactosamine)	831,547,4
+C05402 (Melibiose)	708,582,4
+C00668 (alpha-D-Glucose 6-phosphate)	502,464,4
+C00267 (alpha-D-Glucose)	354,464,4
+C00577 (D-Glyceraldehyde)	989,126,4
+C02669 (D-Galactono-1,5-lactone)	366,170,4
+C00984 (alpha-D-Galactose)	208,281,4
+C03733 (UDP-alpha-D-galactofuranose)	391,404,4
+C00085 (D-Fructose 6-phosphate)	1104,741,4
+450083 (gla)	567,464,613,481
+447836 (pfkma)	941,567,987,584
+550259 (pfklb)	941,567,987,584
+560944 (pfkpa)	941,567,987,584
+561416 (pfkpb)	941,567,987,584
+568001 (pfkmb)	941,567,987,584
+570106 (pfkla)	941,567,987,584
+450083 (gla)	605,554,651,571
+100002366 (gaa)	739,506,785,523
+100148922 (si)	739,506,785,523
+100332784 (si:ch73-12o23.1)	739,506,785,523
+100536353 (ganc)	739,506,785,523
+450083 (gla)	716,413,762,430
+553452 (si:dkey-180p18.9)	173,733,219,750
+450083 (gla)	93,672,139,689
+450083 (gla)	93,611,139,628
+450083 (gla)	93,549,139,566
+450083 (gla)	93,489,139,506
+751668 (gck)	405,466,451,483
+321224 (hkdc1)	405,445,451,462
+406339 (hk2)	405,445,451,462
+406791 (hk1)	405,445,451,462
+796436 (lct)	170,405,216,422
+548343 (glb1)	170,384,216,401
+394000 (pgm1)	482,394,528,411
+405822 (pgm2)	482,394,528,411
+100148828 (b4galt2)	309,395,355,412
+550425 (b4galt1)	309,395,355,412
+768123 (b4galt1l)	309,395,355,412
+678540 (gale)	543,272,589,289
+334420 (ugp2b)	482,243,528,260
+555748 (ugp2a)	482,243,528,260
+791130 (galt)	331,272,377,289
+100000750 (g6pcb)	404,423,450,440
+445118 (g6pca.1)	404,423,450,440
+563180 (g6pca.2)	404,423,450,440
+790919 (g6pc3)	404,423,450,440
+450083 (gla)	686,592,732,609
+449829 (galk1)	222,272,268,289
+436646 (galm)	140,272,186,289
+dre00010: Glycolysis / Gluconeogenesis	469,510,535,535
+dre00051: Fructose and mannose metabolism	301,550,425,584
+dre00040: Pentose and glucuronate interconversions	589,199,725,233
+dre00030: Pentose phosphate pathway	1046,200,1161,234
+dre00052: Galactose metabolism	40,45,237,70
+dre00520: Amino sugar and nucleotide sugar metabolism	144,208,299,242

@@ -1,0 +1,86 @@
+C00137 (myo-Inositol)	430,88,4
+C05385 (D-Glucuronate 1-phosphate)	307,163,4
+C00167 (UDP-glucuronate)	187,163,4
+C00029 (UDP-glucose)	91,163,4
+C01825 (L-Galactose)	346,442,4
+C15930 (L-Galactonate)	430,567,4
+C15926 (beta-L-Galactose 1-phosphate)	262,442,4
+C15923 (L-Gulose)	346,247,4
+C15925 (GDP-L-gulose)	262,297,4
+C02280 (GDP-L-galactose)	262,376,4
+C00096 (GDP-mannose)	166,376,4
+C02670 (D-Glucuronolactone)	543,163,4
+C00191 (D-Glucuronate)	430,163,4
+C01040 (L-Gulono-1,4-lactone)	543,247,4
+C00800 (L-Gulonate)	430,247,4
+C00333 (D-Galacturonate)	430,672,4
+C01115 (L-Galactono-1,4-lactone)	543,442,4
+C15924 (L-Gulose 1-phosphate)	262,247,4
+C03921 (2-Dehydro-3-deoxy-D-glucarate)	1055,68,4
+C00818 (D-Glucarate)	841,163,4
+C01146 (2-Hydroxy-3-oxopropanoate)	1141,115,4
+C00022 (Pyruvate)	1176,163,4
+C00679 (5-Dehydro-4-deoxy-D-glucarate)	1055,163,4
+C00879 (D-Galactarate)	841,224,4
+C00433 (2,5-Dioxopentanoate)	1055,275,4
+C00026 (2-Oxoglutarate)	1002,423,4
+C00259 (L-Arabinose)	1055,583,4
+C00684 (2-Dehydro-3-deoxy-L-arabinonate)	1055,352,4
+C00545 (L-Arabinonate)	1055,429,4
+C01114 (L-Arabinono-1,4-lactone)	1055,506,4
+C20889 (D-Galactaro-1,5-lactone)	948,354,4
+C20896 (D-Galactaro-1,4-lactone)	948,224,4
+C01620 (Threonate)	586,372,4
+C03064 (3-Dehydro-L-threonate)	462,372,4
+C16186 (L-Ascorbate 6-phosphate)	728,357,4
+C14899 (3-Dehydro-L-gulonate 6-phosphate)	728,273,4
+C05422 (Dehydroascorbate)	652,570,4
+C01041 (Monodehydroascorbate)	747,499,4
+C04575 ((4R,5S)-4,5,6-Trihydroxy-2,3-dioxohexanoate)	720,570,4
+C05411 (L-Xylonate)	720,649,4
+C05412 (L-Lyxonate)	670,649,4
+C00618 (3-Dehydro-L-gulonate)	804,436,4
+C00072 (Ascorbate)	652,442,4
+C00231 (D-Xylulose 5-phosphate)	873,518,4
+C01101 (L-Ribulose 5-phosphate)	873,407,4
+C03291 (L-Xylulose 5-phosphate)	873,271,4
+C03289 (L-xylo-Hexulonolactone)	652,247,4
+C21955 (L-Galactono-1,5-lactone)	346,567,4
+C00558 (D-Tagaturonate)	346,672,4
+56727 (Miox)	407,106,453,123
+22235 (Ugdh)	112,155,158,172
+19733 (Rgn)	466,228,512,245
+100559 (Ugt2b38)	287,119,333,136
+100727 (Ugt2b34)	287,119,333,136
+112417 (Ugt2b37)	287,119,333,136
+22236 (Ugt1a2)	287,119,333,136
+22238 (Ugt2b5)	287,119,333,136
+231396 (Ugt2b36)	287,119,333,136
+243085 (Ugt2b35)	287,119,333,136
+394430 (Ugt1a10)	287,119,333,136
+394432 (Ugt1a7c)	287,119,333,136
+394433 (Ugt1a5)	287,119,333,136
+394434 (Ugt1a9)	287,119,333,136
+394435 (Ugt1a6b)	287,119,333,136
+394436 (Ugt1a1)	287,119,333,136
+552899 (Ugt2a2)	287,119,333,136
+71773 (Ugt2b1)	287,119,333,136
+72094 (Ugt2a3)	287,119,333,136
+94215 (Ugt2a1)	287,119,333,136
+94284 (Ugt1a6a)	287,119,333,136
+110695 (Aldh7a1)	673,155,719,172
+11669 (Aldh2)	673,155,719,172
+11671 (Aldh3a2)	673,155,719,172
+56752 (Aldh9a1)	673,155,719,172
+72535 (Aldh1b1)	673,155,719,172
+268756 (Gulo)	576,239,622,256
+268756 (Gulo)	629,299,675,316
+mmu00053: Ascorbate and aldarate metabolism	40,45,366,70
+mmu00051: Fructose and mannose metabolism	26,418,154,452
+mmu00520: Amino sugar and nucleotide sugar metabolism	15,261,170,295
+mmu00630: Glyoxylate and dicarboxylate metabolism	866,98,1005,132
+mmu00040: Pentose and glucuronate interconversions	989,661,1122,695
+mmu00020: Citrate cycle (TCA cycle)	964,483,1040,508
+mmu00520: Amino sugar and nucleotide sugar metabolism	1100,566,1253,600
+mmu00040: Pentose and glucuronate interconversions	807,615,940,649
+mmu00040: Pentose and glucuronate interconversions	321,724,454,758

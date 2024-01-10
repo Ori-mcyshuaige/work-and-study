@@ -1,0 +1,69 @@
+C00074 (Phosphoenolpyruvate)	293,125,4
+C02798 (3-Phosphonopyruvate)	293,214,4
+C05672 (2-Amino-3-phosphonopropanoate)	203,214,4
+C17942 (FR 900098)	575,214,4
+C03167 (Phosphonoacetaldehyde)	293,322,4
+C03557 (2-Aminoethylphosphonate)	422,322,4
+C06452 ((S)-2-Hydroxypropylphosphonate)	149,388,4
+C06454 (Fosfomycin)	60,388,4
+C05682 (Phosphonoacetate)	206,322,4
+C00033 (Acetate)	70,322,4
+C17940 (Rhizocticin B)	388,254,4
+C17944 (Rhizocticin A)	388,254,4
+C17960 (Rhizocticin C)	388,254,4
+C17961 (Rhizocticin D)	388,254,4
+C06455 (Hydroxymethylphosphonate)	293,453,4
+C17943 (Formylphosphonate)	293,516,4
+C05679 (N-Monomethyl-2-aminoethylphosphonate)	420,483,4
+C05683 (Ciliatocholate)	535,385,4
+C05678 ((2-Amino-1-hydroxyethyl)phosphonate)	532,322,4
+C05673 (CMP-2-aminoethylphosphonate)	532,450,4
+C05677 (Lipophosphonoglycan)	632,357,4
+C05681 (Ceramide 2-aminoethylphosphonate)	632,415,4
+C05680 (N-Dimethyl-2-aminoethylphosphonate)	420,523,4
+C06459 (N-Trimethyl-2-aminoethylphosphonate)	420,563,4
+C05676 (Diacylglyceryl-N-trimethyl-2-aminoethylphosphonate)	632,563,4
+C06456 (Phosphonoformate)	293,581,4
+C17945 (Phosphonoformyl-CMP)	293,646,4
+C06367 (1-Carboxyvinyl carboxyphosphonate)	293,711,4
+C06368 (3-(Hydrohydroxyphosphoryl)pyruvate)	378,711,4
+C17947 (2-Phosphinomethylmalate)	463,711,4
+C17948 (Deamino-alpha-keto-demethylphosphinothricin)	628,711,4
+C17949 (N-Acetyldemethylphosphinothricin)	793,711,4
+C17950 (N-Acetyldemethylphosphinothricin tripeptide)	914,711,4
+C17952 (N-Acetylphosphinothricin)	793,805,4
+C17951 (N-Acetylbialaphos)	914,805,4
+C04650 (L-Phosphinothricin)	793,870,4
+C06457 (Bialaphos)	914,870,4
+C17962 (Demethylphosphinothricin)	708,711,4
+C17941 (2-Oxo-4-phosphonobutanoate)	481,214,4
+C05674 (CMP-N-trimethyl-2-aminoethylphosphonate)	532,563,4
+C05675 (Diacylglyceryl-2-aminoethylphosphonate)	632,450,4
+C00084 (Acetaldehyde)	93,263,4
+C06451 (2-Hydroxyethylphosphonate)	293,388,4
+C20396 (Methylphosphonate)	225,473,4
+C20422 (alpha-D-Ribose 1-methylphosphonate 5-triphosphate)	225,538,4
+C20423 (alpha-D-Ribose 1-methylphosphonate 5-phosphate)	225,603,4
+C20440 (alpha-D-Ribose 1,2-cyclic phosphate 5-phosphate)	225,668,4
+C00022 (Pyruvate)	116,182,4
+C01151 (D-Ribose 1,5-bisphosphate)	225,769,4
+C20986 (D-Ribose 2,5-bisphosphate)	161,719,4
+C00117 (D-Ribose 5-phosphate)	161,769,4
+C21372 (3-Phosphinomethylmalate)	548,711,4
+C00037 (Glycine)	632,322,4
+C21403 (2-Acetamidoethylphosphonate)	532,263,4
+C21404 (N-Ethylacetamide)	632,263,4
+C01438 (Methane)	260,648,4
+C21613 ((R)-2-(Phosphonomethyl)malate)	388,214,4
+13026 (Pcyt1a)	452,555,498,572
+236899 (Pcyt1b)	452,555,498,572
+28042 (Selenoi)	555,442,601,459
+99712 (Cept1)	555,442,601,459
+212862 (Chpt1)	555,555,601,572
+99712 (Cept1)	555,555,601,572
+68671 (Pcyt2)	452,442,498,459
+mmu00440: Phosphonate and phosphinate metabolism	40,45,389,70
+mmu00010: Glycolysis / Gluconeogenesis	48,111,140,136
+mmu00030: Pentose phosphate pathway	134,816,243,850
+mmu00260: Glycine	748,305,872,339
+serine and threonine metabolism	748,305,872,339

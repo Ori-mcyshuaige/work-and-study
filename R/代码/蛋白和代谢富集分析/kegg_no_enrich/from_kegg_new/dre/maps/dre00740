@@ -1,0 +1,34 @@
+C15556 (L-3,4-Dihydroxybutan-2-one 4-phosphate)	503,132,4
+C00199 (D-Ribulose 5-phosphate)	376,132,4
+C00044 (GTP)	81,205,4
+C01304 (2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one)	179,205,4
+C01268 (5-Amino-6-(5'-phosphoribosylamino)uracil)	277,205,4
+C04454 (5-Amino-6-(5'-phospho-D-ribitylamino)uracil)	375,205,4
+C04332 (6,7-Dimethyl-8-(D-ribityl)lumazine)	590,205,4
+C05995 (7-Hydroxy-6-methyl-8-ribityllumazine)	590,119,4
+C00255 (Riboflavin)	700,205,4
+C00474 (Ribitol)	700,95,4
+C01727 (Lumichrome)	733,122,4
+C00016 (FAD)	986,205,4
+C00061 (FMN)	846,205,4
+C18910 (2,5-Diamino-6-(5-phospho-D-ribitylamino)pyrimidin-4(3H)-one)	277,257,4
+C01847 (Reduced FMN)	846,325,4
+C01352 (FADH2)	986,325,4
+C03114 (Dimethylbenzimidazole)	846,416,4
+C15563 (2-Amino-5-formylamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one)	179,325,4
+C01007 (Reduced riboflavin)	700,325,4
+C04732 (5-Amino-6-(1-D-ribitylamino)uracil)	480,205,4
+445492 (flad1)	895,197,941,214
+560915 (rfk)	749,186,795,203
+436959 (blvrb)	677,249,723,266
+100536156	895,142,941,159
+562399 (enpp1)	895,142,941,159
+406801 (acp5a)	749,142,795,159
+436725 (acp5b)	749,142,795,159
+503759 (acp2)	749,142,795,159
+541489 (acp1)	749,142,795,159
+dre00030: Pentose phosphate pathway	303,60,451,85
+dre00740: Riboflavin metabolism	40,45,231,70
+dre00040: Pentose and glucuronate interconversions	766,78,904,112
+dre00230: Purine metabolism	27,125,137,150
+dre00860: Porphyrin and chlorophyll metabolism	884,400,1030,434

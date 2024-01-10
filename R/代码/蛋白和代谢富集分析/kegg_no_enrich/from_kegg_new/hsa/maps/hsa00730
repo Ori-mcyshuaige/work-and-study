@@ -1,0 +1,57 @@
+C00082 (L-Tyrosine)	411,315,4
+C15809 (Iminoglycine)	411,395,4
+C11437 (1-Deoxy-D-xylulose 5-phosphate)	312,405,4
+C15814 (Thiocarboxy-[sulfur-carrier protein])	371,322,4
+C15813 (Adenylyl-[sulfur-carrier protein])	261,322,4
+C15812 ([Enzyme]-S-sulfanylcysteine)	276,284,4
+C15811 ([Enzyme]-cysteine)	166,284,4
+C00097 (L-Cysteine)	186,255,4
+C15810 (Sulfur-carrier protein)	151,321,4
+C03373 (Aminoimidazole ribotide)	200,158,4
+C01279 (4-Amino-5-hydroxymethyl-2-methylpyrimidine)	57,194,4
+C04556 (4-Amino-2-methyl-5-(phosphooxymethyl)pyrimidine)	317,194,4
+C04752 (4-Amino-5-hydroxymethyl-2-methylpyrimidine diphosphate)	543,194,4
+C00118 (D-Glyceraldehyde 3-phosphate)	202,405,4
+C04327 (4-Methyl-5-(2-phosphooxyethyl)thiazole)	371,601,4
+C01081 (Thiamin monophosphate)	623,601,4
+C02892 (Thiamine acetic acid)	836,740,4
+C00068 (Thiamin diphosphate)	771,601,4
+C03028 (Thiamin triphosphate)	892,601,4
+C00378 (Thiamine)	623,696,4
+C05856 (Thiamine aldehyde)	726,740,4
+C04294 (5-(2-Hydroxyethyl)-4-methylthiazole)	223,601,4
+C00037 (Glycine)	165,510,4
+C00003 (NAD+)	144,536,4
+C00018 (Pyridoxal phosphate)	317,101,4
+C20246 (2-[(2R,5Z)-2-Carboxy-4-methylthiazol-5(2H)-ylidene]ethyl phosphate)	371,475,4
+C00037 (Glycine)	492,315,4
+C20247 (2-(2-Carboxy-4-methylthiazol-5-yl)ethyl phosphate)	371,536,4
+C00022 (Pyruvate)	202,373,4
+C20784 (ADP-5-ethyl-4-methylthiazole-2-carboxylate)	280,536,4
+C19872 (N-Formyl-4-amino-5-aminomethyl-2-methylpyrimidine)	542,740,4
+C20267 (4-Amino-5-aminomethyl-2-methylpyrimidine)	449,740,4
+79178 (THTPA)	812,548,858,565
+122481 (AK7)	812,603,858,620
+158067 (AK8)	812,603,858,620
+203 (AK1)	812,603,858,620
+204 (AK2)	812,603,858,620
+205 (AK4)	812,603,858,620
+26289 (AK5)	812,603,858,620
+390877	812,603,858,620
+84284 (NTPCR)	681,537,727,554
+27010 (TPK1)	682,691,728,708
+9054 (NFS1)	200,276,246,293
+248 (ALPI)	575,624,621,641
+249 (ALPL)	575,624,621,641
+250 (ALPP)	575,624,621,641
+251 (ALPG)	575,624,621,641
+52 (ACP1)	625,624,671,641
+hsa00260: Glycine	456,229,529,263
+serine and threonine metabolism	456,229,529,263
+hsa00400: Phenylalanine	374,229,449,263
+tyrosine and tryptophan biosynthesis	374,229,449,263
+hsa00730: Thiamine metabolism	40,45,228,70
+hsa00010: Glycolysis / Gluconeogenesis	80,393,151,418
+hsa00230: Purine metabolism	31,145,139,170
+hsa00750: Vitamin B6 metabolism	115,89,255,114
+hsa00270: Cysteine and methionine metabolism	75,238,146,272

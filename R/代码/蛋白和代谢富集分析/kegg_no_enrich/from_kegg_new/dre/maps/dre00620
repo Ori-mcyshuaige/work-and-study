@@ -1,0 +1,104 @@
+C15973 (Enzyme N6-(dihydrolipoyl)lysine)	368,526,4
+C15972 (Enzyme N6-(lipoyl)lysine)	368,463,4
+C16255 ([Dihydrolipoyllysine-residue acetyltransferase] S-acetyldihydrolipoyllysine)	406,492,4
+C05125 (2-(alpha-Hydroxyethyl)thiamine diphosphate)	406,431,4
+C03248 (Acetylenedicarboxylate)	541,137,4
+C00074 (Phosphoenolpyruvate)	403,179,4
+C03981 (2-Hydroxyethylenedicarboxylate)	541,196,4
+C00058 (Formate)	252,504,4
+C00149 ((S)-Malate)	161,646,4
+C00332 (Acetoacetyl-CoA)	274,780,4
+C00024 (Acetyl-CoA)	406,565,4
+C00227 (Acetyl phosphate)	646,435,4
+C05993 (Acetyl adenylate)	617,629,4
+C02504 (alpha-Isopropylmalate)	543,745,4
+C02488 ((R)-2-Ethylmalate)	274,745,4
+C05994 (2-Propylmalate)	274,819,4
+C01251 ((R)-2-Hydroxybutane-1,2,4-tricarboxylate)	543,780,4
+C00083 (Malonyl-CoA)	543,819,4
+C00084 (Acetaldehyde)	801,686,4
+C00033 (Acetate)	797,568,4
+C00186 ((S)-Lactate)	800,351,4
+C00256 ((R)-Lactate)	800,245,4
+C03451 ((R)-S-Lactoylglutathione)	713,187,4
+C00937 ((R)-Lactaldehyde)	803,127,4
+C00424 ((S)-Lactaldehyde)	803,71,4
+C00546 (Methylglyoxal)	636,71,4
+C00022 (Pyruvate)	406,354,4
+C00036 (Oxaloacetate)	161,499,4
+C00068 (Thiamin diphosphate)	444,416,4
+C00122 (Fumarate)	261,650,4
+C00042 (Succinate)	354,650,4
+406428 (pdhb)	383,448,429,465
+406702 (pdha1a)	383,448,429,465
+436672 (pdha1b)	383,448,429,465
+378727 (pck1)	198,146,244,163
+406473 (pck2)	198,146,244,163
+114551 (pklr)	363,243,409,260
+335817 (pkma)	363,243,409,260
+445094 (pkmb)	363,243,409,260
+368213 (glo1)	648,178,694,195
+334208 (ldhd)	499,260,545,277
+336977 (hagh)	730,178,776,195
+553283 (pcxa)	137,408,183,425
+58068 (pcxb)	137,408,183,425
+445233 (me2)	168,431,214,448
+492719 (me3)	194,450,240,467
+768196 (me1)	194,450,240,467
+335715 (mdh1ab)	113,550,159,567
+399662 (mdh1aa)	113,550,159,567
+406405 (mdh2)	113,550,159,567
+30496 (ldha)	621,332,667,349
+30497 (ldhba)	621,332,667,349
+436747 (ldhbb)	621,332,667,349
+436914 (acss2)	492,621,538,638
+541435 (acss1)	492,621,538,638
+560020 (acss2l)	492,621,538,638
+100536873 (acot12)	693,558,739,575
+436914 (acss2)	693,621,739,638
+541435 (acss1)	693,621,739,638
+560020 (acss2l)	693,621,739,638
+100000026 (aldh3a1)	753,633,799,650
+100005587 (aldh9a1a.1)	753,633,799,650
+100536795 (wu:fb14d09)	753,633,799,650
+323653 (aldh3a2a)	753,633,799,650
+334197 (aldh7a1)	753,633,799,650
+368239 (aldh2.2)	753,633,799,650
+393462 (aldh2.1)	753,633,799,650
+399481 (aldh9a1b)	753,633,799,650
+447920 (aldh3a2b)	753,633,799,650
+492710 (aldh16a1)	753,633,799,650
+30643 (acat2)	325,771,371,788
+445290 (acat1)	325,771,371,788
+556236 (acacb)	442,810,488,827
+559403 (acaca)	442,810,488,827
+402985 (grhprb)	686,129,732,146
+497183 (grhpra)	686,129,732,146
+406428 (pdhb)	382,388,428,405
+406702 (pdha1a)	382,388,428,405
+436672 (pdha1b)	382,388,428,405
+324201 (dlat)	383,520,429,537
+399479 (dldh)	344,486,390,503
+571263 (acyp1)	693,490,739,507
+393938 (fh)	188,645,234,662
+dre00620: Pyruvate metabolism	40,45,228,70
+dre00760: Nicotinate and nicotinamide metabolism	97,239,248,273
+dre00020: Citrate cycle (TCA cycle)	46,688,123,713
+dre00260: Glycine	506,90,621,124
+serine and threonine metabolism	506,90,621,124
+dre00010: Glycolysis / Gluconeogenesis	309,85,377,110
+dre00630: Glyoxylate and dicarboxylate metabolism	78,595,148,629
+dre00630: Glyoxylate and dicarboxylate metabolism	220,542,287,576
+dre00640: Propanoate metabolism	316,591,392,625
+dre00650: Butanoate metabolism	46,767,175,792
+dre00072: Synthesis and degradation of ketone bodies	46,796,186,830
+dre00290: Valine	649,733,768,758
+leucine and isoleucine biosynthesis	649,733,768,758
+map00300: Lysine biosynthesis	649,768,763,793
+dre00061: Fatty acid biosynthesis	649,806,779,831
+dre00290: Valine	97,302,229,336
+leucine and isoleucine biosynthesis	97,302,229,336
+map00522: Biosynthesis of 12-	649,834,807,868
+14- and 16-membered macrolides	649,834,807,868
+map01059: Biosynthesis of enediyne antibiotics	649,871,843,896
+map01056: Biosynthesis of type II polyketide backbone	649,899,881,924

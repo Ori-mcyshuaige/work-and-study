@@ -1,0 +1,167 @@
+C00062 (L-Arginine)	266,326,4
+C00077 (L-Ornithine)	609,326,4
+C00134 (Putrescine)	609,626,4
+C00555 (4-Aminobutyraldehyde)	609,832,4
+C00334 (4-Aminobutanoate)	609,932,4
+C15699 (gamma-L-Glutamylputrescine)	352,686,4
+C15700 (gamma-Glutamyl-gamma-aminobutyraldehyde)	352,751,4
+C15767 (4-(L-gamma-Glutamylamino)butanoate)	352,816,4
+C00315 (Spermidine)	961,832,4
+C01137 (S-Adenosylmethioninamine)	1004,747,4
+C00750 (Spermine)	1102,832,4
+C00019 (S-Adenosyl-L-methionine)	1004,660,4
+C02714 (N-Acetylputrescine)	444,686,4
+C05936 (N4-Acetylaminobutanal)	444,751,4
+C02946 (4-Acetamidobutanoate)	444,816,4
+C03771 (5-Guanidino-2-oxopentanoate)	216,573,4
+C01035 (4-Guanidinobutanoate)	266,932,4
+C02647 (4-Guanidinobutanal)	216,675,4
+C03078 (4-Guanidinobutanamide)	266,675,4
+C00884 (Homocarnosine)	766,932,4
+C00581 (Guanidinoacetate)	341,197,4
+C00300 (Creatine)	429,197,4
+C02305 (Phosphocreatine)	559,197,4
+C00791 (Creatinine)	689,197,4
+C02565 (N-Methylhydantoin)	689,277,4
+C01043 (N-Carbamoylsarcosine)	559,277,4
+C00213 (Sarcosine)	429,277,4
+C00086 (Urea)	481,252,4
+C03166 (Phosphoguanidinoacetate)	341,138,4
+C18172 (Carboxyspermidine)	838,751,4
+C00441 (L-Aspartate 4-semialdehyde)	761,666,4
+C18174 (Carboxynorspermidine)	761,751,4
+C03375 (Norspermidine)	761,808,4
+C00986 (1,3-Diaminopropane)	728,694,4
+C00436 (N-Carbamoylputrescine)	451,392,4
+C00223 (p-Coumaroyl-CoA)	439,495,4
+C18326 (p-Coumaroylputrescine)	477,520,4
+C00406 (Feruloyl-CoA)	439,559,4
+C10497 (Feruloylputrescine)	477,584,4
+C04498 (p-Coumaroylagmatine)	400,520,4
+C18325 (Feruloylagmatine)	400,584,4
+C01682 (Nopaline)	170,250,4
+C04137 (D-Octopine)	219,250,4
+C05945 (L-Arginine phosphate)	79,468,4
+C05933 (N(omega)-Hydroxyarginine)	165,415,4
+C00533 (Nitric oxide)	165,494,4
+C05931 (N-Succinyl-L-glutamate)	596,116,4
+C03296 (N2-Succinyl-L-arginine)	266,201,4
+C03415 (N2-Succinyl-L-ornithine)	266,116,4
+C05932 (N-Succinyl-L-glutamate 5-semialdehyde)	429,116,4
+C00025 (L-Glutamate)	756,116,4
+C03287 (L-Glutamyl 5-phosphate)	756,228,4
+C03440 (cis-4-Hydroxy-D-proline)	1115,449,4
+C00433 (2,5-Dioxopentanoate)	1115,632,4
+C05942 (Pyrrole-2-carboxylate)	1200,548,4
+C05941 (2-Oxo-4-hydroxy-5-aminovalerate)	1179,500,4
+C03912 ((S)-1-Pyrroline-5-carboxylate)	857,326,4
+C00022 (Pyruvate)	1403,571,4
+C01157 (Hydroxyproline)	1115,326,4
+C04281 (L-1-Pyrroline-3-hydroxy-5-carboxylate)	1225,326,4
+C05947 (L-erythro-4-Hydroxyglutamate)	1335,326,4
+C05946 ((4R)-4-Hydroxy-2-oxoglutarate)	1335,508,4
+C00048 (Glyoxylate)	1335,599,4
+C05938 (L-4-Hydroxyglutamate semialdehyde)	1225,391,4
+C01877 (4-Oxoproline)	1115,215,4
+C00148 (L-Proline)	998,326,4
+C00431 (5-Aminopentanoate)	998,559,4
+C03564 (1-Pyrroline-2-carboxylate)	857,474,4
+C01110 (5-Amino-2-oxopentanoic acid)	792,437,4
+C05939 (Linatine)	1070,474,4
+C05147 (trans-3-Hydroxy-L-proline)	721,474,4
+C00763 (D-Proline)	998,474,4
+C04282 (1-Pyrroline-4-hydroxy-2-carboxylate)	1115,548,4
+C00012 (Peptide)	1035,406,4
+C00179 (Agmatine)	294,446,4
+C19706 (cis-3-Hydroxy-L-proline)	721,524,4
+C01250 (N-Acetyl-L-glutamate 5-semialdehyde)	756,379,4
+C01165 (L-Glutamate 5-semialdehyde)	756,326,4
+383 (ARG1)	418,318,464,335
+384 (ARG2)	418,318,464,335
+2628 (GATM)	407,952,453,969
+26 (AOC1)	586,733,632,750
+217 (ALDH2)	586,851,632,868
+219 (ALDH1B1)	586,851,632,868
+223 (ALDH9A1)	586,851,632,868
+224 (ALDH3A2)	586,851,632,868
+501 (ALDH7A1)	586,851,632,868
+6723 (SRM)	938,783,984,800
+262 (AMD1)	981,692,1027,709
+6611 (SMS)	1019,824,1065,841
+112483 (SAT2)	396,643,442,660
+6303 (SAT1)	396,643,442,660
+4128 (MAOA)	421,705,467,722
+4129 (MAOB)	421,705,467,722
+217 (ALDH2)	421,770,467,787
+219 (ALDH1B1)	421,770,467,787
+223 (ALDH9A1)	421,770,467,787
+224 (ALDH3A2)	421,770,467,787
+501 (ALDH7A1)	421,770,467,787
+57571 (CARNS1)	668,889,714,906
+55748 (CNDP2)	668,913,714,930
+2628 (GATM)	317,244,363,261
+2593 (GAMT)	358,189,404,206
+1152 (CKB)	472,189,518,206
+1158 (CKM)	472,189,518,206
+1159 (CKMT1B)	472,189,518,206
+1160 (CKMT2)	472,189,518,206
+548596 (CKMT1A)	472,189,518,206
+113451 (AZIN2)	271,358,317,375
+79814 (AGMAT)	418,439,464,456
+84735 (CNDP1)	668,934,714,951
+54498 (SMOX)	1018,858,1064,875
+4842 (NOS1)	117,360,163,377
+4843 (NOS2)	117,360,163,377
+4846 (NOS3)	117,360,163,377
+4842 (NOS1)	117,440,163,457
+4843 (NOS2)	117,440,163,457
+4846 (NOS3)	117,440,163,457
+4942 (OAT)	660,318,706,335
+29920 (PYCR2)	903,317,949,334
+5831 (PYCR1)	903,317,949,334
+65263 (PYCR3)	903,317,949,334
+102724788	903,288,949,305
+5625 (PRODH)	903,288,949,305
+8659 (ALDH4A1)	776,192,822,209
+5832 (ALDH18A1)	732,157,778,174
+5832 (ALDH18A1)	733,257,779,274
+8659 (ALDH4A1)	835,192,881,209
+1610 (DAO)	1067,486,1113,503
+283208 (P4HA3)	1045,318,1091,335
+5033 (P4HA1)	1045,318,1091,335
+8974 (P4HA2)	1045,318,1091,335
+58510 (PRODH2)	1148,317,1194,334
+29920 (PYCR2)	1148,289,1194,306
+5831 (PYCR1)	1148,289,1194,306
+65263 (PYCR3)	1148,289,1194,306
+8659 (ALDH4A1)	1255,317,1301,334
+8659 (ALDH4A1)	1255,383,1301,400
+2805 (GOT1)	1313,418,1359,435
+2806 (GOT2)	1313,418,1359,435
+112817 (HOGA1)	1312,539,1358,556
+1610 (DAO)	903,455,949,472
+112849 (L3HYPDH)	764,466,810,483
+51056 (LAP3)	1012,361,1058,378
+4953 (ODC1)	586,358,632,375
+hsa00330: Arginine and proline metabolism	40,45,333,70
+hsa00250: Alanine	753,943,886,977
+aspartate and glutamate metabolism	753,943,886,977
+hsa00480: Glutathione metabolism	1117,874,1196,908
+hsa00410: beta-Alanine metabolism	1197,815,1271,849
+hsa00270: Cysteine and methionine metabolism	937,577,1072,611
+map00960: Tropane	698,575,861,609
+piperidine and pyridine alkaloid biosynthesis	698,575,861,609
+hsa00260: Glycine	622,649,692,683
+serine and threonine metabolism	622,649,692,683
+hsa00260: Glycine	1363,650,1483,684
+serine and threonine metabolism	1363,650,1483,684
+hsa00250: Alanine	917,100,1050,134
+aspartate and glutamate metabolism	917,100,1050,134
+hsa00040: Pentose and glucuronate interconversions	1049,692,1183,726
+hsa00053: Ascorbate and aldarate metabolism	1173,650,1299,684
+hsa00020: Citrate cycle (TCA cycle)	1364,616,1441,641
+hsa00630: Glyoxylate and dicarboxylate metabolism	1267,709,1408,743
+hsa00310: Lysine degradation	825,546,936,571
+hsa00220: Arginine biosynthesis	25,249,148,274
+hsa00650: Butanoate metabolism	548,984,670,1009
+hsa00220: Arginine biosynthesis	810,367,935,392

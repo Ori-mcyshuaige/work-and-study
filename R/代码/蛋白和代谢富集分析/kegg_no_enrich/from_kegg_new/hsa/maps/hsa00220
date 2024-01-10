@@ -1,0 +1,53 @@
+C03406 (N-(L-Arginino)succinate)	802,77,4
+C00327 (L-Citrulline)	685,199,4
+C00062 (L-Arginine)	937,198,4
+C00077 (L-Ornithine)	745,308,4
+C00169 (Carbamoyl phosphate)	396,263,4
+C00049 (L-Aspartate)	671,133,4
+C00122 (Fumarate)	937,131,4
+C00014 (Ammonia)	180,263,4
+C00624 (N-Acetyl-L-glutamate)	280,363,4
+C04133 (N-Acetyl-L-glutamate 5-phosphate)	380,363,4
+C01250 (N-Acetyl-L-glutamate 5-semialdehyde)	480,363,4
+C00064 (L-Glutamine)	180,151,4
+C00086 (Urea)	882,342,4
+C01010 (Urea-1-carboxylate)	989,342,4
+C00011 (CO2)	1094,342,4
+C15532 (N-Acetyl-L-citrulline)	580,199,4
+C00026 (2-Oxoglutarate)	67,363,4
+C00437 (N-Acetylornithine)	580,363,4
+C20948 (LysW-L-glutamate)	280,413,4
+C20949 (LysW-L-glutamyl 5-phosphate)	380,413,4
+C20950 (LysW-L-glutamate 5-semialdehyde)	480,413,4
+C20951 (LysW-L-ornithine)	580,413,4
+C00025 (L-Glutamate)	180,363,4
+27165 (GLS2)	132,194,178,211
+2744 (GLS)	132,194,178,211
+2752 (GLUL)	79,194,125,211
+1373 (CPS1)	260,256,306,273
+5009 (OTC)	667,229,713,246
+445 (ASS1)	701,102,747,119
+435 (ASL)	871,100,917,117
+383 (ARG1)	868,288,914,305
+384 (ARG2)	868,288,914,305
+162417 (NAGS)	205,354,251,371
+100526760 (ABHD14A-ACY1)	608,344,654,361
+95 (ACY1)	608,344,654,361
+4842 (NOS1)	757,198,803,215
+4843 (NOS2)	757,198,803,215
+4846 (NOS3)	757,198,803,215
+2746 (GLUD1)	132,315,178,332
+2747 (GLUD2)	132,315,178,332
+2805 (GOT1)	101,344,147,361
+2806 (GOT2)	101,344,147,361
+2875 (GPT)	101,365,147,382
+84706 (GPT2)	101,365,147,382
+hsa00250: Alanine	471,116,596,150
+aspartate and glutamate metabolism	471,116,596,150
+hsa00020: Citrate cycle (TCA cycle)	982,119,1059,144
+hsa00472: D-Arginine and D-ornithine metabolism	785,241,882,275
+hsa00910: Nitrogen metabolism	334,162,451,187
+hsa00240: Pyrimidine metabolism	456,209,528,243
+hsa00020: Citrate cycle (TCA cycle)	29,287,105,312
+hsa00220: Arginine biosynthesis	40,45,233,70
+hsa00330: Arginine and proline metabolism	1012,181,1133,215

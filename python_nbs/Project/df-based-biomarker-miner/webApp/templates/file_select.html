@@ -1,0 +1,28 @@
+{% extends 'base.html' %}
+{% from 'macros.html' import form_field %}
+
+{% block content %}
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset='UTF-8'>
+    <title>特征选择结果展示</title>
+    <link rel=stylesheet type=text/css href="{{ url_for('static',filename='style.css')}}">
+</head>
+
+<body>
+{{ importance_data|safe }}
+<img src='data:image/png;base64,{{img}}' style='height:450px;width:1000px;'/>
+</body>
+
+</html>
+
+<form method='post' enctype="multipart/form-data">
+    {{ form.csrf_token }}
+    {{ form.submit }}
+</form>
+
+
+{% endblock %}

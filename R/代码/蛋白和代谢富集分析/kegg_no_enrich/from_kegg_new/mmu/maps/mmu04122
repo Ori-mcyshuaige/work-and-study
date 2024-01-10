@@ -1,0 +1,40 @@
+C00097 (L-Cysteine)	184,269,4
+C00041 (L-Alanine)	217,270,4
+C00868 (tRNA uridine)	461,456,4
+C17322 (tRNA containing 2-thiouridine)	504,467,4
+C00868 (tRNA uridine)	462,654,4
+C17322 (tRNA containing 2-thiouridine)	504,662,4
+C00378 (Thiamine)	1037,756,4
+C05924 (Molybdopterin)	1039,588,4
+C18239 (Precursor Z)	986,570,4
+C00044 (GTP)	858,568,4
+C00019 (S-Adenosyl-L-methionine)	882,554,4
+C18237 (Molybdoenzyme molybdenum cofactor)	1182,585,4
+C05924 (Molybdopterin)	1039,472,4
+C18239 (Precursor Z)	987,455,4
+C00044 (GTP)	858,452,4
+C00019 (S-Adenosyl-L-methionine)	880,438,4
+C18237 (Molybdoenzyme molybdenum cofactor)	1182,470,4
+C00097 (L-Cysteine)	761,272,4
+C00041 (L-Alanine)	794,273,4
+C00097 (L-Cysteine)	1037,893,4
+C00979 (O-Acetyl-L-serine)	920,878,4
+69372 (Mocs3)	271,462,317,479
+68205 (Urm1)	177,462,223,479
+18041 (Nfs1)	270,389,316,406
+66965 (Ctu2)	362,448,408,465
+233189 (Ctu1)	362,431,408,448
+22117 (Tst)	269,425,315,442
+246221 (Mpst)	269,425,315,442
+18041 (Nfs1)	271,583,317,600
+18041 (Nfs1)	795,674,841,691
+18041 (Nfs1)	795,543,841,560
+17434 (Mocs2)	865,579,911,596
+18041 (Nfs1)	795,426,841,443
+17434 (Mocs2)	865,463,911,480
+69372 (Mocs3)	795,462,841,479
+mmu04122: Sulfur relay system	40,45,240,70
+mmu04120: Ubiquitin mediated proteolysis	10,124,105,158
+mmu00730: Thiamine metabolism	883,712,975,746
+mmu00270: Cysteine and methionine metabolism	885,808,1015,842
+mmu00790: Folate biosynthesis	1060,502,1152,536

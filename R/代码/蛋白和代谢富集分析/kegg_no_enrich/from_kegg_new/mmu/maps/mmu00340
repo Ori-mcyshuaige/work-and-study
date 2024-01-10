@@ -1,0 +1,79 @@
+C00119 (5-Phospho-alpha-D-ribose 1-diphosphate)	104,135,4
+C02739 (1-(5-Phospho-D-ribosyl)-ATP)	192,135,4
+C02741 (Phosphoribosyl-AMP)	280,135,4
+C04896 (5-(5-Phospho-D-ribosylaminoformimino)-1-(5-phosphoribosyl)-imidazole-4-carboxamide)	368,135,4
+C04916 (N-(5'-Phospho-D-1'-ribulosylformimino)-5-amino-1-(5''-phospho-D-ribosyl)-4-imidazolecarboxamide)	456,135,4
+C04677 (1-(5'-Phosphoribosyl)-5-amino-4-imidazolecarboxamide)	537,192,4
+C04666 (D-erythro-1-(Imidazol-4-yl)glycerol 3-phosphate)	564,135,4
+C01267 (3-(Imidazol-4-yl)-2-oxopropyl phosphate)	652,135,4
+C01100 (L-Histidinol phosphate)	740,135,4
+C00860 (L-Histidinol)	828,135,4
+C00049 (L-Aspartate)	92,413,4
+C01044 (N-Formyl-L-aspartate)	92,340,4
+C03409 (N-Formimino-L-aspartate)	185,340,4
+C05133 (4-Imidazolone-5-acetate)	278,340,4
+C05131 ((1-Ribosylimidazole)-4-acetate)	371,486,4
+C04437 (1-(5-Phosphoribosyl)imidazole-4-acetate)	371,413,4
+C02835 (Imidazole-4-acetate)	371,340,4
+C05130 (Imidazole-4-acetaldehyde)	464,340,4
+C00388 (Histamine)	573,340,4
+C01929 (L-Histidinal)	828,208,4
+C01152 (N(pi)-Methyl-L-histidine)	783,221,4
+C01262 (beta-Alanyl-N(pi)-methyl-L-histidine)	684,221,4
+C00386 (Carnosine)	684,266,4
+C00135 (L-Histidine)	828,340,4
+C05127 (N-Methylhistamine)	573,413,4
+C05135 (4-(beta-Acetylaminoethyl)imidazole)	527,286,4
+C03277 (Imidazol-5-yl-pyruvate)	684,605,4
+C05568 (Imidazole lactate)	684,662,4
+C05571 (Thiourocanic acid)	1190,413,4
+C05570 (Ergothioneine)	1190,341,4
+C05575 (Hercynine)	920,340,4
+C00785 (Urocanate)	828,413,4
+C05572 (4-Oxoglutaramate)	958,481,4
+C00026 (2-Oxoglutarate)	1032,481,4
+C16673 (Isoglutamine)	998,492,4
+C16674 (Formylisoglutamine)	924,492,4
+C03680 (4-Imidazolone-5-propanoate)	828,486,4
+C00439 (N-Formimino-L-glutamate)	828,559,4
+C05565 (Hydantoin-5-propionate)	735,486,4
+C01045 (N-Formyl-L-glutamate)	943,560,4
+C00025 (L-Glutamate)	828,638,4
+C05827 (Methylimidazole acetaldehyde)	573,486,4
+C05828 (Methylimidazoleacetic acid)	573,559,4
+C05829 (N-Carbamyl-L-glutamate)	735,638,4
+C20522 (Dihydrourocanate)	976,413,4
+C20995 (gamma-L-Glutamyl-S-(hercyn-2-yl)-L-cysteine S-oxide)	1011,340,4
+C20994 (S-(Hercyn-2-yl)-L-cysteine S-oxide)	1101,340,4
+14317 (Ftcd)	826,581,872,598
+71761 (Amdhd1)	806,509,852,526
+243537 (Uroc1)	806,436,852,453
+15109 (Hal)	806,364,852,381
+67383 (Carnmt1)	662,240,708,257
+66054 (Cndp2)	636,288,682,305
+107239 (Carns1)	735,258,781,275
+110695 (Aldh7a1)	399,332,445,349
+11669 (Aldh2)	399,332,445,349
+11671 (Aldh3a2)	399,332,445,349
+56752 (Aldh9a1)	399,332,445,349
+72535 (Aldh1b1)	399,332,445,349
+109731 (Maob)	551,436,597,453
+17161 (Maoa)	551,436,597,453
+11670 (Aldh3a1)	551,511,597,528
+56847 (Aldh1a3)	551,511,597,528
+621603 (Aldh3b2)	551,511,597,528
+67689 (Aldh3b1)	551,511,597,528
+73458 (Aldh3b3)	551,511,597,528
+76507 (Aoc1)	500,332,546,349
+140483 (Hnmt)	551,364,597,381
+338403 (Cndp1)	686,288,732,305
+107239 (Carns1)	710,221,756,238
+11484 (Aspa)	44,364,90,381
+15186 (Hdc)	634,332,680,349
+mmu00030: Pentose phosphate pathway	36,202,191,228
+mmu00250: Alanine	973,628,1099,662
+aspartate and glutamate metabolism	973,628,1099,662
+mmu00340: Histidine metabolism	40,45,219,70
+mmu00230: Purine metabolism	480,233,595,257
+mmu00250: Alanine	37,455,160,489
+aspartate and glutamate metabolism	37,455,160,489

@@ -1,0 +1,42 @@
+C00094 (Sulfite)	243,395,4
+C06735 (Aminoacetaldehyde)	211,364,4
+C00041 (L-Alanine)	412,400,4
+C00022 (Pyruvate)	412,335,4
+C14179 (Sulfoacetate)	499,471,4
+C00227 (Acetyl phosphate)	259,432,4
+C00024 (Acetyl-CoA)	166,432,4
+C00606 (3-Sulfino-L-alanine)	243,193,4
+C00519 (Hypotaurine)	362,193,4
+C01678 (Cysteamine)	243,144,4
+C00097 (L-Cysteine)	141,193,4
+C00506 (L-Cysteate)	243,302,4
+C00245 (Taurine)	362,303,4
+C00593 (Sulfoacetaldehyde)	362,432,4
+C05123 (2-Hydroxyethanesulfonate)	362,532,4
+C01959 (Taurocyamine)	499,302,4
+C03149 (N-Phosphotaurocyamine)	655,302,4
+C05844 (5-L-Glutamyl-taurine)	497,230,4
+C05122 (Taurocholate)	226,341,4
+C00033 (Acetate)	259,511,4
+C00025 (L-Glutamate)	471,400,4
+C00026 (2-Oxoglutarate)	471,335,4
+246277 (Csad)	277,304,323,321
+14415 (Gad1)	277,283,323,300
+14417 (Gad2)	277,283,323,300
+12583 (Cdo1)	164,186,210,203
+211488 (Ado)	277,136,323,153
+246277 (Csad)	277,195,323,212
+73748 (Gadl1)	277,195,323,212
+14415 (Gad1)	277,174,323,191
+14417 (Gad2)	277,174,323,191
+14598 (Ggt1)	423,222,469,239
+207182 (Ggt7)	423,222,469,239
+23887 (Ggt5)	423,222,469,239
+71522 (Ggt6)	423,222,469,239
+12012 (Baat)	251,331,297,348
+mmu00920: Sulfur metabolism	112,378,185,412
+mmu00620: Pyruvate metabolism	35,416,108,450
+mmu00430: Taurine and hypotaurine metabolism	40,45,363,70
+mmu00480: Glutathione metabolism	32,149,107,183
+map00460: Cyanoamino acid metabolism	50,107,154,141
+mmu00270: Cysteine and methionine metabolism	156,230,235,275

@@ -1,0 +1,196 @@
+C04088 (Octadecanoyl-[acyl-carrier protein])	1239,694,4
+C16221 ((2E)-Octadecenoyl-[acp])	1239,562,4
+C16220 ((R)-3-Hydroxyoctadecanoyl-[acp])	1239,469,4
+C16219 (3-Oxostearoyl-[acp])	1239,376,4
+C00712 ((9Z)-Octadecenoic acid)	1352,785,4
+C01530 (Octadecanoic acid)	1239,785,4
+C08362 ((9Z)-Hexadecenoic acid)	1139,785,4
+C01203 (Oleoyl-[acyl-carrier protein])	1352,694,4
+C16520 (Hexadecenoyl-[acyl-carrier protein])	1139,694,4
+C06424 (Tetradecanoic acid)	870,785,4
+C02679 (Dodecanoic acid)	729,785,4
+C01571 (Decanoic acid)	587,785,4
+C06423 (Octanoic acid)	445,785,4
+C00024 (Acetyl-CoA)	162,126,4
+C00083 (Malonyl-CoA)	275,179,4
+C01209 (Malonyl-[acyl-carrier protein])	275,274,4
+C03939 (Acetyl-[acyl-carrier protein])	162,254,4
+C05744 (Acetoacetyl-[acp])	162,376,4
+C04618 ((3R)-3-Hydroxybutanoyl-[acyl-carrier protein])	162,469,4
+C04246 (But-2-enoyl-[acyl-carrier protein])	162,562,4
+C05745 (Butyryl-[acp])	162,694,4
+C00229 (Acyl-carrier protein)	310,196,4
+C05746 (3-Oxohexanoyl-[acp])	303,376,4
+C05747 ((R)-3-Hydroxyhexanoyl-[acp])	303,469,4
+C05748 (trans-Hex-2-enoyl-[acp])	303,562,4
+C05749 (Hexanoyl-[acp])	303,694,4
+C05752 (Octanoyl-[acp])	445,694,4
+C05751 (trans-Oct-2-enoyl-[acp])	445,562,4
+C04620 ((3R)-3-Hydroxyoctanoyl-[acyl-carrier protein])	445,469,4
+C05750 (3-Oxooctanoyl-[acp])	445,376,4
+C05753 (3-Oxodecanoyl-[acp])	587,376,4
+C04619 ((3R)-3-Hydroxydecanoyl-[acyl-carrier protein])	587,469,4
+C05754 (trans-Dec-2-enoyl-[acp])	587,562,4
+C05755 (Decanoyl-[acp])	587,694,4
+C05223 (Dodecanoyl-[acyl-carrier protein])	729,694,4
+C05758 (trans-Dodec-2-enoyl-[acp])	729,562,4
+C05757 ((R)-3-Hydroxydodecanoyl-[acp])	729,469,4
+C05756 (3-Oxododecanoyl-[acp])	729,376,4
+C05759 (3-Oxotetradecanoyl-[acp])	870,376,4
+C04688 ((3R)-3-Hydroxytetradecanoyl-[acyl-carrier protein])	870,469,4
+C05760 (trans-Tetradec-2-enoyl-[acp])	870,562,4
+C05761 (Tetradecanoyl-[acp])	870,694,4
+C00249 (Hexadecanoic acid)	1012,785,4
+C05764 (Hexadecanoyl-[acp])	1012,694,4
+C05763 (trans-Hexadec-2-enoyl-[acp])	1012,562,4
+C04633 ((3R)-3-Hydroxypalmitoyl-[acyl-carrier protein])	1012,469,4
+C05762 (3-Oxohexadecanoyl-[acp])	1012,376,4
+C04180 (cis-Dec-3-enoyl-[acp])	536,762,4
+C20794 (n-7 Unsaturated acyl-[acyl-carrier protein])	536,841,4
+C00154 (Palmitoyl-CoA)	1012,875,4
+C00383 (Malonate)	341,120,4
+C00024 (Acetyl-CoA)	307,1032,4
+C00083 (Malonyl-CoA)	369,1085,4
+C00024 (Acetyl-CoA)	854,1032,4
+C00083 (Malonyl-CoA)	956,1085,4
+C01209 (Malonyl-[acyl-carrier protein])	956,1158,4
+C05744 (Acetoacetyl-[acp])	956,1231,4
+C00685 (3-Oxoacyl-[acyl-carrier protein])	956,1231,4
+C01271 ((3R)-3-Hydroxyacyl-[acyl-carrier protein])	956,1304,4
+C00693 (trans-2,3-Dehydroacyl-[acyl-carrier protein])	956,1377,4
+C00173 (Acyl-[acyl-carrier protein])	956,1450,4
+C00229 (Acyl-carrier protein)	992,1106,4
+C00383 (Malonate)	1069,1085,4
+C00024 (Acetyl-CoA)	574,1032,4
+C00083 (Malonyl-CoA)	676,1085,4
+C01209 (Malonyl-[acyl-carrier protein])	676,1158,4
+C05744 (Acetoacetyl-[acp])	676,1231,4
+C00685 (3-Oxoacyl-[acyl-carrier protein])	676,1231,4
+C01271 ((3R)-3-Hydroxyacyl-[acyl-carrier protein])	676,1304,4
+C00693 (trans-2,3-Dehydroacyl-[acyl-carrier protein])	676,1377,4
+C00173 (Acyl-[acyl-carrier protein])	676,1450,4
+C20683 (Long-chain acyl-[acyl-carrier protein])	676,1450,4
+C00229 (Acyl-carrier protein)	711,1106,4
+C00638 (Long-chain fatty acid)	307,1512,4
+C02843 (Long-chain acyl-CoA)	307,1573,4
+C02843 (Long-chain acyl-CoA)	676,1573,4
+C00638 (Long-chain fatty acid)	676,1512,4
+C03939 (Acetyl-[acyl-carrier protein])	854,1138,4
+559001 (fasn)	822,731,868,748
+568096 (olah)	706,731,752,748
+568096 (olah)	565,731,611,748
+568096 (olah)	422,731,468,748
+564649 (osxm)	1241,330,1287,347
+564649 (osxm)	1014,330,1060,347
+564649 (osxm)	872,330,918,347
+564649 (osxm)	731,330,777,347
+564649 (osxm)	589,330,635,347
+564649 (osxm)	447,330,493,347
+564649 (osxm)	305,330,351,347
+559001 (fasn)	964,731,1010,748
+559001 (fasn)	964,591,1010,608
+559001 (fasn)	964,489,1010,506
+559001 (fasn)	964,396,1010,413
+559001 (fasn)	964,301,1010,318
+559001 (fasn)	822,591,868,608
+559001 (fasn)	822,489,868,506
+559001 (fasn)	822,396,868,413
+559001 (fasn)	822,301,868,318
+559001 (fasn)	681,591,727,608
+559001 (fasn)	681,489,727,506
+559001 (fasn)	681,396,727,413
+559001 (fasn)	681,301,727,318
+559001 (fasn)	539,591,585,608
+559001 (fasn)	539,489,585,506
+559001 (fasn)	539,396,585,413
+559001 (fasn)	539,301,585,318
+559001 (fasn)	397,591,443,608
+559001 (fasn)	397,489,443,506
+559001 (fasn)	397,396,443,413
+559001 (fasn)	397,301,443,318
+559001 (fasn)	255,591,301,608
+559001 (fasn)	255,489,301,506
+559001 (fasn)	255,396,301,413
+559001 (fasn)	255,301,301,318
+559001 (fasn)	114,591,160,608
+559001 (fasn)	114,489,160,506
+559001 (fasn)	114,396,160,413
+559001 (fasn)	114,301,160,318
+564111 (mcat)	277,218,323,235
+559001 (fasn)	227,199,273,216
+559001 (fasn)	114,169,160,186
+556236 (acacb)	252,138,298,155
+559403 (acaca)	252,138,298,155
+564649 (osxm)	164,330,210,347
+100006023 (acsbg1)	989,820,1035,837
+334561 (acsl4b)	989,820,1035,837
+335159 (acsbg2)	989,820,1035,837
+393622 (acsl4a)	989,820,1035,837
+445175 (acsl1b)	989,820,1035,837
+447860 (acsl5)	989,820,1035,837
+555308 (acsl1a)	989,820,1035,837
+559656 (acsl3b)	989,820,1035,837
+566863 (acsl6)	989,820,1035,837
+567157 (acsl3a)	989,820,1035,837
+562292 (acsf3)	319,138,365,155
+550550 (mecr)	164,657,210,674
+550550 (mecr)	305,657,351,674
+550550 (mecr)	447,657,493,674
+550550 (mecr)	589,657,635,674
+550550 (mecr)	731,657,777,674
+550550 (mecr)	872,657,918,674
+550550 (mecr)	1014,657,1060,674
+402954 (cbr4)	164,416,210,433
+64815 (hsd17b8)	164,433,210,450
+402954 (cbr4)	305,416,351,433
+64815 (hsd17b8)	305,433,351,450
+402954 (cbr4)	447,416,493,433
+64815 (hsd17b8)	447,433,493,450
+402954 (cbr4)	589,416,635,433
+64815 (hsd17b8)	589,433,635,450
+402954 (cbr4)	731,416,777,433
+64815 (hsd17b8)	731,433,777,450
+402954 (cbr4)	872,416,918,433
+64815 (hsd17b8)	872,433,918,450
+402954 (cbr4)	1014,416,1060,433
+64815 (hsd17b8)	1014,433,1060,450
+402954 (cbr4)	958,1251,1004,1268
+64815 (hsd17b8)	958,1268,1004,1285
+550550 (mecr)	934,1406,980,1423
+562292 (acsf3)	995,1077,1041,1094
+564649 (osxm)	678,1184,724,1201
+100006023 (acsbg1)	285,1531,331,1548
+334561 (acsl4b)	285,1531,331,1548
+335159 (acsbg2)	285,1531,331,1548
+393622 (acsl4a)	285,1531,331,1548
+445175 (acsl1b)	285,1531,331,1548
+447860 (acsl5)	285,1531,331,1548
+555308 (acsl1a)	285,1531,331,1548
+559656 (acsl3b)	285,1531,331,1548
+566863 (acsl6)	285,1531,331,1548
+567157 (acsl3a)	285,1531,331,1548
+559001 (fasn)	284,1235,330,1252
+334561 (acsl4b)	654,1531,700,1548
+393622 (acsl4a)	654,1531,700,1548
+445175 (acsl1b)	654,1531,700,1548
+447860 (acsl5)	654,1531,700,1548
+555308 (acsl1a)	654,1531,700,1548
+559656 (acsl3b)	654,1531,700,1548
+566863 (acsl6)	654,1531,700,1548
+567157 (acsl3a)	654,1531,700,1548
+564111 (mcat)	654,1115,700,1132
+564111 (mcat)	934,1115,980,1132
+564649 (osxm)	934,1184,980,1201
+564649 (osxm)	832,1184,878,1201
+559403 (acaca)	347,1045,393,1062
+559403 (acaca)	654,1045,700,1062
+559403 (acaca)	934,1045,980,1062
+dre00071: Fatty acid degradation	774,864,901,889
+dre00061: Fatty acid biosynthesis	30,45,240,70
+dre00620: Pyruvate metabolism	417,139,535,164
+dre00020: Citrate cycle (TCA cycle)	186,83,261,108
+dre00410: beta-Alanine metabolism	417,170,547,195
+dre00785: Lipoic acid metabolism	331,834,461,859
+dre00564: Glycerophospholipid metabolism	1141,888,1315,913
+dre00561: Glycerolipid metabolism	1175,858,1314,883
+dre00062: Fatty acid elongation	1195,918,1314,943

@@ -1,0 +1,45 @@
+C02656 (Pimelate)	582,351,4
+C01063 (6-Carboxyhexanoyl-CoA)	582,462,4
+C01092 (8-Amino-7-oxononanoate)	414,528,4
+C01909 (Dethiobiotin)	414,660,4
+C01037 (7,8-Diaminononanoate)	414,594,4
+C00120 (Biotin)	414,727,4
+C00047 (L-Lysine)	238,747,4
+C05552 (Biocytin)	280,793,4
+C01894 (Biotinyl-CoA)	512,820,4
+C05921 (Biotinyl-5'-AMP)	414,820,4
+C06250 (Holo-[carboxylase])	280,865,4
+C19845 (Pimeloyl-[acyl-carrier protein])	414,462,4
+C19846 (Pimeloyl-[acyl-carrier protein] methyl ester)	293,462,4
+C01209 (Malonyl-[acyl-carrier protein])	118,141,4
+C19673 (Malonyl-[acp] methyl ester)	118,207,4
+C20372 (3-Ketoglutaryl-[acp] methyl ester)	178,264,4
+C20373 (3-Hydroxyglutaryl-[acp] methyl ester)	178,330,4
+C20374 (Enoylglutaryl-[acp] methyl ester)	178,396,4
+C20375 (Glutaryl-[acp] methyl ester)	178,462,4
+C20376 (3-Ketopimeloyl-[acp] methyl ester)	293,264,4
+C20377 (3-Hydroxypimeloyl-[acp] methyl ester)	293,330,4
+C20378 (Enoylpimeloyl-[acp] methyl ester)	293,396,4
+C20683 (Long-chain acyl-[acyl-carrier protein])	414,351,4
+C20384 (Bisnorbiotin)	578,820,4
+C20385 (Tetranorbiotin)	644,820,4
+C20386 (Biotin sulfoxide)	513,727,4
+C20387 (Biotin sulfone)	579,727,4
+C00086 (Urea)	644,863,4
+110948 (Hlcs)	318,756,364,773
+110948 (Hlcs)	307,867,353,884
+110948 (Hlcs)	355,867,401,884
+110948 (Hlcs)	307,846,353,863
+110948 (Hlcs)	366,775,412,792
+110948 (Hlcs)	318,775,364,792
+110948 (Hlcs)	355,846,401,863
+110948 (Hlcs)	366,756,412,773
+71147 (Oxsm)	295,220,341,237
+26363 (Btd)	258,758,304,775
+71147 (Oxsm)	180,220,226,237
+map00960: Tropane	27,764,163,809
+piperidine and pyridine alkaloid biosynthesis	27,764,163,809
+mmu00780: Biotin metabolism	40,45,216,70
+mmu00310: Lysine degradation	47,735,163,760
+mmu00061: Fatty acid biosynthesis	57,853,180,878
+mmu00061: Fatty acid biosynthesis	351,98,474,123

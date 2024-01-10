@@ -1,0 +1,104 @@
+C00247 (L-Sorbose)	223,92,4
+C00267 (alpha-D-Glucose)	135,147,4
+C01094 (D-Fructose 1-phosphate)	397,995,4
+C00159 (D-Mannose)	223,323,4
+C00275 (D-Mannose 6-phosphate)	397,323,4
+C00392 (Mannitol)	505,191,4
+C00644 (D-Mannitol 1-phosphate)	977,191,4
+C03267 (beta-D-Fructose 2-phosphate)	548,238,4
+C00665 (beta-D-Fructose 2,6-bisphosphate)	921,238,4
+C00794 (D-Sorbitol)	994,486,4
+C00464 (Mannan)	223,427,4
+C02492 (1,4-beta-D-Mannan)	149,468,4
+C01096 (Sorbitol 6-phosphate)	994,396,4
+C00325 (GDP-L-fucose)	397,615,4
+C01768 ((Alginate)n)	723,410,4
+C00577 (D-Glyceraldehyde)	976,835,4
+C00507 (L-Rhamnose)	223,900,4
+C00861 (L-Rhamnulose)	223,959,4
+C01131 (L-Rhamnulose 1-phosphate)	397,959,4
+C02431 (L-Rhamnofuranose)	223,857,4
+C01934 (L-Rhamnonate)	404,857,4
+C03979 (2-Dehydro-3-deoxy-L-rhamnonate)	499,857,4
+C00118 (D-Glyceraldehyde 3-phosphate)	922,635,4
+C00096 (GDP-mannose)	397,467,4
+C05345 (beta-D-Fructose 6-phosphate)	922,323,4
+C00976 (GDP-D-mannuronate)	522,410,4
+C01222 (GDP-4-dehydro-6-deoxy-D-mannose)	397,557,4
+C02985 (L-Fucose 1-phosphate)	397,682,4
+C05392 (Oligouronide with 4-deoxy-alpha-L-erythro-hex-4-enopyranuronosyl group)	823,410,4
+C02977 (GDP-6-deoxy-D-talose)	608,556,4
+C03117 (GDP-6-deoxy-D-mannose)	608,617,4
+C00095 (D-Fructose)	223,238,4
+C00794 (D-Sorbitol)	223,147,4
+C00636 (D-Mannose 1-phosphate)	397,387,4
+C05378 (beta-D-Fructose 1,6-bisphosphate)	922,547,4
+C02991 (L-Rhamnono-1,4-lactone)	309,857,4
+C01355 (Fructan)	323,270,4
+C01019 (6-Deoxy-L-galactose)	223,682,4
+C00111 (Glycerone phosphate)	922,741,4
+C01099 (L-Fuculose 1-phosphate)	397,741,4
+C01721 (L-Fuculose)	223,741,4
+C06192 (ADP-mannose)	302,387,4
+C02888 (Sorbose 1-phosphate)	1047,453,4
+C00247 (L-Sorbose)	1047,529,4
+C18096 (D-Allulose 6-phosphate)	1025,252,4
+C02962 (D-Allose 6-phosphate)	1025,187,4
+C01487 (D-Allose)	1025,124,4
+C18028 (L-Fucono-1,5-lactone)	309,783,4
+C01720 (L-Fuconate)	404,783,4
+C03827 (2-Dehydro-3-deoxy-L-fuconate)	499,783,4
+C20781 (2,4-Diketo-3-deoxy-L-fuconate)	594,783,4
+C00424 ((S)-Lactaldehyde)	689,857,4
+C00186 ((S)-Lactate)	689,783,4
+C11544 (2-O-(alpha-D-Mannosyl)-D-glycerate)	710,470,4
+C11516 (2-(alpha-D-Mannosyl)-3-phosphoglycerate)	613,470,4
+C05144 ((beta-D-Mannuronate)n)	622,410,4
+231 (AKR1B1)	156,139,202,156
+57016 (AKR1B10)	156,139,202,156
+6652 (SORD)	175,192,221,209
+3795 (KHK)	287,976,333,993
+3098 (HK1)	287,314,333,331
+3099 (HK2)	287,314,333,331
+3101 (HK3)	287,314,333,331
+80201 (HKDC1)	287,314,333,331
+3098 (HK1)	449,273,495,290
+3099 (HK2)	449,273,495,290
+3101 (HK3)	449,273,495,290
+80201 (HKDC1)	449,273,495,290
+5207 (PFKFB1)	877,260,923,277
+5208 (PFKFB2)	877,260,923,277
+5209 (PFKFB3)	877,260,923,277
+5210 (PFKFB4)	877,260,923,277
+57103 (TIGAR)	877,260,923,277
+4351 (MPI)	659,315,705,332
+5372 (PMM1)	374,346,420,363
+5373 (PMM2)	374,346,420,363
+8790 (FPGT)	374,641,420,658
+7264 (TSTA3)	374,574,420,591
+2762 (GMDS)	374,509,420,526
+29925 (GMPPB)	349,417,395,434
+29926 (GMPPA)	349,417,395,434
+5211 (PFKL)	940,409,986,426
+5213 (PFKM)	940,409,986,426
+5214 (PFKP)	940,409,986,426
+7167 (TPI1)	899,678,945,695
+226 (ALDOA)	566,980,612,997
+229 (ALDOB)	566,980,612,997
+230 (ALDOC)	566,980,612,997
+26007 (TKFC)	953,729,999,746
+226 (ALDOA)	899,584,945,601
+229 (ALDOB)	899,584,945,601
+230 (ALDOC)	899,584,945,601
+2203 (FBP1)	855,409,901,426
+8789 (FBP2)	855,409,901,426
+197258 (FCSK)	287,674,333,691
+55556 (ENOSF1)	424,775,470,792
+hsa00052: Galactose metabolism	15,130,91,164
+hsa00010: Glycolysis / Gluconeogenesis	1033,307,1103,332
+hsa00051: Fructose and mannose metabolism	40,45,338,70
+hsa00520: Amino sugar and nucleotide sugar metabolism	31,300,134,345
+hsa00510: N-Glycan biosynthesis	290,523,370,557
+hsa00620: Pyruvate metabolism	728,766,797,800
+hsa00520: Amino sugar and nucleotide sugar metabolism	446,332,599,366
+hsa00010: Glycolysis / Gluconeogenesis	809,623,879,648

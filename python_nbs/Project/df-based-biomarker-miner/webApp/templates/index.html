@@ -1,0 +1,11 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<h1>Function Module</h1>
+<ul>
+    <li><a href="{{ url_for('gene') }}">Gene Expression Matrix</a></li>
+    <li><a href="{{ url_for('matrix') }}">Standard Matrix Analysis</a></li>
+    <li><a href="{{ url_for('patent_assistant') }}">Patent Assistant</a></li>
+    <li><a href="{{ url_for('deving') }}">In development...</a></li>
+</ul>
+{% endblock %}

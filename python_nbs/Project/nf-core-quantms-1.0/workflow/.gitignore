@@ -1,0 +1,13 @@
+.nextflow*
+work/
+data/
+results/
+.DS_Store
+testing/
+testing*
+*.pyc
+.idea/
+.idea/*
+*.log
+/build/
+results*/

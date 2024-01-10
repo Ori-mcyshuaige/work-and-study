@@ -1,0 +1,132 @@
+C16432 (5-Hydroxyectoine)	1079,930,4
+C06231 (Ectoine)	978,930,4
+C06442 (N(gamma)-Acetyldiaminobutyrate)	861,930,4
+C03283 (L-2,4-Diaminobutanoate)	734,930,4
+C02855 (N-Phospho-D-lombricine)	965,232,4
+C02972 (Dihydrolipoylprotein)	1019,454,4
+C02051 (Lipoylprotein)	1019,559,4
+C00258 (D-Glycerate)	195,192,4
+C00114 (Choline)	124,425,4
+C00576 (Betaine aldehyde)	124,536,4
+C00719 (Betaine)	208,536,4
+C00197 (3-Phospho-D-glycerate)	339,192,4
+C00300 (Creatine)	385,460,4
+C01026 (N,N-Dimethylglycine)	294,536,4
+C05519 (L-Allothreonine)	725,614,4
+C00581 (Guanidinoacetate)	473,460,4
+C00049 (L-Aspartate)	321,930,4
+C03232 (3-Phosphonooxypyruvate)	464,192,4
+C02291 (L-Cystathionine)	460,359,4
+C00097 (L-Cysteine)	460,420,4
+C00213 (Sarcosine)	385,536,4
+C01005 (O-Phospho-L-serine)	595,192,4
+C00037 (Glycine)	595,535,4
+C00188 (L-Threonine)	598,749,4
+C00109 (2-Oxobutanoate)	466,749,4
+C03082 (4-Phospho-L-aspartate)	457,930,4
+C00065 (L-Serine)	595,294,4
+C00048 (Glyoxylate)	688,451,4
+C01102 (O-Phospho-L-homoserine)	598,809,4
+C03508 (L-2-Amino-3-oxobutanoic acid)	725,678,4
+C00263 (L-Homoserine)	598,865,4
+C00441 (L-Aspartate 4-semialdehyde)	598,930,4
+C00740 (D-Serine)	787,232,4
+C00022 (Pyruvate)	787,294,4
+C00011 (CO2)	814,500,4
+C00430 (5-Aminolevulinate)	824,584,4
+C00168 (Hydroxypyruvate)	80,192,4
+C00014 (Ammonia)	853,454,4
+C00101 (Tetrahydrofolate)	855,515,4
+C01726 (D-Lombricine)	858,232,4
+C01888 (Aminoacetone)	842,678,4
+C00546 (Methylglyoxal)	842,735,4
+C00143 (5,10-Methylenetetrahydrofolate)	884,424,4
+C01242 (S-Aminomethyldihydrolipoylprotein)	884,536,4
+C03194 ((R)-1-Aminopropan-2-ol)	938,678,4
+C02737 (Phosphatidylserine)	357,369,4
+C00078 (L-Tryptophan)	749,336,4
+C00986 (1,3-Diaminopropane)	734,847,4
+C00631 (2-Phospho-D-glycerate)	195,135,4
+C19929 (N(alpha)-Acetyl-L-2,4-diaminobutyrate)	861,976,4
+100331020 (chdh)	126,455,172,472
+334197 (aldh7a1)	139,517,185,534
+322228 (bhmt)	224,528,270,545
+436603 (agxta)	538,372,584,389
+79378 (agxtb)	538,372,584,389
+436603 (agxta)	235,292,281,309
+79378 (agxtb)	235,292,281,309
+796865 (gamt)	412,453,458,470
+321928 (phgdh)	380,184,426,201
+100141496 (dmgdh)	312,538,358,555
+266987 (cbsb)	437,317,483,334
+550524 (cbsa)	437,317,483,334
+322055 (cth)	437,381,483,398
+266799 (gatm)	496,451,542,468
+327512 (psat1)	509,185,555,202
+558601 (pipox)	466,517,512,534
+394103 (sardh)	466,538,512,555
+606663 (psph)	572,209,618,226
+100144628 (shmt2)	568,396,614,413
+394021 (shmt1)	568,396,614,413
+100331665	517,741,563,758
+563642 (sdsl)	517,741,563,758
+431723 (tha1)	550,694,596,711
+402994 (dao.3)	616,453,662,470
+405800 (dao.2)	616,453,662,470
+619259 (dao.1)	616,453,662,470
+406528 (tdh)	702,713,748,730
+402822 (gcat)	638,670,684,687
+563642 (sdsl)	666,275,712,292
+321621 (gldc)	754,528,800,545
+64607 (alas2)	702,576,748,593
+64608 (alas1)	702,576,748,593
+404730 (mao)	794,695,840,712
+558050 (si:ch211-127i16.2)	794,695,840,712
+402985 (grhprb)	116,194,162,211
+497183 (grhpra)	116,194,162,211
+541429 (aoc2)	844,695,890,712
+450000 (amt)	861,475,907,492
+399479 (dldh)	996,496,1042,513
+403338 (gnmt)	466,561,512,578
+100331665	666,296,712,313
+563642 (sdsl)	666,296,712,313
+431723 (tha1)	638,595,684,612
+436603 (agxta)	235,271,281,288
+79378 (agxtb)	235,271,281,288
+266987 (cbsb)	489,349,535,366
+550524 (cbsa)	489,349,535,366
+436603 (agxta)	690,486,736,503
+619269 (agxt2)	690,486,736,503
+79378 (agxtb)	690,486,736,503
+570678 (glyctk)	172,160,218,177
+323107 (pgam1a)	236,116,282,133
+327165 (pgam1b)	236,116,282,133
+436903 (bpgm)	236,116,282,133
+572733 (pgam2)	236,116,282,133
+436852 (gcshb)	930,484,976,501
+541329 (gcsha)	930,484,976,501
+dre00250: Alanine	130,913,273,947
+aspartate and glutamate metabolism	130,913,273,947
+dre00270: Cysteine and methionine metabolism	250,404,383,438
+dre00230: Purine metabolism	395,600,504,625
+dre00290: Valine	206,732,337,766
+leucine and isoleucine biosynthesis	206,732,337,766
+dre00630: Glyoxylate and dicarboxylate metabolism	42,114,122,148
+dre00270: Cysteine and methionine metabolism	402,848,535,882
+dre00600: Sphingolipid metabolism	327,256,468,281
+map00680: Methane metabolism	350,226,469,251
+map00300: Lysine biosynthesis	556,997,636,1031
+map00460: Cyanoamino acid metabolism	686,381,853,406
+dre00920: Sulfur metabolism	686,351,794,376
+dre00630: Glyoxylate and dicarboxylate metabolism	732,433,807,467
+dre00620: Pyruvate metabolism	885,276,960,310
+dre00860: Porphyrin and chlorophyll metabolism	897,567,978,601
+dre00010: Glycolysis / Gluconeogenesis	386,118,491,152
+dre00564: Glycerophospholipid metabolism	68,352,186,386
+dre00330: Arginine and proline metabolism	195,443,313,477
+dre00620: Pyruvate metabolism	822,323,957,348
+dre00260: Glycine	40,45,412,70
+serine and threonine metabolism	40,45,412,70
+dre00020: Citrate cycle (TCA cycle)	884,247,959,272
+dre00330: Arginine and proline metabolism	811,830,929,864
+dre00640: Propanoate metabolism	206,770,333,795

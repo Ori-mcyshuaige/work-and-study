@@ -1,0 +1,31 @@
+dic_pair_base = {'A':'T', 'T':'A', 'G':'C', 'C':'G'}
+
+dic_simple_base = {'R':['A','G'], 'Y':['C','T'], 'M':['A','C'], 'K':['G','T'], 'S':['G','C'], 'W':['A','T'], 'H':['A','T','C'], 
+             'B':['G','T','C'], 'V':['G','A','C'], 'D':['G','A','T'], 'N':['A','T','C','G']}
+
+dic_aa_to_simpleName = {'Ala':'A',
+                        'Arg':'R',
+                        'Asn':'N',
+                        'Asp':'D',
+                        'Cys':'C',
+                        'Gln':'Q',
+                        'Glu':'E',
+                        'Gly':'G',
+                        'His':'H',
+                        'Ile':'I',
+                        'Leu':'L',
+                        'Lys':'K',
+                        'Met':'M',
+                        'Phe':'F',
+                        'Pro':'P',
+                        'Pyl':'O',
+                        'Ser':'S',
+                        'Sec':'U',
+                        'Thr':'T',
+                        'Trp':'W',
+                        'Tyr':'Y',
+                        'Val':'V',
+                        'Asx':'B',
+                        'Glx':'Z',
+                        'Xaa':'X',
+                        'Xle':'J'}

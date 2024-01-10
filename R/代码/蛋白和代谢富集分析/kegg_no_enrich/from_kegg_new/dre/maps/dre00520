@@ -1,0 +1,223 @@
+C00357 (N-Acetyl-D-glucosamine 6-phosphate)	435,257,4
+C00140 (N-Acetyl-D-glucosamine)	292,257,4
+C04501 (N-Acetyl-alpha-D-glucosamine 1-phosphate)	578,257,4
+C00043 (UDP-N-acetyl-alpha-D-glucosamine)	721,257,4
+C00645 (N-Acetyl-D-mannosamine)	819,257,4
+C04257 (N-Acetyl-D-mannosamine 6-phosphate)	924,257,4
+C06241 (N-Acetylneuraminate 9-phosphate)	1066,257,4
+C05345 (beta-D-Fructose 6-phosphate)	435,481,4
+C00352 (D-Glucosamine 6-phosphate)	435,369,4
+C06156 (alpha-D-Glucosamine 1-phosphate)	578,369,4
+C13952 (UDP-N-acetyl-D-galactosaminuronic acid)	917,479,4
+C06240 (UDP-N-acetyl-D-mannosaminouronate)	917,376,4
+C04631 (UDP-N-acetyl-3-(1-carboxyvinyl)-D-glucosamine)	721,179,4
+C01050 (UDP-N-acetylmuramate)	721,93,4
+C16698 (N-Acetylmuramic acid 6-phosphate)	435,142,4
+C02713 (N-Acetylmuramate)	292,142,4
+C00270 (N-Acetylneuraminate)	1210,257,4
+C00128 (CMP-N-acetylneuraminate)	1353,257,4
+C03410 (N-Glycoloyl-neuraminate)	1210,376,4
+C03691 (CMP-N-glycoloylneuraminate)	1353,376,4
+C00999 (Ferrocytochrome b5)	1283,290,4
+C00996 (Ferricytochrome b5)	1283,346,4
+C04573 (UDP-N-acetyl-2-amino-2-deoxy-D-glucuronate)	819,423,4
+C06023 (D-Glucosaminide)	178,369,4
+C00461 (Chitin)	64,257,4
+C00734 (Chitosan)	64,369,4
+C01674 (Chitobiose)	178,257,4
+C00329 (D-Glucosamine)	292,369,4
+C00203 (UDP-N-acetyl-D-galactosamine)	819,479,4
+C00329 (D-Glucosamine)	292,414,4
+C00140 (N-Acetyl-D-glucosamine)	271,201,4
+C02336 (beta-D-Fructose)	292,481,4
+C00461 (Chitin)	819,317,4
+C01170 (UDP-N-acetyl-D-mannosamine)	819,376,4
+C20395 (UDP-2-acetamido-2-deoxy-alpha-D-ribo-hex-3-uluronate)	1015,423,4
+C20359 (UDP-2-acetamido-3-amino-2,3-dideoxy-alpha-D-glucuronate)	1113,423,4
+C19725 (UDP-2,3-diacetamido-2,3-dideoxy-alpha-D-glucuronate)	1210,423,4
+C19745 (UDP-2,3-diacetamido-2,3-dideoxy-alpha-D-mannuronate)	1305,423,4
+C19823 (UDP-2-acetamido-2,6-dideoxy-beta-L-arabino-hexos-4-ulose)	819,512,4
+C19961 (UDP-4-amino-4,6-dideoxy-N-acetyl-beta-L-altrosamine)	917,512,4
+C19971 (UDP-2,4-bis(acetamido)-2,4,6-trideoxy-beta-L-altropyranose)	1015,512,4
+C19972 (2,4-Bis(acetamido)-2,4,6-trideoxy-beta-L-altropyranose)	1113,512,4
+C20082 (Pseudaminic acid)	1210,512,4
+C20083 (CMP-pseudaminic acid)	1353,512,4
+C02199 (UDP-L-rhamnose)	1138,1001,4
+C17328 (UDP-4-keto-rhamnose)	1027,1001,4
+C04089 (UDP-4-dehydro-6-deoxy-D-glucose)	916,1001,4
+C00029 (UDP-glucose)	721,1001,4
+C00191 (D-Glucuronate)	292,889,4
+C05385 (D-Glucuronate 1-phosphate)	578,889,4
+C00167 (UDP-glucuronate)	721,889,4
+C00333 (D-Galacturonate)	292,1225,4
+C04037 (1-Phospho-alpha-D-galacturonate)	578,1225,4
+C00617 (UDP-D-galacturonate)	721,1225,4
+C00190 (UDP-D-xylose)	717,733,4
+C00935 (UDP-L-arabinose)	717,621,4
+C00668 (alpha-D-Glucose 6-phosphate)	435,1001,4
+C00267 (alpha-D-Glucose)	292,1001,4
+C16155 (UDP-L-Ara4O)	916,889,4
+C16153 (UDP-L-Ara4N)	1027,889,4
+C16154 (UDP-L-Ara4FN)	1138,889,4
+C16156 (Undecaprenyl phosphate alpha-L-Ara4FN)	1249,889,4
+C00259 (L-Arabinose)	292,621,4
+C03906 (beta-L-Arabinose 1-phosphate)	578,621,4
+C11521 (UDP-6-sulfoquinovose)	916,1039,4
+C01623 (UDP-apiose)	916,800,4
+C00976 (GDP-D-mannuronate)	864,1343,4
+C00394 (GDP-glucose)	721,1546,4
+C00668 (alpha-D-Glucose 6-phosphate)	435,1546,4
+C00267 (alpha-D-Glucose)	292,1546,4
+C04297 (CDP-4-dehydro-3,6-dideoxy-D-glucose)	917,1626,4
+C03598 (CDP-3,6-dideoxy-D-glucose)	1015,1626,4
+C03599 (CDP-3,6-dideoxy-D-mannose)	1113,1626,4
+C00446 (alpha-D-Galactose 1-phosphate)	578,1113,4
+C00052 (UDP-alpha-D-galactose)	721,1113,4
+C00984 (alpha-D-Galactose)	292,1113,4
+C00103 (D-Glucose 1-phosphate)	578,1001,4
+C00159 (D-Mannose)	292,1383,4
+C00636 (D-Mannose 1-phosphate)	578,1384,4
+C00096 (GDP-mannose)	721,1384,4
+C00103 (D-Glucose 1-phosphate)	578,1546,4
+C00325 (GDP-L-fucose)	721,1463,4
+C02985 (L-Fucose 1-phosphate)	578,1463,4
+C01019 (6-Deoxy-L-galactose)	292,1463,4
+C03117 (GDP-6-deoxy-D-mannose)	1006,1384,4
+C02977 (GDP-6-deoxy-D-talose)	1006,1429,4
+C01222 (GDP-4-dehydro-6-deoxy-D-mannose)	864,1384,4
+C02280 (GDP-L-galactose)	864,1304,4
+C15925 (GDP-L-gulose)	864,1265,4
+C17327 (CDP-ascarylose)	1113,1536,4
+C00031 (D-Glucose)	292,939,4
+C00275 (D-Mannose 6-phosphate)	435,1383,4
+C00159 (D-Mannose)	292,1343,4
+C00031 (D-Glucose)	292,1506,4
+C01219 (CDP-4-dehydro-6-deoxy-D-glucose)	819,1626,4
+C00498 (ADP-glucose)	721,1706,4
+C00714 (Pectin)	946,1228,4
+C02474 (Arabinan)	1027,621,4
+C00181 (D-Xylose)	1005,733,4
+C02352 (1,4-beta-D-Xylan)	862,733,4
+C02330 (UDP-L-iduronate)	916,841,4
+C17326 (CDP-4-dehydro-3,6-dideoxy-D-glucose epimer)	1015,1536,4
+C00501 (CDP-glucose)	721,1626,4
+C20638 (GDP-4-amino-4,6-dideoxy-alpha-D-mannose)	1006,1474,4
+C20672 (GDP-4-acetamido-4,6-dideoxy-alpha-D-mannose)	1103,1474,4
+C04613 (UDP-2-acetamido-4-dehydro-2,6-dideoxyglucose)	819,560,4
+C04630 (UDP-2-acetamido-4-amino-2,4,6-trideoxy-alpha-D-glucose)	917,560,4
+C20357 (UDP-N,N'-Diacetylbacillosamine)	1015,560,4
+C20424 (2,4-Diacetamido-2,4,6-trideoxy-D-mannopyranose)	1113,560,4
+C20418 (N,N'-Diacetyllegionaminate)	1210,560,4
+C20419 (CMP-N,N'-diacetyllegionaminate)	1353,560,4
+C18094 (UDP-L-arabinofuranose)	916,621,4
+C03733 (UDP-alpha-D-galactofuranose)	916,1113,4
+C16157 (Undecaprenyl phosphate alpha-L-Ara4N)	1360,889,4
+C01788 (CDP-abequose)	1015,1591,4
+C21027 (N-Acetylmuramic acid alpha-1-phosphate)	579,93,4
+C02713 (N-Acetylmuramate)	292,93,4
+100126013 (nagk)	338,249,384,266
+474321 (pgm3)	485,249,531,266
+322513 (uap1)	628,249,674,266
+393264 (uap1l1)	628,249,674,266
+393857 (gne)	744,249,790,266
+393857 (gne)	845,249,891,266
+322780 (nansa)	971,249,1017,266
+553795 (nanp)	1114,247,1160,264
+550565 (gnpda1)	392,421,438,438
+556291 (gnpda2)	392,421,438,438
+402981 (amdhd2)	389,293,435,310
+567861 (gfpt1)	439,441,485,458
+569945 (gfpt2)	439,441,485,458
+554143 (gnpnat1)	435,312,481,329
+322780 (nansa)	971,213,1017,230
+791728 (renbp)	555,162,601,179
+323613 (hexb)	208,249,254,266
+550460 (hexa)	208,249,254,266
+322420 (chia.6)	97,249,143,266
+337333 (chia.4)	97,249,143,266
+406338 (chia.2)	97,249,143,266
+406819 (chia.3)	97,249,143,266
+100148292 (npl)	1009,291,1055,308
+321224 (hkdc1)	338,462,384,479
+406339 (hk2)	338,462,384,479
+406791 (hk1)	338,462,384,479
+322420 (chia.6)	97,208,143,225
+337333 (chia.4)	97,208,143,225
+406338 (chia.2)	97,208,143,225
+406819 (chia.3)	97,208,143,225
+321224 (hkdc1)	338,350,384,367
+406339 (hk2)	338,350,384,367
+406791 (hk1)	338,350,384,367
+101886093 (si:ch211-264e16.1)	744,309,790,326
+322468 (chs1)	744,309,790,326
+563138 (si:ch211-219a15.4)	744,309,790,326
+563347 (si:ch211-264e16.2)	744,309,790,326
+100885772 (cmasb)	1259,248,1305,265
+561018 (cmasa)	1259,248,1305,265
+431739 (cmah)	1330,312,1376,329
+431739 (cmah)	1188,312,1234,329
+324560 (cyb5r3)	1260,312,1306,329
+336553 (cyb5r1)	1260,312,1306,329
+553685 (cyb5r4)	1260,312,1306,329
+751641 (cyb5r2)	1260,312,1306,329
+100885772 (cmasb)	1259,368,1305,385
+561018 (cmasa)	1259,368,1305,385
+569254 (gkup)	338,881,384,898
+791130 (galt)	604,1115,650,1132
+678540 (gale)	698,1047,744,1064
+116991 (ugdh)	698,915,744,932
+192315 (uxs1)	668,767,714,784
+613246 (mpi)	448,1047,494,1064
+100007686	485,1376,531,1393
+368229 (pmm2)	485,1376,531,1393
+394000 (pgm1)	485,982,531,999
+405822 (pgm2)	485,982,531,999
+321224 (hkdc1)	338,982,384,999
+406339 (hk2)	338,982,384,999
+406791 (hk1)	338,982,384,999
+449829 (galk1)	398,1105,444,1122
+393469 (gmppab)	628,1365,674,1382
+431743 (gmppaa)	628,1365,674,1382
+445097 (gmppb)	628,1365,674,1382
+553792 (fpgt)	628,1455,674,1472
+100150934 (fuk)	398,1455,444,1472
+394000 (pgm1)	485,1527,531,1544
+405822 (pgm2)	485,1527,531,1544
+321224 (hkdc1)	338,1527,384,1544
+406339 (hk2)	338,1527,384,1544
+406791 (hk1)	338,1527,384,1544
+393461 (gmds)	763,1376,809,1393
+494077 (tsta3)	763,1455,809,1472
+246094 (gpia)	412,769,458,786
+246095 (gpib)	412,769,458,786
+321224 (hkdc1)	338,1364,384,1381
+406339 (hk2)	338,1364,384,1381
+406791 (hk1)	338,1364,384,1381
+334420 (ugp2b)	628,982,674,999
+555748 (ugp2a)	628,982,674,999
+751668 (gck)	316,1548,362,1565
+751668 (gck)	316,1003,362,1020
+map00540: Lipopolysaccharide biosynthesis	543,401,652,435
+dre00051: Fructose and mannose metabolism	92,465,217,499
+dre00010: Glycolysis / Gluconeogenesis	526,469,681,494
+dre00520: Amino sugar and nucleotide sugar metabolism	40,45,448,70
+dre00524: Neomycin	885,321,1039,355
+kanamycin and gentamicin biosynthesis	885,321,1039,355
+map00523: Polyketide sugar unit biosynthesis	520,1044,636,1078
+dre00040: Pentose and glucuronate interconversions	92,604,227,638
+dre00052: Galactose metabolism	92,1101,218,1125
+dre00010: Glycolysis / Gluconeogenesis	92,922,217,956
+dre00500: Starch and sucrose metabolism	790,1533,894,1567
+dre00051: Fructose and mannose metabolism	1009,1331,1188,1356
+dre00500: Starch and sucrose metabolism	602,1284,706,1318
+dre00053: Ascorbate and aldarate metabolism	933,1287,1062,1321
+dre00010: Glycolysis / Gluconeogenesis	92,1489,217,1523
+dre00051: Fructose and mannose metabolism	92,1366,217,1400
+dre00500: Starch and sucrose metabolism	790,1693,952,1718
+dre00040: Pentose and glucuronate interconversions	92,1208,227,1242
+dre00053: Ascorbate and aldarate metabolism	860,929,989,963
+dre00510: N-Glycan biosynthesis	1033,1121,1154,1146
+map00550: Peptidoglycan biosynthesis	847,80,999,105
+dre00471: D-Glutamine and D-glutamate metabolism	847,108,999,133
+dre00040: Pentose and glucuronate interconversions	1074,716,1209,750
+map00525: Acarbose and validamycin biosynthesis	517,931,653,965

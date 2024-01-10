@@ -1,0 +1,103 @@
+C14899 (3-Dehydro-L-gulonate 6-phosphate)	738,545,4
+C03033 (beta-D-Glucuronoside)	429,419,4
+C00817 (D-Altronate)	168,250,4
+C00103 (D-Glucose 1-phosphate)	297,534,4
+C00905 (D-Fructuronate)	452,345,4
+C00514 (D-Mannonate)	323,345,4
+C00558 (D-Tagaturonate)	323,250,4
+C00800 (L-Gulonate)	662,385,4
+C05385 (D-Glucuronate 1-phosphate)	429,385,4
+C00167 (UDP-glucuronate)	297,385,4
+C00029 (UDP-glucose)	297,478,4
+C00312 (L-Xylulose)	657,639,4
+C02266 (D-Xylonolactone)	205,639,4
+C00379 (Xylitol)	437,639,4
+C00181 (D-Xylose)	336,639,4
+C01068 (D-Ribitol 5-phosphate)	653,878,4
+C00789 (CDP-ribitol)	759,878,4
+C00022 (Pyruvate)	205,915,4
+C03826 (2-Dehydro-3-deoxy-D-xylonate)	205,828,4
+C00502 (D-Xylonate)	205,746,4
+C00309 (D-Ribulose)	437,878,4
+C00474 (Ribitol)	318,878,4
+C00231 (D-Xylulose 5-phosphate)	541,727,4
+C00310 (D-Xylulose)	437,726,4
+C00199 (D-Ribulose 5-phosphate)	541,878,4
+C00476 (D-Lyxose)	336,803,4
+C00508 (L-Ribulose)	869,809,4
+C00532 (L-Arabitol)	763,639,4
+C03291 (L-Xylulose 5-phosphate)	657,732,4
+C01508 (L-Lyxose)	601,735,4
+C01101 (L-Ribulose 5-phosphate)	657,809,4
+C00259 (L-Arabinose)	869,639,4
+C01904 (D-Arabitol)	437,803,4
+C00618 (3-Dehydro-L-gulonate)	662,445,4
+C00714 (Pectin)	452,96,4
+C00470 (Pectate)	452,148,4
+C02273 (Digalacturonate)	452,199,4
+C06118 (4-(4-Deoxy-alpha-D-gluc-4-enuronosyl)-D-galacturonate)	323,148,4
+C04053 (5-Dehydro-4-deoxy-D-glucuronate)	323,199,4
+C04349 ((4S)-4,6-Dihydroxy-2,5-dioxohexanoate)	88,199,4
+C05411 (L-Xylonate)	831,445,4
+C04575 ((4R,5S)-4,5,6-Trihydroxy-2,3-dioxohexanoate)	749,445,4
+C05412 (L-Lyxonate)	749,386,4
+C06441 (L-Xylulose 1-phosphate)	566,573,4
+C00266 (Glycolaldehyde)	479,542,4
+C00111 (Glycerone phosphate)	448,573,4
+C00204 (2-Dehydro-3-deoxy-D-gluconate)	168,345,4
+C00116 (Glycerol)	884,250,4
+C00333 (D-Galacturonate)	452,250,4
+C15930 (L-Galactonate)	604,250,4
+C20680 (2-Dehydro-3-deoxy-L-galactonate)	698,250,4
+C02426 (L-Glyceraldehyde)	791,250,4
+C00191 (D-Glucuronate)	555,385,4
+C00433 (2,5-Dioxopentanoate)	86,828,4
+C00026 (2-Oxoglutarate)	86,900,4
+2990 (GUSB)	468,410,514,427
+9365 (KL)	468,410,514,427
+6120 (RPE)	517,821,563,838
+729020 (RPEL1)	517,821,563,838
+729920 (CRPPA)	683,871,729,888
+9942 (XYLB)	468,718,514,735
+231 (AKR1B1)	793,631,839,648
+57016 (AKR1B10)	793,631,839,648
+51181 (DCXR)	497,637,543,654
+231 (AKR1B1)	365,630,411,647
+57016 (AKR1B10)	365,630,411,647
+51084 (CRYL1)	640,408,686,425
+7360 (UGP2)	274,501,320,518
+10720 (UGT2B11)	341,410,387,427
+10941 (UGT2A1)	341,410,387,427
+54490 (UGT2B28)	341,410,387,427
+54575 (UGT1A10)	341,410,387,427
+54576 (UGT1A8)	341,410,387,427
+54577 (UGT1A7)	341,410,387,427
+54578 (UGT1A6)	341,410,387,427
+54579 (UGT1A5)	341,410,387,427
+54600 (UGT1A9)	341,410,387,427
+54657 (UGT1A4)	341,410,387,427
+54658 (UGT1A1)	341,410,387,427
+54659 (UGT1A3)	341,410,387,427
+574537 (UGT2A2)	341,410,387,427
+7363 (UGT2B4)	341,410,387,427
+7364 (UGT2B7)	341,410,387,427
+7365 (UGT2B10)	341,410,387,427
+7366 (UGT2B15)	341,410,387,427
+7367 (UGT2B17)	341,410,387,427
+79799 (UGT2A3)	341,410,387,427
+7358 (UGDH)	274,426,320,443
+27294 (DHDH)	231,641,277,658
+6652 (SORD)	439,686,485,703
+10327 (AKR1A1)	584,366,630,383
+hsa00010: Glycolysis / Gluconeogenesis	172,522,245,547
+hsa00562: Inositol phosphate metabolism	506,482,613,516
+hsa00053: Ascorbate and aldarate metabolism	808,284,930,318
+hsa00040: Pentose and glucuronate interconversions	40,45,410,70
+hsa00030: Pentose phosphate pathway	464,938,619,963
+hsa00052: Galactose metabolism	169,461,245,495
+hsa00520: Amino sugar and nucleotide sugar metabolism	896,335,1050,370
+hsa00500: Starch and sucrose metabolism	281,556,391,590
+hsa00740: Riboflavin metabolism	279,929,357,963
+hsa00030: Pentose phosphate pathway	113,398,223,432
+hsa00561: Glycerolipid metabolism	949,234,1031,268
+hsa00020: Citrate cycle (TCA cycle)	48,939,124,964

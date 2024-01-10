@@ -1,0 +1,83 @@
+C03046 ((S,S)-Butane-2,3-diol)	647,61,4
+C01769 ((S)-Acetoin)	764,61,4
+C00810 ((R)-Acetoin)	764,141,4
+C03044 ((R,R)-Butane-2,3-diol)	647,141,4
+C06010 ((S)-2-Acetolactate)	881,141,4
+C00022 (Pyruvate)	994,188,4
+C00042 (Succinate)	298,224,4
+C00122 (Fumarate)	473,224,4
+C01384 (Maleic acid)	648,224,4
+C00497 ((R)-Malate)	823,224,4
+C02527 (Butanoylphosphate)	776,263,4
+C00246 (Butanoic acid)	665,263,4
+C00136 (Butanoyl-CoA)	665,328,4
+C01412 (Butanal)	554,328,4
+C00877 (Crotonoyl-CoA)	665,403,4
+C02411 (Glutaconyl-1-CoA)	757,403,4
+C03058 (2-Hydroxyglutaryl-CoA)	858,403,4
+C02630 (2-Hydroxyglutarate)	858,465,4
+C00026 (2-Oxoglutarate)	858,521,4
+C00024 (Acetyl-CoA)	998,588,4
+C00356 ((S)-3-Hydroxy-3-methylglutaryl-CoA)	830,654,4
+C00332 (Acetoacetyl-CoA)	665,585,4
+C00164 (Acetoacetate)	351,653,4
+C01089 ((R)-3-Hydroxybutanoate)	351,542,4
+C04546 ((R)-3-((R)-3-Hydroxybutanoyloxy)butanoate)	351,479,4
+C03561 ((R)-3-Hydroxybutanoyl-CoA)	559,479,4
+C01144 ((S)-3-Hydroxybutanoyl-CoA)	665,479,4
+C02331 (Vinylacetyl-CoA)	542,380,4
+C06143 (Poly-beta-hydroxybutyrate)	453,479,4
+C00989 (4-Hydroxybutanoic acid)	390,400,4
+C00232 (Succinate semialdehyde)	298,400,4
+C00334 (4-Aminobutanoate)	200,400,4
+C00025 (L-Glutamate)	103,400,4
+C06142 (1-Butanol)	448,328,4
+C06144 (3-Butynoate)	260,653,4
+C06145 (3-Butyn-1-al)	188,653,4
+C06146 (3-Butyn-1-ol)	103,653,4
+C00741 (Diacetyl)	881,61,4
+C11062 (4-Hydroxybutyryl-CoA)	482,400,4
+C00091 (Succinyl-CoA)	200,348,4
+C20657 (meso-2,3-Butanediol)	647,116,4
+C21390 (Butane)	345,328,4
+56898 (BDH2)	327,564,373,581
+622 (BDH1)	327,564,373,581
+5019 (OXCT1)	481,650,527,667
+64064 (OXCT2)	481,650,527,667
+65985 (AACS)	486,580,532,597
+3155 (HMGCL)	807,666,853,683
+54511 (HMGCLL1)	807,666,853,683
+3157 (HMGCS1)	807,618,853,635
+3158 (HMGCS2)	807,618,853,635
+38 (ACAT1)	807,580,853,597
+39 (ACAT2)	807,580,853,597
+1962 (EHHADH)	617,523,663,540
+3033 (HADH)	617,523,663,540
+1892 (ECHS1)	643,433,689,450
+1962 (EHHADH)	643,433,689,450
+3030 (HADHA)	643,433,689,450
+18 (ABAT)	226,381,272,398
+2571 (GAD1)	125,392,171,409
+2572 (GAD2)	125,392,171,409
+35 (ACADS)	721,357,767,374
+7915 (ALDH5A1)	300,291,346,308
+116285 (ACSM1)	666,286,712,303
+123876 (ACSM2A)	666,286,712,303
+142827 (ACSM6)	666,286,712,303
+341392 (ACSM4)	666,286,712,303
+348158 (ACSM2B)	666,286,712,303
+54988 (ACSM5)	666,286,712,303
+6296 (ACSM3)	666,286,712,303
+79944 (L2HGDH)	836,488,882,505
+map01056: Biosynthesis of type II polyketide backbone	800,311,927,345
+hsa00250: Alanine	41,294,166,328
+aspartate and glutamate metabolism	41,294,166,328
+hsa00072: Synthesis and degradation of ketone bodies	79,586,223,620
+hsa00620: Pyruvate metabolism	733,511,806,545
+hsa00010: Glycolysis / Gluconeogenesis	963,83,1033,108
+hsa00650: Butanoate metabolism	40,45,247,70
+hsa00020: Citrate cycle (TCA cycle)	614,176,697,201
+hsa00750: Vitamin B6 metabolism	51,453,191,478
+hsa00250: Alanine	860,547,981,581
+aspartate and glutamate metabolism	860,547,981,581
+hsa00330: Arginine and proline metabolism	51,416,171,450

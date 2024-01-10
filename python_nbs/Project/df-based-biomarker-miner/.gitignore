@@ -1,0 +1,16 @@
+<<<<<<< HEAD
+webApp/*.log
+webApp/upload_file
+webApp/output_result
+upload_file/
+output_result/
+=======
+input/
+*.log
+webApp/upload_file/
+webApp/output_result/
+upload_file/
+output_result/
+>>>>>>> origin/mcytest
+__pycache__
+.ipynb_checkpoints

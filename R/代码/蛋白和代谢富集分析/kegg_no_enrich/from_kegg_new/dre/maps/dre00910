@@ -1,0 +1,70 @@
+C00058 (Formate)	713,158,4
+C00488 (Formamide)	640,102,4
+C00014 (Ammonia)	640,276,4
+C00192 (Hydroxylamine)	499,356,4
+C06058 (Nitroalkane)	332,402,4
+C00887 (Nitrous oxide)	441,161,4
+C00533 (Nitric oxide)	332,161,4
+C00088 (Nitrite)	332,276,4
+C00244 (Nitrate)	168,276,4
+C00726 (Nitrile)	640,402,4
+C01417 (Cyanate)	915,215,4
+C01563 (Carbamate)	803,215,4
+C00288 (HCO3-)	902,188,4
+C00011 (CO2)	761,188,4
+C00169 (Carbamoyl phosphate)	803,276,4
+C00244 (Nitrate)	50,276,4
+C00088 (Nitrite)	50,340,4
+C00064 (L-Glutamine)	739,356,4
+C00025 (L-Glutamate)	890,356,4
+C00244 (Nitrate)	166,515,4
+C00088 (Nitrite)	278,515,4
+C00014 (Ammonia)	950,515,4
+C00244 (Nitrate)	166,582,4
+C00088 (Nitrite)	278,582,4
+C00244 (Nitrate)	166,649,4
+C00088 (Nitrite)	278,649,4
+C00697 (Nitrogen)	614,649,4
+C00887 (Nitrous oxide)	502,649,4
+C00533 (Nitric oxide)	390,649,4
+C00697 (Nitrogen)	614,713,4
+C00014 (Ammonia)	950,713,4
+C00014 (Ammonia)	950,776,4
+C00088 (Nitrite)	278,776,4
+C00244 (Nitrate)	166,776,4
+C00014 (Ammonia)	950,582,4
+C00192 (Hydroxylamine)	726,776,4
+C00014 (Ammonia)	950,837,4
+C00697 (Nitrogen)	614,837,4
+C00088 (Nitrite)	278,875,4
+C05361 (Hydrazine)	838,837,4
+C00533 (Nitric oxide)	390,875,4
+C00697 (Nitrogen)	550,161,4
+C05361 (Hydrazine)	550,226,4
+100006448 (ca6)	808,180,854,197
+100537787 (ca12)	808,180,854,197
+30331 (cahz)	808,180,854,197
+387526 (ca2)	808,180,854,197
+407683 (ca4c)	808,180,854,197
+550233 (ca8)	808,180,854,197
+553246 (ca4b)	808,180,854,197
+555196 (ca4a)	808,180,854,197
+564201 (ca7)	808,180,854,197
+566612 (ca9)	808,180,854,197
+567897 (ca14)	808,180,854,197
+568143 (car15)	808,180,854,197
+569989 (ca5a)	808,180,854,197
+555623 (cps1)	707,268,753,285
+100000775 (glula)	665,348,711,365
+336473 (glulb)	665,348,711,365
+566165 (glulc)	665,348,711,365
+317737 (glud1a)	690,315,736,332
+373092 (glud1b)	690,315,736,332
+map00720: Carbon fixation pathways in prokaryotes	180,187,321,221
+map00460: Cyanoamino acid metabolism	465,83,569,117
+dre00910: Nitrogen metabolism	40,45,226,70
+map00680: Methane metabolism	793,112,912,137
+dre00630: Glyoxylate and dicarboxylate metabolism	793,145,924,170
+dre00220: Arginine biosynthesis	889,264,1014,289
+dre00250: Alanine	946,339,1023,373
+aspartate and glutamate metabolism	946,339,1023,373

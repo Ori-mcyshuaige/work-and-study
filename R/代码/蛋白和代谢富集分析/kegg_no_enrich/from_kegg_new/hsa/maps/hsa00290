@@ -1,0 +1,38 @@
+C00188 (L-Threonine)	93,240,4
+C06032 (D-erythro-3-Methylmalate)	208,182,4
+C02226 (2-Methylmaleate)	321,182,4
+C02612 ((R)-2-Methylmalate)	474,182,4
+C00024 (Acetyl-CoA)	531,240,4
+C00022 (Pyruvate)	474,267,4
+C00109 (2-Oxobutanoate)	179,240,4
+C06006 ((S)-2-Aceto-2-hydroxybutanoate)	179,325,4
+C14463 ((R)-3-Hydroxy-3-methyl-2-oxopentanoate)	179,391,4
+C06007 ((R)-2,3-Dihydroxy-3-methylpentanoate)	179,464,4
+C00671 ((S)-3-Methyl-2-oxopentanoic acid)	179,529,4
+C00407 (L-Isoleucine)	179,599,4
+C00183 (L-Valine)	321,599,4
+C00141 (3-Methyl-2-oxobutanoic acid)	321,529,4
+C04272 ((R)-2,3-Dihydroxy-3-methylbutanoate)	321,464,4
+C04181 (3-Hydroxy-3-methyl-2-oxobutanoic acid)	321,391,4
+C06010 ((S)-2-Acetolactate)	321,325,4
+C02504 (alpha-Isopropylmalate)	474,529,4
+C02631 (2-Isopropylmaleate)	588,529,4
+C04411 ((2R,3S)-3-Isopropylmalate)	701,529,4
+C04236 ((2S)-2-Isopropyl-3-oxosuccinate)	701,599,4
+C00233 (4-Methyl-2-oxopentanoate)	701,650,4
+C00123 (L-Leucine)	701,741,4
+10993 (SDS)	106,231,152,248
+113675 (SDSL)	106,231,152,248
+586 (BCAT1)	131,556,177,573
+587 (BCAT2)	131,556,177,573
+586 (BCAT1)	653,695,699,712
+587 (BCAT2)	653,695,699,712
+586 (BCAT1)	273,556,319,573
+587 (BCAT2)	273,556,319,573
+hsa00290: Valine	40,45,423,70
+leucine and isoleucine biosynthesis	40,45,423,70
+hsa00260: Glycine	34,123,153,157
+serine and threonine metabolism	34,123,153,157
+hsa00280: Valine	261,724,388,758
+leucine and isoleucine degradation	261,724,388,758
+hsa00620: Pyruvate metabolism	438,375,512,409

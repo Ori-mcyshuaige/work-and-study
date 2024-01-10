@@ -1,0 +1,96 @@
+C12621 (trans-3-Hydroxycinnamate)	735,335,4
+C00084 (Acetaldehyde)	868,751,4
+C00022 (Pyruvate)	924,727,4
+C03589 (4-Hydroxy-2-oxopentanoate)	868,684,4
+C00596 (2-Hydroxy-2,4-pentadienoate)	868,619,4
+C00122 (Fumarate)	788,651,4
+C12624 (2-Hydroxy-6-ketononatrienedioate)	788,543,4
+C12623 (trans-2,3-Dihydroxycinnamate)	788,463,4
+C12622 (cis-3-(3-Carboxyethenyl)-3,5-cyclohexadiene-1,2-diol)	788,385,4
+C11588 (cis-3-(Carboxy-ethyl)-3,5-cyclo-hexadiene-1,2-diol)	868,385,4
+C05853 (Phenylethyl alcohol)	400,460,4
+C02265 (D-Phenylalanine)	597,181,4
+C05620 (N-Acetyl-D-phenylalanine)	729,181,4
+C02763 (2-Hydroxy-3-phenylpropenoate)	609,401,4
+C00166 (Phenylpyruvate)	441,319,4
+C01772 (trans-2-Hydroxycinnamate)	1030,233,4
+C01586 (Hippurate)	1119,128,4
+C04044 (3-(2,3-Dihydroxyphenyl)propanoate)	868,463,4
+C00512 (Benzoyl-CoA)	1015,128,4
+C03519 (N-Acetyl-L-phenylalanine)	360,264,4
+C01198 (3-(2-Hydroxyphenyl)propanoate)	1030,299,4
+C05629 (Phenylpropanoate)	868,303,4
+C00180 (Benzoate)	1119,195,4
+C00079 (L-Phenylalanine)	441,181,4
+C05607 (Phenyllactate)	530,421,4
+C06207 (2,6-Dihydroxyphenylacetate)	441,551,4
+C05852 (2-Hydroxyphenylacetate)	441,501,4
+C04148 (Phenylacetylglutamine)	297,732,4
+C04479 (2-Hydroxy-6-oxonona-2,4-diene-1,9-dioate)	868,543,4
+C00042 (Succinate)	924,592,4
+C00582 (Phenylacetyl-CoA)	297,613,4
+C05593 (3-Hydroxyphenylacetate)	219,558,4
+C02505 (2-Phenylacetamide)	169,498,4
+C00642 (4-Hydroxyphenylacetate)	219,519,4
+C05598 (Phenylacetylglycine)	223,732,4
+C05332 (Phenethylamine)	293,301,4
+C07086 (Phenylacetic acid)	293,498,4
+C00601 (Phenylacetaldehyde)	293,413,4
+C11457 (3-(3-Hydroxyphenyl)propanoic acid)	962,308,4
+C00805 (Salicylate)	1206,195,4
+C02137 (alpha-Oxo-benzeneacetic acid)	518,613,4
+C00512 (Benzoyl-CoA)	613,613,4
+C15524 (Phenylglyoxylyl-CoA)	418,613,4
+C17268 (Pyruvophenone)	1119,257,4
+C08301 (D-Cathinone)	1119,375,4
+C08300 (D-Cathine)	1170,465,4
+C16719 ((-)-Norephedrine)	1119,465,4
+C01575 (Ephedrine)	1119,551,4
+C02765 ((+)-Pseudoephedrine)	1170,551,4
+C04351 ((R)-2-Methylimino-1-phenylpropan-1-ol)	1119,659,4
+C00082 (L-Tyrosine)	93,174,4
+C00423 (trans-Cinnamate)	788,234,4
+C19975 (2-Oxepin-2(3H)-ylideneacetyl-CoA)	483,670,4
+C19946 (3-Oxo-5,6-dehydrosuberyl-CoA semialdehyde)	577,670,4
+C19945 (3-Oxo-5,6-dehydrosuberyl-CoA)	671,670,4
+C14144 (5-Carboxy-2-pentenoyl-CoA)	671,748,4
+C14145 ((3S)-3-Hydroxyadipyl-CoA)	576,748,4
+C02232 (3-Oxoadipyl-CoA)	482,748,4
+C00091 (Succinyl-CoA)	482,825,4
+C00024 (Acetyl-CoA)	731,718,4
+C20062 (2-(1,2-Epoxy-1,2-dihydrophenyl)acetyl-CoA)	389,670,4
+C00024 (Acetyl-CoA)	868,825,4
+11670 (Aldh3a1)	269,446,315,463
+56847 (Aldh1a3)	269,446,315,463
+621603 (Aldh3b2)	269,446,315,463
+67689 (Aldh3b1)	269,446,315,463
+73458 (Aldh3b3)	269,446,315,463
+13195 (Ddc)	245,241,291,258
+11754 (Aoc3)	245,358,291,375
+237940 (Aoc2)	245,358,291,375
+109731 (Maob)	269,339,315,356
+17161 (Maoa)	269,339,315,356
+15445 (Hpd)	418,384,464,401
+234724 (Tat)	393,241,439,258
+14718 (Got1)	443,222,489,239
+14719 (Got2)	443,222,489,239
+17319 (Mif)	585,351,631,368
+100328588 (Il4i1b)	497,241,543,258
+100470 (Lao1)	497,241,543,258
+14204 (Il4i1)	497,241,543,258
+73988 (4930438A08Rik)	497,241,543,258
+107146 (Glyat)	1040,120,1086,137
+64697 (Keg1)	1040,120,1086,137
+18478 (Pah)	119,166,165,183
+240549 (Gm4952)	201,683,247,700
+map00960: Tropane	187,120,347,154
+piperidine and pyridine alkaloid biosynthesis	187,120,347,154
+mmu00010: Glycolysis / Gluconeogenesis	989,714,1057,740
+mmu00020: Citrate cycle (TCA cycle)	989,579,1066,604
+mmu00360: Phenylalanine metabolism	40,45,268,70
+mmu00400: Phenylalanine	364,75,518,109
+tyrosine and tryptophan biosynthesis	364,75,518,109
+mmu00020: Citrate cycle (TCA cycle)	751,811,824,836
+mmu00350: Tyrosine metabolism	59,249,131,283
+map00362: Benzoate degradation	660,601,780,626
+map00643: Styrene degradation	528,489,639,514

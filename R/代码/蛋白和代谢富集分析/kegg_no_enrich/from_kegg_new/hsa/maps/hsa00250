@@ -1,0 +1,101 @@
+C00122 (Fumarate)	285,530,4
+C00042 (Succinate)	284,587,4
+C00036 (Oxaloacetate)	748,528,4
+C00026 (2-Oxoglutarate)	680,587,4
+C00041 (L-Alanine)	143,302,4
+C00049 (L-Aspartate)	496,306,4
+C00152 (L-Asparagine)	749,306,4
+C00402 (D-Aspartate)	616,455,4
+C02362 (2-Oxosuccinamate)	752,411,4
+C01042 (N-Acetyl-L-aspartate)	680,210,4
+C03794 (N6-(1,2-Dicarboxyethyl)-AMP)	359,395,4
+C03406 (N-(L-Arginino)succinate)	416,395,4
+C00022 (Pyruvate)	143,528,4
+C00438 (N-Carbamoyl-L-aspartate)	680,149,4
+C00232 (Succinate semialdehyde)	284,718,4
+C00025 (L-Glutamate)	680,715,4
+C00334 (4-Aminobutanoate)	416,718,4
+C00064 (L-Glutamine)	848,715,4
+C00014 (Ammonia)	709,831,4
+C00169 (Carbamoyl phosphate)	848,831,4
+C00940 (2-Oxoglutaramate)	848,587,4
+C03912 ((S)-1-Pyrroline-5-carboxylate)	677,877,4
+C00352 (D-Glucosamine 6-phosphate)	948,670,4
+C03090 (5-Phosphoribosylamine)	948,770,4
+C00014 (Ammonia)	532,612,4
+C12270 (N-Acetylaspartylglutamate)	811,210,4
+C20776 (N-Acetylaspartylglutamylglutamate)	942,210,4
+C00158 (Citrate)	759,558,4
+C20775 (beta-Citryl-L-glutamate)	891,558,4
+56954 (NIT2)	729,431,775,448
+440 (ASNS)	624,264,670,281
+80150 (ASRGL1)	624,354,670,371
+339983 (NAT8L)	558,201,604,218
+259307 (IL4I1)	585,477,631,494
+2805 (GOT1)	585,519,631,536
+2806 (GOT2)	585,519,631,536
+8528 (DDO)	655,436,701,453
+445 (ASS1)	392,339,438,356
+122622 (ADSS1)	335,339,381,356
+159 (ADSS2)	335,339,381,356
+435 (ASL)	393,433,439,450
+158 (ADSL)	336,433,382,450
+189 (AGXT)	120,386,166,403
+64902 (AGXT2)	120,386,166,403
+2875 (GPT)	32,417,78,434
+84706 (GPT2)	32,417,78,434
+790 (CAD)	558,140,604,157
+7915 (ALDH5A1)	286,652,332,669
+2746 (GLUD1)	528,663,574,680
+2747 (GLUD2)	528,663,574,680
+18 (ABAT)	329,699,375,716
+2571 (GAD1)	519,710,565,727
+2572 (GAD2)	519,710,565,727
+2752 (GLUL)	740,707,786,724
+27165 (GLS2)	740,749,786,766
+2744 (GLS)	740,749,786,766
+790 (CAD)	825,785,871,802
+1373 (CPS1)	755,824,801,841
+56954 (NIT2)	755,568,801,585
+8659 (ALDH4A1)	653,784,699,801
+2673 (GFPT1)	874,662,920,679
+9945 (GFPT2)	874,662,920,679
+5471 (PPAT)	873,761,919,778
+443 (ASPA)	558,232,604,249
+284716 (RIMKLA)	722,191,768,208
+57494 (RIMKLB)	722,191,768,208
+284716 (RIMKLA)	853,201,899,218
+2346 (FOLH1)	722,232,768,249
+2346 (FOLH1)	853,232,899,249
+57494 (RIMKLB)	808,549,854,566
+284716 (RIMKLA)	722,212,768,229
+hsa00020: Citrate cycle (TCA cycle)	274,541,748,575
+map00473: D-Alanine metabolism	81,214,209,239
+hsa00240: Pyrimidine metabolism	760,137,886,162
+hsa00010: Glycolysis / Gluconeogenesis	90,580,194,614
+hsa00340: Histidine metabolism	545,388,671,413
+map00460: Cyanoamino acid metabolism	257,92,415,117
+hsa00220: Arginine biosynthesis	532,91,614,125
+map00300: Lysine biosynthesis	302,148,415,173
+hsa00410: beta-Alanine metabolism	293,204,415,229
+hsa00260: Glycine	271,232,415,257
+serine and threonine metabolism	271,232,415,257
+hsa00760: Nicotinate and nicotinamide metabolism	215,120,415,145
+hsa00770: Pantothenate and CoA biosynthesis	231,260,415,285
+map00530: Aminosugars metabolism	1004,653,1087,687
+hsa00230: Purine metabolism	1004,757,1108,782
+hsa00240: Pyrimidine metabolism	917,818,1046,843
+hsa00330: Arginine and proline metabolism	722,923,895,948
+hsa00340: Histidine metabolism	469,736,590,761
+hsa00910: Nitrogen metabolism	469,764,590,789
+hsa00471: D-Glutamine and D-glutamate metabolism	440,792,590,817
+hsa00480: Glutathione metabolism	458,820,589,845
+hsa00860: Porphyrin and chlorophyll metabolism	459,848,590,873
+map00460: Cyanoamino acid metabolism	434,876,590,901
+hsa00650: Butanoate metabolism	468,904,590,929
+map00660: C5-Branched dibasic acid metabolism	393,932,591,957
+hsa00250: Alanine	40,45,459,70
+aspartate and glutamate metabolism	40,45,459,70
+hsa00630: Glyoxylate and dicarboxylate metabolism	376,960,591,985
+map00261: Monobactam biosynthesis	274,176,415,201
+hsa00220: Arginine biosynthesis	788,875,912,900

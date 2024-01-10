@@ -1,0 +1,151 @@
+C06547 (Ethylene)	696,1103,4
+C01234 (1-Aminocyclopropane-1-carboxylate)	696,1031,4
+C08276 (3-(Methylthio)propanoate)	649,1102,4
+C15606 (1,2-Dihydroxy-5-(methylthio)pent-1-en-3-one)	653,1189,4
+C15651 (2-Hydroxy-3-keto-5-methylthiopentenyl-1-phosphate)	764,1189,4
+C15650 (2,3-Diketo-5-methylthiopentyl-1-phosphate)	879,1189,4
+C04582 (S-Methyl-5-thio-D-ribulose 1-phosphate)	993,1189,4
+C04188 (S-Methyl-5-thio-D-ribose 1-phosphate)	993,1117,4
+C03089 (5-Methylthio-D-ribose)	993,1053,4
+C00170 (5'-Methylthioadenosine)	991,965,4
+C01137 (S-Adenosylmethioninamine)	879,965,4
+C01817 (L-Homocystine)	323,881,4
+C03145 (N-Formylmethionine)	323,968,4
+C00109 (2-Oxobutanoate)	808,515,4
+C00065 (L-Serine)	421,803,4
+C00155 (L-Homocysteine)	517,826,4
+C00073 (L-Methionine)	517,966,4
+C02291 (L-Cystathionine)	517,725,4
+C00021 (S-Adenosyl-L-homocysteine)	694,885,4
+C00019 (S-Adenosyl-L-methionine)	696,965,4
+C02989 (L-Methionine S-oxide)	323,923,4
+C01180 (4-Methylthio-2-oxobutanoic acid)	517,1189,4
+C03539 (S-Ribosyl-L-homocysteine)	833,885,4
+C00409 (Methanethiol)	418,1044,4
+C00065 (L-Serine)	516,132,4
+C00979 (O-Acetyl-L-serine)	516,191,4
+C00097 (L-Cysteine)	516,414,4
+C00283 (Hydrogen sulfide)	586,204,4
+C05824 (S-Sulfo-L-cysteine)	292,191,4
+C00059 (Sulfate)	206,226,4
+C00051 (Glutathione)	278,359,4
+C02218 (Dehydroalanine)	715,132,4
+C00506 (L-Cysteate)	720,414,4
+C05528 (3-Sulfopyruvate)	815,414,4
+C11537 ((2R)-3-Sulfolactate)	910,414,4
+C00022 (Pyruvate)	1007,414,4
+C11481 (HSO3-)	986,374,4
+C00491 (L-Cystine)	153,329,4
+C01962 (Thiocysteine)	87,240,4
+C00606 (3-Sulfino-L-alanine)	397,570,4
+C05527 (3-Sulfinylpyruvate)	303,570,4
+C00022 (Pyruvate)	220,570,4
+C00793 (D-Cysteine)	345,515,4
+C00957 (Mercaptopyruvate)	116,570,4
+C05823 (3-Mercaptolactate)	116,670,4
+C00263 (L-Homoserine)	808,663,4
+C01118 (O-Succinyl-L-homoserine)	808,601,4
+C01077 (O-Acetyl-L-homoserine)	808,725,4
+C00441 (L-Aspartate 4-semialdehyde)	718,663,4
+C03082 (4-Phospho-L-aspartate)	633,663,4
+C00049 (L-Aspartate)	546,663,4
+C05524 (Aminoacyl-L-methionine)	418,1007,4
+C09306 (Sulfur dioxide)	492,570,4
+C00041 (L-Alanine)	469,610,4
+C00094 (Sulfite)	268,618,4
+C01005 (O-Phospho-L-serine)	421,260,4
+C11499 ((S)-3-Sulfolactate)	910,374,4
+C00109 (2-Oxobutanoate)	786,1031,4
+C02356 ((S)-2-Aminobutanoate)	915,515,4
+C21015 (gamma-L-Glutamyl-L-2-aminobutyrate)	1019,515,4
+C21016 (Ophthalmate)	1123,515,4
+C19787 (5'-S-Methyl-5'-thioinosine)	1121,963,4
+C18049 (N-Acyl-L-homoserine lactone)	948,885,4
+C00197 (3-Phospho-D-glycerate)	421,377,4
+C03232 (3-Phosphonooxypyruvate)	421,320,4
+C05526 (S-Glutathionyl-L-cysteine)	186,302,4
+234724 (Tat)	469,1065,515,1082
+104923 (Adi1)	582,1181,628,1198
+104923 (Adi1)	626,1140,672,1157
+56369 (Apip)	916,1181,962,1198
+67873 (Mri1)	970,1149,1016,1166
+66902 (Mtap)	1028,1044,1074,1061
+20810 (Srm)	916,946,962,963
+100041585 (Amd2)	774,957,820,974
+11702 (Amd1)	774,957,820,974
+107869 (Cth)	492,532,538,549
+12411 (Cbs)	429,763,475,780
+238505 (Mtr)	469,887,515,904
+229905 (Kyat3)	494,763,540,780
+70266 (Kyat1)	494,763,540,780
+12116 (Bhmt)	469,868,515,885
+108645 (Mat2b)	593,957,639,974
+11720 (Mat1a)	593,957,639,974
+232087 (Mat2a)	593,957,639,974
+11615 (Gm4737)	671,842,717,859
+229709 (Ahcyl1)	671,842,717,859
+269378 (Ahcy)	671,842,717,859
+74340 (Ahcyl2)	671,842,717,859
+13433 (Dnmt1)	646,910,692,927
+13435 (Dnmt3a)	646,910,692,927
+13436 (Dnmt3b)	646,910,692,927
+100328588 (Il4i1b)	527,1108,573,1125
+100470 (Lao1)	527,1108,573,1125
+14204 (Il4i1)	527,1108,573,1125
+73988 (4930438A08Rik)	527,1108,573,1125
+64918 (Bhmt2)	519,868,565,885
+67870 (Enoph1)	744,1153,790,1170
+231691 (Sds)	591,124,637,141
+257635 (Sdsl)	591,124,637,141
+14718 (Got1)	743,406,789,423
+14719 (Got2)	743,406,789,423
+107869 (Cth)	89,259,135,276
+12583 (Cdo1)	375,463,421,480
+14718 (Got1)	335,551,381,568
+14719 (Got2)	335,551,381,568
+229905 (Kyat3)	169,463,215,480
+70266 (Kyat1)	169,463,215,480
+107869 (Cth)	219,463,265,480
+22117 (Tst)	140,562,186,579
+246221 (Mpst)	140,562,186,579
+14718 (Got1)	68,463,114,480
+14719 (Got2)	68,463,114,480
+106557 (Ldhal6b)	93,606,139,623
+16828 (Ldha)	93,606,139,623
+16832 (Ldhb)	93,606,139,623
+16833 (Ldhc)	93,606,139,623
+20603 (Sms)	916,967,962,984
+17448 (Mdh2)	838,395,884,412
+17449 (Mdh1)	838,395,884,412
+12035 (Bcat1)	840,496,886,513
+12036 (Bcat2)	840,496,886,513
+268782 (Agxt2)	840,517,886,534
+14629 (Gclc)	942,507,988,524
+14630 (Gclm)	942,507,988,524
+14854 (Gss)	1045,507,1091,524
+229905 (Kyat3)	39,259,85,276
+70266 (Kyat1)	39,259,85,276
+236539 (Phgdh)	399,340,445,357
+107272 (Psat1)	398,284,444,301
+mmu00010: Glycolysis / Gluconeogenesis	312,364,389,389
+mmu00920: Sulfur metabolism	360,857,435,891
+mmu00270: Cysteine and methionine metabolism	40,45,358,70
+mmu00430: Taurine and hypotaurine metabolism	762,282,896,316
+mmu00620: Pyruvate metabolism	1050,397,1126,431
+mmu00260: Glycine	438,56,595,90
+serine and threonine metabolism	438,56,595,90
+mmu00430: Taurine and hypotaurine metabolism	330,647,464,681
+mmu00770: Pantothenate and CoA biosynthesis	571,295,679,329
+mmu00480: Glutathione metabolism	568,352,698,377
+mmu00260: Glycine	215,785,372,819
+serine and threonine metabolism	215,785,372,819
+mmu00250: Alanine	576,618,699,643
+aspartate and glutamate metabolism	576,618,699,643
+mmu00920: Sulfur metabolism	214,656,322,681
+mmu00640: Propanoate metabolism	565,539,693,564
+mmu00640: Propanoate metabolism	835,1015,910,1049
+mmu00260: Glycine	565,462,713,487
+serine and threonine metabolism	565,462,713,487
+mmu00290: Valine	1019,457,1150,491
+leucine and isoleucine biosynthesis	1019,457,1150,491
+mmu00920: Sulfur metabolism	252,1031,360,1056

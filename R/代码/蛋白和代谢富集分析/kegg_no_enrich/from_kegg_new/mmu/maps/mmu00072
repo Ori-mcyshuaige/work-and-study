@@ -1,0 +1,22 @@
+C00332 (Acetoacetyl-CoA)	211,210,4
+C00356 ((S)-3-Hydroxy-3-methylglutaryl-CoA)	211,320,4
+C00207 (Acetone)	211,510,4
+C00164 (Acetoacetate)	211,429,4
+C01089 ((R)-3-Hydroxybutanoate)	289,510,4
+C00024 (Acetyl-CoA)	333,259,4
+15360 (Hmgcs2)	188,267,234,284
+208715 (Hmgcs1)	188,267,234,284
+15356 (Hmgcl)	188,345,234,362
+208982 (Hmgcll1)	188,345,234,362
+110446 (Acat1)	254,201,300,218
+110460 (Acat2)	254,201,300,218
+69772 (Bdh2)	267,454,313,471
+71911 (Bdh1)	267,454,313,471
+353371 (Oxct2b)	50,307,96,324
+64059 (Oxct2a)	50,307,96,324
+67041 (Oxct1)	50,307,96,324
+mmu00072: Synthesis and degradation of ketone bodies	117,45,374,79
+mmu00071: Fatty acid degradation	150,129,276,154
+mmu00620: Pyruvate metabolism	335,169,457,194
+mmu00010: Glycolysis / Gluconeogenesis	375,247,448,272
+mmu00650: Butanoate metabolism	50,483,121,517

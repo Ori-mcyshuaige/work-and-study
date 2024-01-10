@@ -1,0 +1,70 @@
+C00279 (D-Erythrose 4-phosphate)	238,201,4
+C00074 (Phosphoenolpyruvate)	246,236,4
+C04691 (2-Dehydro-3-deoxy-D-arabino-heptonate 7-phosphate)	329,201,4
+C00944 (3-Dehydroquinate)	420,201,4
+C00296 (Quinate)	420,125,4
+C02637 (3-Dehydroshikimate)	420,278,4
+C00230 (3,4-Dihydroxybenzoate)	329,278,4
+C00493 (Shikimate)	420,355,4
+C03175 (Shikimate 3-phosphate)	420,416,4
+C01269 (5-O-(1-Carboxyvinyl)-3-phosphoshikimate)	420,477,4
+C00251 (Chorismate)	420,538,4
+C00079 (L-Phenylalanine)	330,792,4
+C00119 (5-Phospho-alpha-D-ribose 1-diphosphate)	309,511,4
+C00108 (Anthranilate)	329,538,4
+C04302 (N-(5-Phospho-D-ribosyl)anthranilate)	236,538,4
+C01302 (1-(2-Carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate)	236,477,4
+C03506 (Indoleglycerol phosphate)	236,416,4
+C00463 (Indole)	144,355,4
+C00078 (L-Tryptophan)	144,416,4
+C00082 (L-Tyrosine)	524,792,4
+C01179 (3-(4-Hydroxyphenyl)pyruvate)	524,675,4
+C00254 (Prephenate)	420,599,4
+C00826 (L-Arogenate)	420,686,4
+C00166 (Phenylpyruvate)	330,675,4
+C16850 (2-Amino-3,7-dideoxy-D-threo-hept-6-ulosonic acid)	511,201,4
+C00441 (L-Aspartate 4-semialdehyde)	602,201,4
+C16848 (6-Deoxy-5-ketofructose 1-phosphate)	593,242,4
+C01094 (D-Fructose 1-phosphate)	688,242,4
+C00354 (D-Fructose 1,6-bisphosphate)	688,280,4
+C20653 (2-Benzylmalic acid)	158,675,4
+C20654 (3-Benzylmalic acid)	66,675,4
+C20327 (2-Oxo-4-phenylbutyric acid)	66,736,4
+C17235 (L-Homophenylalanine)	66,799,4
+C00587 (3-Hydroxybenzoate)	609,600,4
+C20710 ((4R,5R)-4,5-Dihydroxycyclohexa-1(6),2-diene-1-carboxylate)	680,600,4
+561410 (tat)	332,706,378,723
+337166 (si:dkey-40g16.6)	214,725,260,742
+378962 (pah)	357,833,403,850
+337166 (si:dkey-40g16.6)	594,725,640,742
+561410 (tat)	526,706,572,723
+335974 (got2b)	282,706,328,723
+406330 (got1)	282,706,328,723
+406688 (got2a)	282,706,328,723
+335974 (got2b)	476,706,522,723
+406330 (got1)	476,706,522,723
+406688 (got2a)	476,706,522,723
+map00940: Phenylpropanoid biosynthesis	112,778,209,812
+map00940: Phenylpropanoid biosynthesis	570,848,673,882
+map01053: Biosynthesis of siderophore group nonribosomal peptides	594,463,720,508
+map01058: Acridone alkaloid biosynthesis	40,562,208,587
+map00901: Indole alkaloid biosynthesis	34,473,125,507
+map00402: Benzoxazinoid biosynthesis	194,293,291,327
+map00960: Tropane	128,830,264,875
+piperidine and pyridine alkaloid biosynthesis	128,830,264,875
+map00231: Puromycin biosynthesis	650,818,782,843
+dre00400: Phenylalanine	40,45,499,70
+tyrosine and tryptophan biosynthesis	40,45,499,70
+dre00380: Tryptophan metabolism	34,435,110,469
+dre00360: Phenylalanine metabolism	197,897,353,922
+dre00350: Tyrosine metabolism	500,896,619,921
+dre00010: Glycolysis / Gluconeogenesis	113,224,189,249
+map00710: Carbon fixation in photosynthetic organisms	123,146,213,171
+dre00030: Pentose phosphate pathway	187,105,293,139
+dre00790: Folate biosynthesis	803,517,882,551
+dre00130: Ubiquinone and other terpenoid-quinone biosynthesis	636,658,803,692
+map00950: Isoquinoline alkaloid biosynthesis	765,848,882,882
+map00966: Glucosinolate biosynthesis	352,863,503,888
+map00403: Indole diterpene alkaloid biosynthesis	271,343,380,377
+map00404: Staurosporine biosynthesis	73,511,154,545
+map01059: Biosynthesis of enediyne antibiotics	745,587,862,621

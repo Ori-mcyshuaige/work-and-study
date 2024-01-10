@@ -1,0 +1,121 @@
+C00898 ((R,R)-Tartaric acid)	187,144,4
+C00036 (Oxaloacetate)	477,144,4
+C00158 (Citrate)	825,144,4
+C00149 ((S)-Malate)	477,257,4
+C04348 (L-Malyl-CoA)	440,310,4
+C03548 (trans-2,3-Epoxysuccinate)	285,304,4
+C00552 (meso-Tartaric acid)	187,304,4
+C03459 (2-Hydroxy-3-oxosuccinate)	104,303,4
+C00975 (Dihydroxyfumarate)	187,454,4
+C01146 (2-Hydroxy-3-oxopropanoate)	259,454,4
+C00258 (D-Glycerate)	259,599,4
+C01182 (D-Ribulose 1,5-bisphosphate)	683,671,4
+C00988 (2-Phosphoglycolate)	598,626,4
+C00168 (Hydroxypyruvate)	385,598,4
+C00266 (Glycolaldehyde)	536,594,4
+C01380 (Ethylene glycol)	536,660,4
+C00160 (Glycolate)	601,496,4
+C00048 (Glyoxylate)	911,447,4
+C00209 (Oxalate)	911,398,4
+C00058 (Formate)	911,321,4
+C00011 (CO2)	911,236,4
+C02405 (Formyl phosphate)	1044,253,4
+C06049 (N-Formylderivatives)	1119,191,4
+C00798 (Formyl-CoA)	1119,335,4
+C00313 (Oxalyl-CoA)	1119,401,4
+C00417 (cis-Aconitate)	1189,297,4
+C00311 (Isocitrate)	1190,450,4
+C00042 (Succinate)	1116,479,4
+C01127 (4-Hydroxy-2-oxoglutarate)	1076,485,4
+C00022 (Pyruvate)	975,512,4
+C01990 (3-Oxalomalate)	1075,536,4
+C01989 (3-Ethylmalate)	1075,582,4
+C02123 (3-Propylmalate)	1075,629,4
+C03217 (2-Hydroxy-3-oxoadipate)	1074,679,4
+C00026 (2-Oxoglutarate)	975,704,4
+C00888 (Pentanoyl-CoA)	975,655,4
+C00136 (Butanoyl-CoA)	973,606,4
+C00036 (Oxaloacetate)	975,562,4
+C00332 (Acetoacetyl-CoA)	602,177,4
+C03561 ((R)-3-Hydroxybutanoyl-CoA)	689,177,4
+C00877 (Crotonoyl-CoA)	776,177,4
+C18026 ((2S)-Ethylmalonyl-CoA)	776,233,4
+C18324 ((2S)-Methylsuccinyl-CoA)	776,345,4
+C06028 (2-Methylfumaryl-CoA)	776,401,4
+C00683 ((S)-Methylmalonyl-CoA)	623,351,4
+C00100 (Propanoyl-CoA)	623,409,4
+C00091 (Succinyl-CoA)	623,235,4
+C06027 (L-erythro-3-Methylmalyl-CoA)	687,401,4
+C00024 (Acetyl-CoA)	508,370,4
+C01213 ((R)-Methylmalonyl-CoA)	623,293,4
+C00037 (Glycine)	562,805,4
+C00014 (Ammonia)	459,805,4
+C00065 (L-Serine)	704,848,4
+C00197 (3-Phospho-D-glycerate)	259,671,4
+C00007 (Oxygen)	703,521,4
+C00027 (Hydrogen peroxide)	811,523,4
+C00025 (L-Glutamate)	836,753,4
+C00026 (2-Oxoglutarate)	718,753,4
+C00064 (L-Glutamine)	727,704,4
+C20238 ((2R)-Ethylmalonyl-CoA)	776,289,4
+C00025 (L-Glutamate)	915,183,4
+C03618 (L-threo-3-Methylaspartate)	828,183,4
+C01732 (Mesaconate)	828,273,4
+C00631 (2-Phospho-D-glycerate)	161,671,4
+C00033 (Acetate)	508,422,4
+68180 (Hyi)	359,510,405,527
+11428 (Aco1)	1166,364,1212,381
+11429 (Aco2)	1166,364,1212,381
+67432 (Hoga1)	998,466,1044,483
+71562 (Afmid)	1071,232,1117,249
+11428 (Aco1)	965,136,1011,153
+11429 (Aco2)	965,136,1011,153
+15112 (Hao1)	736,488,782,505
+56185 (Hao2)	736,488,782,505
+76238 (Grhpr)	715,592,761,609
+12974 (Cs)	533,135,579,152
+71832 (Csl)	533,135,579,152
+76238 (Grhpr)	327,600,373,617
+76238 (Grhpr)	327,579,373,596
+17448 (Mdh2)	455,187,501,204
+17449 (Mdh1)	455,187,501,204
+67078 (Pgp)	575,594,621,611
+110446 (Acat1)	533,168,579,185
+110460 (Acat2)	533,168,579,185
+73724 (Mcee)	600,317,646,334
+110821 (Pcca)	600,375,646,392
+66904 (Pccb)	600,375,646,392
+17850 (Mut)	600,259,646,276
+11611 (Agxt)	573,838,619,855
+108037 (Shmt2)	682,815,728,832
+20425 (Shmt1)	682,815,728,832
+104174 (Gldc)	489,796,535,813
+13382 (Dld)	489,796,535,813
+434437 (Amt)	489,796,535,813
+68133 (Gcsh)	489,796,535,813
+12359 (Cat)	738,539,784,556
+14645 (Glul)	759,695,805,712
+73724 (Mcee)	754,248,800,265
+235582 (Glyctk)	139,623,185,640
+60525 (Acss2)	486,392,532,409
+68738 (Acss1)	486,392,532,409
+mmu00020: Citrate cycle (TCA cycle)	604,101,686,126
+map00710: Carbon fixation in photosynthetic organisms	729,659,821,684
+mmu00630: Glyoxylate and dicarboxylate metabolism	40,45,409,70
+mmu00053: Ascorbate and aldarate metabolism	229,370,358,404
+mmu00620: Pyruvate metabolism	296,201,420,226
+mmu00620: Pyruvate metabolism	937,215,1010,249
+mmu00620: Pyruvate metabolism	604,73,728,98
+mmu00750: Vitamin B6 metabolism	403,537,532,562
+mmu00230: Purine metabolism	787,552,892,577
+mmu00910: Nitrogen metabolism	972,354,1091,379
+mmu00260: Glycine	577,898,696,932
+serine and threonine metabolism	577,898,696,932
+mmu00020: Citrate cycle (TCA cycle)	545,192,627,217
+map00710: Carbon fixation in photosynthetic organisms	213,716,305,741
+mmu00250: Alanine	397,686,520,720
+aspartate and glutamate metabolism	397,686,520,720
+mmu00250: Alanine	950,166,1076,200
+aspartate and glutamate metabolism	950,166,1076,200
+mmu00010: Glycolysis / Gluconeogenesis	140,745,304,770
+mmu00071: Fatty acid degradation	516,237,589,271

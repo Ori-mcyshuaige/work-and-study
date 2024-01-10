@@ -1,0 +1,74 @@
+C00059 (Sulfate)	80,297,4
+C00094 (Sulfite)	374,297,4
+C00283 (Hydrogen sulfide)	721,297,4
+C00224 (Adenylyl sulfate)	80,415,4
+C00054 (Adenosine 3',5'-bisphosphate)	80,592,4
+C00053 (3'-Phosphoadenylyl sulfate)	80,515,4
+C11142 (Dimethyl sulfone)	374,610,4
+C11145 (Methanesulfonic acid)	374,487,4
+C11143 (Dimethyl sulfoxide)	555,610,4
+C00580 (Dimethyl sulfide)	721,610,4
+C00409 (Methanethiol)	721,516,4
+C04022 (S,S-Dimethyl-beta-propiothetin)	555,568,4
+C03920 (2-(Methylthio)ethanesulfonate)	598,516,4
+C19692 (Polysulfide)	697,330,4
+C01861 (Trithionate)	374,193,4
+C02084 (Tetrathionate)	372,137,4
+C00320 (Thiosulfate)	481,193,4
+C00087 (Sulfur)	521,393,4
+C00097 (L-Cysteine)	889,297,4
+C00979 (O-Acetyl-L-serine)	786,255,4
+C00033 (Acetate)	862,227,4
+C00065 (L-Serine)	786,182,4
+C08276 (3-(Methylthio)propanoate)	433,568,4
+C00155 (L-Homocysteine)	937,430,4
+C01118 (O-Succinyl-L-homoserine)	826,472,4
+C00042 (Succinate)	902,500,4
+C00263 (L-Homoserine)	826,555,4
+C00245 (Taurine)	225,221,4
+C15521 (Alkanesulfonate)	304,221,4
+C00059 (Sulfate)	80,145,4
+C00245 (Taurine)	225,145,4
+C15521 (Alkanesulfonate)	304,145,4
+C00059 (Sulfate)	233,764,4
+C00053 (3'-Phosphoadenylyl sulfate)	453,764,4
+C00224 (Adenylyl sulfate)	343,764,4
+C00094 (Sulfite)	563,764,4
+C00059 (Sulfate)	233,835,4
+C00224 (Adenylyl sulfate)	343,835,4
+C00094 (Sulfite)	563,835,4
+C00283 (Hydrogen sulfide)	783,835,4
+C00059 (Sulfate)	233,912,4
+C00320 (Thiosulfate)	673,912,4
+C00283 (Hydrogen sulfide)	783,764,4
+C19692 (Polysulfide)	576,330,4
+C20870 (3-(Methylthio)propanoyl-CoA)	433,482,4
+C20955 (3-(Methylthio)acryloyl-CoA)	555,482,4
+C00084 (Acetaldehyde)	674,454,4
+C17267 (S-Sulfanylglutathione)	521,423,4
+6821 (SUOX)	160,288,206,305
+10380 (BPNT1)	133,455,179,472
+54928 (IMPAD1)	133,455,179,472
+9060 (PAPSS2)	57,455,103,472
+9061 (PAPSS1)	57,455,103,472
+9060 (PAPSS2)	32,344,78,361
+9061 (PAPSS1)	32,344,78,361
+8991 (SELENBP1)	698,450,744,467
+4357 (MPST)	416,230,462,247
+7263 (TST)	416,230,462,247
+9060 (PAPSS2)	371,745,417,762
+9061 (PAPSS1)	371,745,417,762
+9060 (PAPSS2)	265,737,311,754
+9061 (PAPSS1)	265,737,311,754
+58472 (SQOR)	616,415,662,432
+23474 (ETHE1)	430,415,476,432
+hsa00920: Sulfur metabolism	40,45,210,70
+hsa00270: Cysteine and methionine metabolism	930,280,1066,314
+map00720: Carbon fixation pathways in prokaryotes	915,209,1053,243
+hsa00260: Glycine	728,104,846,138
+serine and threonine metabolism	728,104,846,138
+map00680: Methane metabolism	852,170,966,195
+map00680: Methane metabolism	489,499,560,533
+hsa00260: Glycine	901,538,1019,572
+serine and threonine metabolism	901,538,1019,572
+hsa00270: Cysteine and methionine metabolism	819,585,958,619

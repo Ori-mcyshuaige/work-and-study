@@ -1,0 +1,148 @@
+C00422 (Triacylglycerol)	1150,662,4
+C02530 (Cholesterol ester)	1153,693,4
+C00422 (Triacylglycerol)	1286,664,4
+C02530 (Cholesterol ester)	1288,692,4
+C01558 (Bile salt)	120,758,4
+C00422 (Triacylglycerol)	928,656,4
+C02530 (Cholesterol ester)	935,686,4
+C02075 (Retinyl ester)	1266,681,4
+C05443 (Vitamin D3)	1266,681,4
+C02477 (alpha-Tocopherol)	1266,681,4
+C02059 (Phylloquinone)	1266,681,4
+C00828 (Menaquinone)	1266,681,4
+C05377 (Menadione)	1266,681,4
+C02075 (Retinyl ester)	1131,684,4
+C05443 (Vitamin D3)	1131,684,4
+C02477 (alpha-Tocopherol)	1131,684,4
+C02059 (Phylloquinone)	1131,684,4
+C00828 (Menaquinone)	1131,684,4
+C05377 (Menadione)	1131,684,4
+C02075 (Retinyl ester)	843,717,4
+C00473 (Retinol)	747,770,4
+C13202 (alpha-Tocopherol acetate)	373,605,4
+C12981 (dl-alpha-Tocopherol nicotinate)	373,605,4
+C02477 (alpha-Tocopherol)	373,689,4
+C02075 (Retinyl ester)	229,605,4
+C00473 (Retinol)	229,771,4
+C05776 (Vitamin B12)	481,341,4
+C05776 (Vitamin B12)	443,190,4
+C05776 (Vitamin B12)	801,304,4
+C05776 (Vitamin B12)	912,305,4
+C05776 (Vitamin B12)	680,373,4
+C05776 (Vitamin B12)	1092,300,4
+C05776 (Vitamin B12)	1354,363,4
+C05776 (Vitamin B12)	1034,266,4
+C01330 (Sodium cation)	565,436,4
+C00120 (Biotin)	516,445,4
+C00864 (Pantothenate)	516,445,4
+C01330 (Sodium cation)	477,502,4
+C00072 (Ascorbate)	465,510,4
+C00378 (Thiamine)	478,366,4
+C00068 (Thiamin diphosphate)	319,210,4
+C00061 (FMN)	253,238,4
+C00016 (FAD)	273,257,4
+C00255 (Riboflavin)	264,387,4
+C05552 (Biocytin)	206,210,4
+C00072 (Ascorbate)	151,253,4
+C00378 (Thiamine)	319,348,4
+C00120 (Biotin)	206,431,4
+C00647 (Pyridoxamine phosphate)	396,259,4
+C00534 (Pyridoxamine)	395,321,4
+C00010 (CoA)	177,305,4
+C00864 (Pantothenate)	178,452,4
+C00504 (Folate)	91,563,4
+C00003 (NAD+)	120,305,4
+C00153 (Nicotinamide)	120,524,4
+C05443 (Vitamin D3)	317,605,4
+C02059 (Phylloquinone)	421,604,4
+C05377 (Menadione)	421,648,4
+C00828 (Menaquinone)	421,630,4
+C02075 (Retinyl ester)	902,675,4
+C05443 (Vitamin D3)	902,675,4
+C02477 (alpha-Tocopherol)	902,675,4
+C02059 (Phylloquinone)	902,675,4
+C00828 (Menaquinone)	902,675,4
+C05377 (Menadione)	902,675,4
+C02477 (alpha-Tocopherol)	695,691,4
+C00504 (Folate)	552,576,4
+C00681 (1-Acyl-sn-glycerol 3-phosphate)	83,722,4
+C02112 (2-Acylglycerol)	69,686,4
+C01885 (1-Acylglycerol)	69,686,4
+C00473 (Retinol)	164,681,4
+C02094 (beta-Carotene)	164,681,4
+C05443 (Vitamin D3)	164,681,4
+C02477 (alpha-Tocopherol)	164,681,4
+C02059 (Phylloquinone)	164,681,4
+C00828 (Menaquinone)	164,681,4
+C05377 (Menadione)	164,681,4
+C00162 (Fatty acid)	83,649,4
+C00187 (Cholesterol)	203,764,4
+C00255 (Riboflavin)	478,387,4
+C00018 (Pyridoxal phosphate)	371,259,4
+C00250 (Pyridoxal)	370,321,4
+C02094 (beta-Carotene)	289,649,4
+C00376 (Retinal)	684,754,4
+C02094 (beta-Carotene)	486,752,4
+C00378 (Thiamine)	1319,419,4
+C00255 (Riboflavin)	1296,441,4
+C00120 (Biotin)	1276,465,4
+C00864 (Pantothenate)	1250,482,4
+C00072 (Ascorbate)	1225,508,4
+C00504 (Folate)	1172,540,4
+C00504 (Folate)	500,560,4
+C00080 (H+)	530,554,4
+C00153 (Nicotinamide)	1201,528,4
+C00018 (Pyridoxal phosphate)	1338,396,4
+338 (APOB)	1122,632,1168,649
+338 (APOB)	1260,636,1306,653
+337 (APOA4)	1304,677,1350,694
+335 (APOA1)	1262,715,1308,732
+337 (APOA4)	1164,671,1210,688
+335 (APOA1)	1124,713,1170,730
+335 (APOA1)	896,709,942,726
+337 (APOA4)	946,661,992,678
+338 (APOB)	897,625,943,642
+949 (SCARB1)	605,680,651,697
+8029 (CUBN)	605,306,651,323
+8029 (CUBN)	720,287,766,304
+2694 (CBLIF)	778,269,824,286
+2694 (CBLIF)	459,306,505,323
+2694 (CBLIF)	465,263,511,280
+55788 (LMBRD1)	966,290,1012,307
+2694 (CBLIF)	891,270,937,287
+4363 (ABCC1)	1118,293,1164,310
+6948 (TCN2)	1283,354,1329,371
+6948 (TCN2)	1034,354,1080,371
+2694 (CBLIF)	657,337,703,354
+8029 (CUBN)	703,337,749,354
+8029 (CUBN)	668,258,714,275
+25974 (MMACHC)	1013,232,1059,249
+5948 (RBP2)	773,760,819,777
+9227 (LRAT)	808,739,854,756
+8884 (SLC5A6)	605,432,651,449
+9963 (SLC23A1)	515,498,561,515
+6573 (SLC19A1)	602,569,648,586
+10560 (SLC19A2)	516,358,562,375
+80704 (SLC19A3)	516,358,562,375
+686 (BTD)	209,320,255,337
+2346 (FOLH1)	41,384,87,401
+949 (SCARB1)	515,746,561,763
+113278 (SLC52A3)	516,380,562,397
+158835 (AWAT2)	756,719,802,736
+113235 (SLC46A1)	602,548,648,565
+5406 (PNLIP)	233,682,279,699
+151056 (PLB1)	233,703,279,720
+hsa04977: Vitamin digestion and absorption	40,45,356,70
+hsa04530: Tight junction	634,101,749,126
+ko00830: Retinol metabolism	287,780,402,814
+hsa04976: Bile secretion	79,802,194,827
+hsa04144: Endocytosis	754,363,846,388
+hsa04142: Lysosome	881,369,973,394
+hsa04975: Fat digestion and absorption	762,574,863,608
+ko00770: Pantothenate and CoA biosynthesis	246,467,356,501
+ko00740: Riboflavin metabolism	350,397,442,431
+ko00730: Thiamine metabolism	274,166,366,200
+ko00780: Biotin metabolism	161,166,253,200
+ko00790: Folate biosynthesis	47,166,139,200
+ko00760: Nicotinate and nicotinamide metabolism	166,522,308,556
+ko00750: Vitamin B6 metabolism	338,216,430,250

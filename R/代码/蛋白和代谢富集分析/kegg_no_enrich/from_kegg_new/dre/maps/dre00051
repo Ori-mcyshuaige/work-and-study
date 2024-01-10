@@ -1,0 +1,115 @@
+C00247 (L-Sorbose)	223,92,4
+C00267 (alpha-D-Glucose)	135,147,4
+C01094 (D-Fructose 1-phosphate)	397,995,4
+C00159 (D-Mannose)	223,323,4
+C00275 (D-Mannose 6-phosphate)	397,323,4
+C00392 (Mannitol)	505,191,4
+C00644 (D-Mannitol 1-phosphate)	977,191,4
+C03267 (beta-D-Fructose 2-phosphate)	548,238,4
+C00665 (beta-D-Fructose 2,6-bisphosphate)	921,238,4
+C00794 (D-Sorbitol)	994,486,4
+C00464 (Mannan)	223,427,4
+C02492 (1,4-beta-D-Mannan)	149,468,4
+C01096 (Sorbitol 6-phosphate)	994,396,4
+C00325 (GDP-L-fucose)	397,615,4
+C01768 ((Alginate)n)	723,410,4
+C00577 (D-Glyceraldehyde)	976,835,4
+C00507 (L-Rhamnose)	223,900,4
+C00861 (L-Rhamnulose)	223,959,4
+C01131 (L-Rhamnulose 1-phosphate)	397,959,4
+C02431 (L-Rhamnofuranose)	223,857,4
+C01934 (L-Rhamnonate)	404,857,4
+C03979 (2-Dehydro-3-deoxy-L-rhamnonate)	499,857,4
+C00118 (D-Glyceraldehyde 3-phosphate)	922,635,4
+C00096 (GDP-mannose)	397,467,4
+C05345 (beta-D-Fructose 6-phosphate)	922,323,4
+C00976 (GDP-D-mannuronate)	522,410,4
+C01222 (GDP-4-dehydro-6-deoxy-D-mannose)	397,557,4
+C02985 (L-Fucose 1-phosphate)	397,682,4
+C05392 (Oligouronide with 4-deoxy-alpha-L-erythro-hex-4-enopyranuronosyl group)	823,410,4
+C02977 (GDP-6-deoxy-D-talose)	608,556,4
+C03117 (GDP-6-deoxy-D-mannose)	608,617,4
+C00095 (D-Fructose)	223,238,4
+C00794 (D-Sorbitol)	223,147,4
+C00636 (D-Mannose 1-phosphate)	397,387,4
+C05378 (beta-D-Fructose 1,6-bisphosphate)	922,547,4
+C02991 (L-Rhamnono-1,4-lactone)	309,857,4
+C01355 (Fructan)	323,270,4
+C01019 (6-Deoxy-L-galactose)	223,682,4
+C00111 (Glycerone phosphate)	922,741,4
+C01099 (L-Fuculose 1-phosphate)	397,741,4
+C01721 (L-Fuculose)	223,741,4
+C06192 (ADP-mannose)	302,387,4
+C02888 (Sorbose 1-phosphate)	1047,453,4
+C00247 (L-Sorbose)	1047,529,4
+C18096 (D-Allulose 6-phosphate)	1025,252,4
+C02962 (D-Allose 6-phosphate)	1025,187,4
+C01487 (D-Allose)	1025,124,4
+C18028 (L-Fucono-1,5-lactone)	309,783,4
+C01720 (L-Fuconate)	404,783,4
+C03827 (2-Dehydro-3-deoxy-L-fuconate)	499,783,4
+C20781 (2,4-Diketo-3-deoxy-L-fuconate)	594,783,4
+C00424 ((S)-Lactaldehyde)	689,857,4
+C00186 ((S)-Lactate)	689,783,4
+C11544 (2-O-(alpha-D-Mannosyl)-D-glycerate)	710,470,4
+C11516 (2-(alpha-D-Mannosyl)-3-phosphoglycerate)	613,470,4
+C05144 ((beta-D-Mannuronate)n)	622,410,4
+553452 (si:dkey-180p18.9)	156,139,202,156
+570613 (sord)	175,192,221,209
+436909 (khk)	287,976,333,993
+321224 (hkdc1)	287,314,333,331
+406339 (hk2)	287,314,333,331
+406791 (hk1)	287,314,333,331
+321224 (hkdc1)	449,273,495,290
+406339 (hk2)	449,273,495,290
+406791 (hk1)	449,273,495,290
+100330415 (si:dkey-96f10.1)	877,260,923,277
+327453 (pfkfb1)	877,260,923,277
+386663 (pfkfb4b)	877,260,923,277
+393160 (tigarb)	877,260,923,277
+393983 (pfkfb2a)	877,260,923,277
+554477 (pfkfb3)	877,260,923,277
+556190 (pfkfb4a)	877,260,923,277
+564852 (pfkfb2b)	877,260,923,277
+664696 (tigara)	877,260,923,277
+613246 (mpi)	659,315,705,332
+100007686	374,346,420,363
+368229 (pmm2)	374,346,420,363
+553792 (fpgt)	374,641,420,658
+494077 (tsta3)	374,574,420,591
+393461 (gmds)	374,509,420,526
+393469 (gmppab)	349,417,395,434
+431743 (gmppaa)	349,417,395,434
+445097 (gmppb)	349,417,395,434
+447836 (pfkma)	940,409,986,426
+550259 (pfklb)	940,409,986,426
+560944 (pfkpa)	940,409,986,426
+561416 (pfkpb)	940,409,986,426
+568001 (pfkmb)	940,409,986,426
+570106 (pfkla)	940,409,986,426
+192309 (tpi1a)	899,678,945,695
+560753 (tpi1b)	899,678,945,695
+321664 (aldob)	566,980,612,997
+336425 (aldoaa)	566,980,612,997
+369193 (aldocb)	566,980,612,997
+406496 (aldoab)	566,980,612,997
+792692 (aldoca)	566,980,612,997
+793926 (tkfc)	953,729,999,746
+321664 (aldob)	899,584,945,601
+336425 (aldoaa)	899,584,945,601
+369193 (aldocb)	899,584,945,601
+406496 (aldoab)	899,584,945,601
+792692 (aldoca)	899,584,945,601
+282672 (fbp1b)	855,409,901,426
+335231 (fbp1a)	855,409,901,426
+445505 (fbp2)	855,409,901,426
+100150934 (fuk)	287,674,333,691
+558186 (enosf1)	424,775,470,792
+dre00052: Galactose metabolism	15,130,91,164
+dre00010: Glycolysis / Gluconeogenesis	1033,307,1103,332
+dre00051: Fructose and mannose metabolism	40,45,338,70
+dre00520: Amino sugar and nucleotide sugar metabolism	31,300,134,345
+dre00510: N-Glycan biosynthesis	290,523,370,557
+dre00620: Pyruvate metabolism	728,766,797,800
+dre00520: Amino sugar and nucleotide sugar metabolism	446,332,599,366
+dre00010: Glycolysis / Gluconeogenesis	809,623,879,648

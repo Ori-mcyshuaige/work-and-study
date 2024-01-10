@@ -1,0 +1,151 @@
+C11557 (1-Phosphatidyl-1D-myo-inositol 5-phosphate)	558,68,4
+C11555 (1D-myo-Inositol 1,4,5,6-tetrakisphosphate)	53,414,4
+C01272 (1D-myo-Inositol 1,3,4,5-tetrakisphosphate)	115,340,4
+C01204 (Phytic acid)	167,550,4
+C01245 (D-myo-Inositol 1,4,5-trisphosphate)	229,257,4
+C01243 (1D-myo-Inositol 1,3,4-trisphosphate)	229,340,4
+C01284 (1D-myo-Inositol 1,3,4,5,6-pentakisphosphate)	229,472,4
+C04520 (1D-myo-Inositol 3,4,5,6-tetrakisphosphate)	229,550,4
+C04563 (D-myo-Inositol 1,2,4,5,6-pentakisphosphate)	167,615,4
+C04477 (1D-myo-Inositol 1,3,4,6-tetrakisphosphate)	229,414,4
+C04579 (Inositol 1,2,3,5,6-pentakisphosphate)	109,615,4
+C04063 (D-myo-Inositol 3,4-bisphosphate)	343,340,4
+C04062 (D-myo-Inositol 1,3-bisphosphate)	716,404,4
+C01220 (1D-myo-Inositol 1,4-bisphosphate)	343,257,4
+C00092 (D-Glucose 6-phosphate)	343,307,4
+C04006 (1D-myo-Inositol 3-phosphate)	443,340,4
+C03546 (myo-Inositol 4-phosphate)	443,257,4
+C00191 (D-Glucuronate)	458,528,4
+C01177 (Inositol 1-phosphate)	716,340,4
+C04637 (1-Phosphatidyl-D-myo-inositol 4,5-bisphosphate)	558,169,4
+C01277 (1-Phosphatidyl-1D-myo-inositol 4-phosphate)	558,245,4
+C05981 (Phosphatidylinositol-3,4,5-trisphosphate)	679,115,4
+C01194 (1-Phosphatidyl-D-myo-inositol)	845,341,4
+C00641 (1,2-Diacyl-sn-glycerol)	342,201,4
+C03659 (D-Bornesitol)	657,420,4
+C03660 (L-Bornesitol)	657,380,4
+C04287 (3D-3,5/4-Trihydroxycyclohexane-1,2-dione)	779,487,4
+C16737 (5-Deoxy-D-glucuronate)	871,487,4
+C06892 (2-Deoxy-5-keto-D-gluconic acid)	967,487,4
+C06893 (2-Deoxy-5-keto-D-gluconic acid 6-phosphate)	1061,487,4
+C00222 (3-Oxopropanoate)	1000,563,4
+C00024 (Acetyl-CoA)	904,563,4
+C00111 (Glycerone phosphate)	1000,610,4
+C00118 (D-Glyceraldehyde 3-phosphate)	904,610,4
+C11556 (1-Phosphatidyl-1D-myo-inositol 3,5-bisphosphate)	845,68,4
+C11554 (1-Phosphatidyl-1D-myo-inositol 3,4-bisphosphate)	679,175,4
+C20251 (1-Keto-D-chiro-inositol)	666,626,4
+C00137 (myo-Inositol)	558,340,4
+C19891 (1D-chiro-Inositol)	558,626,4
+C06153 (scyllo-Inositol)	558,558,4
+C19794 (CDP-1L-myo-inositol)	443,414,4
+C19799 (Bis(1L-myo-inositol)-3,1'-phosphate 1-phosphate)	443,476,4
+C00691 (2,4,6/3,5-Pentahydroxycyclohexanone)	666,487,4
+C21643 (3-Dehydro-scyllo-inosose)	779,453,4
+C00558 (D-Tagaturonate)	967,453,4
+C21644 (5-Dehydro-L-gluconate)	871,453,4
+C04549 (1-Phosphatidyl-1D-myo-inositol 3-phosphate)	845,175,4
+108083 (Pip4k2b)	535,94,581,111
+117150 (Pip4k2c)	535,94,581,111
+18718 (Pip4k2a)	535,94,581,111
+104015 (Synj1)	485,200,531,217
+16330 (Inpp5b)	485,200,531,217
+20975 (Synj2)	485,200,531,217
+320634 (Ocrl)	485,200,531,217
+64436 (Inpp5e)	485,200,531,217
+69718 (Ipmk)	30,364,76,381
+69718 (Ipmk)	113,461,159,478
+19211 (Pten)	594,106,640,123
+17330 (Minpp1)	151,282,197,299
+170835 (Inpp5j)	151,332,197,349
+19062 (Inpp5k)	151,332,197,349
+212111 (Inpp5a)	151,332,197,349
+228550 (Itpka)	151,249,197,266
+233011 (Itpkc)	151,249,197,266
+320404 (Itpkb)	151,249,197,266
+217837 (Itpk1)	151,364,197,381
+217837 (Itpk1)	206,375,252,392
+69718 (Ipmk)	206,431,252,448
+217837 (Itpk1)	206,500,252,517
+170835 (Inpp5j)	261,249,307,266
+19062 (Inpp5k)	261,249,307,266
+212111 (Inpp5a)	261,249,307,266
+16329 (Inpp1)	261,332,307,349
+16329 (Inpp1)	366,249,412,266
+234515 (Inpp4b)	366,332,412,349
+269180 (Inpp4a)	366,332,412,349
+17772 (Mtm1)	693,367,739,384
+71780 (Isyna1)	366,299,412,316
+114663 (Impa2)	475,249,521,266
+242291 (Impad1)	475,249,521,266
+55980 (Impa1)	475,249,521,266
+114663 (Impa2)	475,332,521,349
+242291 (Impad1)	475,332,521,349
+55980 (Impa1)	475,332,521,349
+56727 (Miox)	487,520,533,537
+107650 (Pi4kb)	688,239,734,256
+224020 (Pi4ka)	688,239,734,256
+67073 (Pi4k2b)	688,239,734,256
+84095 (Pi4k2a)	688,239,734,256
+18717 (Pip5k1c)	535,200,581,217
+18719 (Pip5k1b)	535,200,581,217
+18720 (Pip5k1a)	535,200,581,217
+227733 (Pip5kl1)	535,200,581,217
+225326 (Pik3c3)	822,227,868,244
+170749 (Mtmr4)	872,227,918,244
+17772 (Mtm1)	872,227,918,244
+219135 (Mtmr6)	872,227,918,244
+53332 (Mtmr1)	872,227,918,244
+54384 (Mtmr7)	872,227,918,244
+74302 (Mtmr3)	872,227,918,244
+77116 (Mtmr2)	872,227,918,244
+97287 (Mtmr14)	872,227,918,244
+114663 (Impa2)	619,332,665,349
+242291 (Impad1)	619,332,665,349
+55980 (Impa1)	619,332,665,349
+114875 (Plcz1)	374,161,420,178
+18795 (Plcb1)	374,161,420,178
+18796 (Plcb2)	374,161,420,178
+18797 (Plcb3)	374,161,420,178
+18798 (Plcb4)	374,161,420,178
+18799 (Plcd1)	374,161,420,178
+18802 (Plcd4)	374,161,420,178
+18803 (Plcg1)	374,161,420,178
+234779 (Plcg2)	374,161,420,178
+269437 (Plch1)	374,161,420,178
+269615 (Plch2)	374,161,420,178
+72469 (Plcd3)	374,161,420,178
+74055 (Plce1)	374,161,420,178
+75678 (Ippk)	145,501,191,518
+18706 (Pik3ca)	594,161,640,178
+18707 (Pik3cd)	594,161,640,178
+30955 (Pik3cg)	594,161,640,178
+74769 (Pik3cb)	594,161,640,178
+104776 (Aldh6a1)	936,555,982,572
+21991 (Tpi1)	936,602,982,619
+18711 (Pikfyve)	821,113,867,130
+52858 (Cdipt)	688,292,734,309
+234515 (Inpp4b)	742,167,788,184
+269180 (Inpp4a)	742,167,788,184
+18704 (Pik3c2a)	594,227,640,244
+18705 (Pik3c2g)	594,227,640,244
+240752 (Pik3c2b)	594,227,640,244
+16331 (Inpp5d)	656,134,702,151
+16332 (Inppl1)	656,134,702,151
+170749 (Mtmr4)	688,60,734,77
+17772 (Mtm1)	688,60,734,77
+219135 (Mtmr6)	688,60,734,77
+53332 (Mtmr1)	688,60,734,77
+54384 (Mtmr7)	688,60,734,77
+74302 (Mtmr3)	688,60,734,77
+77116 (Mtmr2)	688,60,734,77
+97287 (Mtmr14)	688,60,734,77
+101490 (Inpp5f)	688,266,734,283
+83493 (Sacm1l)	688,266,734,283
+103199 (Fig4)	872,113,918,130
+mmu00562: Inositol phosphate metabolism	40,45,312,70
+mmu00040: Pentose and glucuronate interconversions	391,597,527,631
+mmu00564: Glycerophospholipid metabolism	908,328,1029,362
+mmu00010: Glycolysis / Gluconeogenesis	762,594,859,628
+mmu00020: Citrate cycle (TCA cycle)	791,551,859,576
+mmu00040: Pentose and glucuronate interconversions	1002,435,1137,469

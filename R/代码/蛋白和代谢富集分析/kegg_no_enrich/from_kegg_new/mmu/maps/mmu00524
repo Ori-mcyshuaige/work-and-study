@@ -1,0 +1,93 @@
+C00031 (D-Glucose)	434,110,4
+C00092 (D-Glucose 6-phosphate)	434,171,4
+C17209 (2-Deoxy-scyllo-inosose)	434,232,4
+C17580 (2-Deoxy-scyllo-inosamine)	434,293,4
+C17581 (3-Amino-2,3-dideoxy-scyllo-inosose)	434,354,4
+C02627 (2-Deoxystreptamine)	434,415,4
+C17582 (2'-N-Acetylparomamine)	736,602,4
+C01743 (Paromamine)	736,676,4
+C17583 (6'-Dehydro-6'-oxoparomamine)	736,742,4
+C01441 (Neamine)	736,803,4
+C18004 (5''-Phosphoribostamycin)	736,916,4
+C01759 (Ribostamycin)	736,977,4
+C17587 (2'''-N-Acetyl-6'''-deamino-6'''-hydroxyneomycin C)	834,1039,4
+C00043 (UDP-N-acetyl-alpha-D-glucosamine)	961,989,4
+C17588 (6'''-Deamino-6'''-hydroxyneomycin C)	834,1100,4
+C17589 (6'''-Deamino-6'''-oxoneomycin C)	834,1161,4
+C15652 (Neomycin C)	834,1222,4
+C01737 (Neomycin B)	834,1283,4
+C18005 (gamma-L-Glutamyl-butirosin B)	585,977,4
+C17586 (Butirosin B)	474,977,4
+C17585 (Butirosin A)	474,1100,4
+C00229 (Acyl-carrier protein)	571,1235,4
+C00025 (L-Glutamate)	557,1194,4
+C18006 (gamma-L-Glutamyl-[acp])	669,1194,4
+C18007 (4-Aminobutyryl-[acp])	669,1133,4
+C18008 (4-(gamma-L-Glutamylamino)butanoyl-[acp])	669,1072,4
+C18009 (4-(gamma-L-Glutamylamino)-(2S)-2-hydroxybutanoyl-[acp])	669,1011,4
+C20353 (2'-Deamino-2'-hydroxyparomamine)	736,415,4
+C20350 (2'-Deamino-2'-hydroxyneamine)	736,537,4
+C20351 (2'-Deamino-2'-hydroxy-6'-dehydroparomamine)	736,476,4
+C00825 (Kanamycin B)	1012,803,4
+C20509 (2'-Dehydrokanamycin A)	1178,637,4
+C01822 (Kanamycin A)	1012,537,4
+C01823 (Kanamycin C)	1012,681,4
+C21176 (3''-Oxoribostamycin)	736,1039,4
+C17584 (Xylostasin)	736,1100,4
+C20699 (6''-O-Carbamoylkanamycin A)	1012,598,4
+C21252 (6'-Oxokanamycin C)	1012,742,4
+C12210 (UDP-3-ketoglucose)	880,742,4
+C00029 (UDP-glucose)	961,742,4
+C12211 (UDP-kanosamine)	799,476,4
+C20614 (Kanamycin X)	1012,415,4
+C21251 (6'-Oxokanamycin X)	1012,476,4
+C21253 (Kanamycin D)	903,574,4
+C00043 (UDP-N-acetyl-alpha-D-glucosamine)	406,602,4
+C21259 (Nebramine)	512,803,4
+C00397 (Tobramycin)	512,864,4
+C18001 (Nebramycin 5')	512,926,4
+C17701 (Gentamicin A2)	343,671,4
+C21265 (3''-Oxogentamicin A2)	343,742,4
+C21266 (3''-Amino-3''-deoxygentamicin A2)	343,803,4
+C01917 (Gentamicin A)	343,864,4
+C17702 (Gentamicin X2)	343,926,4
+C17703 (Antibiotic G-418)	232,926,4
+C21267 (6'-Oxogentamicin X2)	343,987,4
+C21268 (6'-Oxo-G418)	232,987,4
+C21269 (Antibiotic JI-20Ba)	232,1048,4
+C17704 (Antibiotic JI-20A)	343,1048,4
+C00908 (Gentamicin C1a)	343,1109,4
+C17706 (Gentamicin C2b)	343,1170,4
+C21270 (Gentamicin C2a)	232,1109,4
+C02033 (Gentamicin C2)	119,1109,4
+C07656 (Gentamicin C1)	119,1170,4
+C17705 (Antibiotic JI-20B)	119,1048,4
+C21257 (4'-Oxolividamine)	623,681,4
+C21255 (Lividamine)	512,681,4
+C21256 (6'-Oxolividamine)	512,742,4
+C21258 (4'-Oxonebramine)	623,803,4
+C18002 (5-Ribosylparomamine)	1123,977,4
+C21261 (2'''-N-Acetyl-6'''-deamino-6'''-hydroxyparomomycin II)	1123,1039,4
+C21262 (6'''-Deamino-6'''-hydroxyparomomycin II)	1123,1100,4
+C21260 (5''-Phosphoribosylparomamine)	1123,916,4
+C21263 (6'''-Deamino-6'''-oxoparomomycin II)	1123,1161,4
+C17712 (Paromomycin II)	1123,1222,4
+C18003 (Lividomycin B)	1235,1283,4
+C21254 (3''-Deamino-3''-hydroxykanamycin B)	903,838,4
+C01555 (Apramycin)	422,770,4
+C17997 (Oxyapramycin)	623,742,4
+C18000 (Nebramycin factor 4)	1012,864,4
+C17707 (Lividomycin A)	1235,1344,4
+C00832 (Paromomycin)	1123,1283,4
+C21264 (5'''-epi-Lividomycin B)	1235,1222,4
+C12211 (UDP-kanosamine)	799,742,4
+15275 (Hk1)	386,130,432,147
+15277 (Hk2)	386,130,432,147
+212032 (Hk3)	386,130,432,147
+216019 (Hkdc1)	386,130,432,147
+103988 (Gck)	436,130,482,147
+mmu00524: Neomycin	40,45,465,70
+kanamycin and gentamicin biosynthesis	40,45,465,70
+map00521: Streptomycin biosynthesis	191,159,334,184
+mmu00520: Amino sugar and nucleotide sugar metabolism	175,585,327,619
+mmu00520: Amino sugar and nucleotide sugar metabolism	886,916,1038,950

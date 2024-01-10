@@ -1,0 +1,6 @@
+C00223	red
+C06561	red
+C00509	red
+K00487	yellow
+K00660	pink
+K01859	cyan

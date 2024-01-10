@@ -1,0 +1,83 @@
+C05859 (Dehydrodolichol diphosphate)	324,1172,4
+C06081 (Polyprenol)	252,1172,4
+C00022 (Pyruvate)	644,183,4
+C00024 (Acetyl-CoA)	434,172,4
+C00332 (Acetoacetyl-CoA)	499,241,4
+C00118 (D-Glyceraldehyde 3-phosphate)	672,172,4
+C11434 (2-C-Methyl-D-erythritol 4-phosphate)	672,310,4
+C11435 (4-(Cytidine 5'-diphospho)-2-C-methyl-D-erythritol)	672,379,4
+C11436 (2-Phospho-4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol)	672,448,4
+C11453 (2-C-Methyl-D-erythritol 2,4-cyclodiphosphate)	672,517,4
+C11811 (1-Hydroxy-2-methyl-2-butenyl 4-diphosphate)	672,586,4
+C00356 ((S)-3-Hydroxy-3-methylglutaryl-CoA)	434,310,4
+C00418 ((R)-Mevalonate)	434,379,4
+C01107 ((R)-5-Phosphomevalonate)	434,448,4
+C01143 ((R)-5-Diphosphomevalonate)	434,517,4
+C02321 (cis-1,4-Polyisoprene)	397,666,4
+C00129 (Isopentenyl diphosphate)	553,666,4
+C00235 (Dimethylallyl diphosphate)	672,666,4
+C16521 (Isoprene)	821,666,4
+C00341 (Geranyl diphosphate)	672,755,4
+C11437 (1-Deoxy-D-xylulose 5-phosphate)	672,241,4
+C16826 (2-cis,6-trans-Farnesyl diphosphate)	434,834,4
+C04574 (di-trans,poly-cis-Undecaprenyl diphosphate)	252,1233,4
+C17432 (all-trans-Decaprenyl diphosphate)	672,1233,4
+C00448 (trans,trans-Farnesyl diphosphate)	434,914,4
+C04216 (all-trans-Heptaprenyl diphosphate)	672,1111,4
+C04146 (all-trans-Octaprenyl diphosphate)	672,1172,4
+C04145 (all-trans-Nonaprenyl diphosphate)	913,1097,4
+C01230 (all-trans-Hexaprenyl diphosphate)	672,1050,4
+C00353 (Geranylgeranyl diphosphate)	672,982,4
+C05427 (Phytyl diphosphate)	853,1097,4
+C18321 (trans,octacis-Decaprenyl diphosphate)	341,781,4
+C19852 (tritrans,heptacis-Undecaprenyl diphosphate)	777,1097,4
+C19853 (trans,polycis-Polyprenyl diphosphate)	342,808,4
+C04506 (Protein C-terminal S-farnesyl-L-cysteine)	201,1051,4
+C19760 ((2Z,6Z)-Farnesyl diphosphate)	436,754,4
+C19691 (Farnesylcysteine)	91,992,4
+C03461 (2-trans,6-trans-Farnesal)	91,914,4
+C01126 ((2E,6E)-Farnesol)	201,914,4
+C04748 (Protein C-terminal S-farnesyl-L-cysteine methyl ester)	91,1051,4
+C20120 (S-Farnesyl protein)	311,1051,4
+C20121 (trans,trans-Farnesyl phosphate)	312,914,4
+C20345 (Isopentenyl phosphate)	370,613,4
+C20847 ((R)-Mevalonate 3-phosphate)	302,448,4
+C20848 ((R)-Mevalonate 3,5-bisphosphate)	302,517,4
+4598 (MVK)	411,399,457,416
+38 (ACAT1)	476,193,522,210
+39 (ACAT2)	476,193,522,210
+3157 (HMGCS1)	411,261,457,278
+3158 (HMGCS2)	411,261,457,278
+3156 (HMGCR)	386,330,432,347
+3422 (IDI1)	590,659,636,676
+91734 (IDI2)	590,659,636,676
+4597 (MVD)	412,539,458,556
+10654 (PMVK)	411,468,457,485
+2224 (FDPS)	650,718,696,735
+9453 (GGPS1)	650,718,696,735
+2224 (FDPS)	470,906,516,923
+9453 (GGPS1)	470,906,516,923
+9453 (GGPS1)	529,973,575,990
+116150 (NUS1)	356,1164,402,1181
+79947 (DHDDS)	356,1164,402,1181
+23590 (PDSS1)	530,1225,576,1242
+57107 (PDSS2)	530,1225,576,1242
+2339 (FNTA)	356,1043,402,1060
+2342 (FNTB)	356,1043,402,1060
+9986 (RCE1)	236,1053,282,1070
+23463 (ICMT)	124,1043,170,1060
+51449 (PCYOX1)	93,961,139,978
+51449 (PCYOX1)	43,961,89,978
+10269 (ZMPSTE24)	236,1032,282,1049
+hsa00010: Glycolysis / Gluconeogenesis	518,102,588,127
+hsa00900: Terpenoid backbone biosynthesis	40,45,321,70
+map00902: Monoterpenoid biosynthesis	818,742,973,767
+map00909: Sesquiterpenoid and triterpenoid biosynthesis	115,736,256,770
+map00906: Carotenoid biosynthesis	210,1101,340,1126
+map00904: Diterpenoid biosynthesis	779,871,913,896
+map00906: Carotenoid biosynthesis	779,901,913,926
+hsa00130: Ubiquinone and other terpenoid-quinone biosynthesis	800,1215,973,1249
+hsa00510: N-Glycan biosynthesis	98,1155,180,1189
+map00908: Zeatin biosynthesis	818,694,930,719
+hsa00100: Steroid biosynthesis	225,977,336,1002
+map00403: Indole diterpene alkaloid biosynthesis	779,931,892,965

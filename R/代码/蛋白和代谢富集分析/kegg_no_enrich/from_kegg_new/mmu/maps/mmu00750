@@ -1,0 +1,52 @@
+C00118 (D-Glyceraldehyde 3-phosphate)	898,285,4
+C00199 (D-Ribulose 5-phosphate)	853,307,4
+C07335 (2-Amino-3-oxo-4-phosphonooxybutyrate)	756,526,4
+C00232 (Succinate semialdehyde)	70,136,4
+C01215 (2-(Acetamidomethylene)succinate)	70,212,4
+C01270 (3-Hydroxy-2-methylpyridine-5-carboxylate)	170,212,4
+C04604 (3-Hydroxy-2-methylpyridine-4,5-dicarboxylate)	270,212,4
+C06050 (2-Methyl-3-hydroxy-5-formylpyridine-4-carboxylate)	370,212,4
+C00971 (4-Pyridoxolactone)	470,159,4
+C00250 (Pyridoxal)	598,212,4
+C00534 (Pyridoxamine)	598,76,4
+C00647 (Pyridoxamine phosphate)	756,76,4
+C00018 (Pyridoxal phosphate)	756,212,4
+C00627 (Pyridoxine phosphate)	756,348,4
+C00266 (Glycolaldehyde)	457,348,4
+C00314 (Pyridoxine)	598,348,4
+C04773 (3-Hydroxy-4-hydroxymethyl-2-methylpyridine-5-carboxylate)	386,432,4
+C04690 (2-(Hydroxymethyl)-3-(acetamidomethylene)succinate)	251,432,4
+C03393 (4-Phospho-D-erythronate)	421,526,4
+C00279 (D-Erythrose 4-phosphate)	309,526,4
+C06051 (Isopyridoxal)	598,432,4
+C06052 (5-Pyridoxolactone)	494,432,4
+C04106 (2-(Hydroxymethyl)-4-oxobutanoate)	126,432,4
+C06054 (2-Oxo-3-hydroxy-4-phosphobutanoate)	533,526,4
+C06055 (O-Phospho-4-hydroxy-L-threonine)	646,526,4
+C00847 (4-Pyridoxate)	470,212,4
+C11638 (3-Amino-2-oxopropyl phosphate)	756,438,4
+C06056 (4-Hydroxy-L-threonine)	646,458,4
+11761 (Aox1)	518,193,564,210
+213043 (Aox2)	518,193,564,210
+71724 (Aox3)	518,193,564,210
+71872 (Aox4)	518,193,564,210
+103711 (Pnpo)	600,127,646,144
+103711 (Pnpo)	734,127,780,144
+57028 (Pdxp)	659,77,705,94
+73373 (Phospho2)	659,77,705,94
+216134 (Pdxk)	659,58,705,75
+57028 (Pdxp)	659,349,705,366
+73373 (Phospho2)	659,349,705,366
+216134 (Pdxk)	659,330,705,347
+57028 (Pdxp)	659,213,705,230
+73373 (Phospho2)	659,213,705,230
+216134 (Pdxk)	659,194,705,211
+107272 (Psat1)	569,518,615,535
+103711 (Pnpo)	734,282,780,299
+103711 (Pnpo)	600,282,646,299
+mmu00010: Glycolysis / Gluconeogenesis	862,323,936,348
+mmu00030: Pentose phosphate pathway	800,360,952,385
+mmu00750: Vitamin B6 metabolism	40,45,243,70
+mmu00030: Pentose phosphate pathway	126,509,242,543
+mmu00630: Glyoxylate and dicarboxylate metabolism	241,331,382,365
+mmu00650: Butanoate metabolism	159,124,285,149

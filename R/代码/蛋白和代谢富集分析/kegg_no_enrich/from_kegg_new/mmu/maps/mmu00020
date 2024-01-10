@@ -1,0 +1,87 @@
+C00022 (Pyruvate)	737,241,4
+C00122 (Fumarate)	190,486,4
+C00036 (Oxaloacetate)	320,349,4
+C05379 (Oxalosuccinate)	718,458,4
+C00024 (Acetyl-CoA)	400,241,4
+C00149 ((S)-Malate)	190,398,4
+C00311 (Isocitrate)	718,349,4
+C00417 (cis-Aconitate)	621,349,4
+C00042 (Succinate)	190,579,4
+C00158 (Citrate)	522,349,4
+C15972 (Enzyme N6-(lipoyl)lysine)	522,622,4
+C00068 (Thiamin diphosphate)	589,535,4
+C16254 ([Dihydrolipoyllysine-residue succinyltransferase] S-succinyldihydrolipoyllysine)	462,578,4
+C15973 (Enzyme N6-(dihydrolipoyl)lysine)	408,622,4
+C00091 (Succinyl-CoA)	334,579,4
+C00026 (2-Oxoglutarate)	718,578,4
+C05381 (3-Carboxy-1-hydroxypropyl-ThPP)	593,578,4
+C05125 (2-(alpha-Hydroxyethyl)thiamine diphosphate)	631,241,4
+C00068 (Thiamin diphosphate)	631,198,4
+C15972 (Enzyme N6-(lipoyl)lysine)	580,284,4
+C16255 ([Dihydrolipoyllysine-residue acetyltransferase] S-acetyldihydrolipoyllysine)	517,241,4
+C15973 (Enzyme N6-(dihydrolipoyl)lysine)	478,284,4
+C00074 (Phosphoenolpyruvate)	471,116,4
+13382 (Dld)	444,614,490,631
+18293 (Ogdh)	638,570,684,587
+239017 (Ogdhl)	638,570,684,587
+18293 (Ogdh)	507,571,553,588
+239017 (Ogdhl)	507,571,553,588
+78920 (Dlst)	380,570,426,587
+20916 (Sucla2)	237,570,283,587
+20917 (Suclg2)	237,570,283,587
+56451 (Suclg1)	237,570,283,587
+20916 (Sucla2)	237,551,283,568
+20917 (Suclg2)	237,551,283,568
+56451 (Suclg1)	237,551,283,568
+15926 (Idh1)	695,501,741,518
+269951 (Idh2)	695,501,741,518
+15929 (Idh3g)	743,454,789,471
+170718 (Idh3b)	743,454,789,471
+243996 (4933405O20Rik)	743,454,789,471
+67834 (Idh3a)	743,454,789,471
+15926 (Idh1)	695,396,741,413
+269951 (Idh2)	695,396,741,413
+104112 (Acly)	413,341,459,358
+14194 (Fh1)	168,432,214,449
+11428 (Aco1)	647,341,693,358
+11429 (Aco2)	647,341,693,358
+11428 (Aco1)	548,341,594,358
+11429 (Aco2)	548,341,594,358
+12974 (Cs)	413,322,459,339
+71832 (Csl)	413,322,459,339
+17448 (Mdh2)	230,340,276,357
+17449 (Mdh1)	230,340,276,357
+18563 (Pcx)	713,269,759,286
+18597 (Pdha1)	663,232,709,249
+18598 (Pdha2)	663,232,709,249
+68263 (Pdhb)	663,232,709,249
+18597 (Pdha1)	559,232,605,249
+18598 (Pdha2)	559,232,605,249
+68263 (Pdhb)	559,232,605,249
+13382 (Dld)	506,276,552,293
+235339 (Dlat)	441,233,487,250
+18534 (Pck1)	348,96,394,113
+74551 (Pck2)	348,96,394,113
+66052 (Sdhc)	192,526,238,543
+66925 (Sdhd)	192,526,238,543
+66945 (Sdha)	192,526,238,543
+67680 (Sdhb)	192,526,238,543
+mmu00630: Glyoxylate and dicarboxylate metabolism	70,295,228,329
+mmu00010: Glycolysis / Gluconeogenesis	584,93,800,139
+mmu00061: Fatty acid biosynthesis	100,140,226,165
+mmu00062: Fatty acid elongation	32,168,226,193
+mmu00071: Fatty acid degradation	105,226,226,251
+mmu00053: Ascorbate and aldarate metabolism	801,598,927,632
+mmu00250: Alanine	801,635,922,669
+aspartate and glutamate metabolism	801,635,922,669
+mmu00020: Citrate cycle (TCA cycle)	40,45,269,70
+mmu00350: Tyrosine metabolism	64,431,140,465
+mmu00280: Valine	223,624,308,658
+leucine and isoleucine degradation	223,624,308,658
+mmu00250: Alanine	106,258,227,292
+aspartate and glutamate metabolism	106,258,227,292
+mmu00471: D-Glutamine and D-glutamate metabolism	801,672,953,697
+mmu00280: Valine	82,198,226,223
+leucine and isoleucine degradation	82,198,226,223
+mmu00220: Arginine biosynthesis	20,473,140,498
+mmu00220: Arginine biosynthesis	801,570,920,595

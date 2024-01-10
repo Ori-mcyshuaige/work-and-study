@@ -1,0 +1,35 @@
+C00385 (Xanthine)	88,606,4
+C13747 (1,7-Dimethylxanthine)	550,210,4
+C16362 (3,6,8-Trimethylallantoin)	729,504,4
+C16363 (N-Methylurea)	781,545,4
+C00048 (Glyoxylate)	681,544,4
+C16364 (N,N'-Dimethylurea)	729,576,4
+C16359 (1-Methyluric acid)	396,676,4
+C16357 (3-Methylxanthine)	396,478,4
+C16355 (7-Methyluric acid)	393,390,4
+C07481 (Caffeine)	701,344,4
+C16358 (1-Methylxanthine)	396,612,4
+C16356 (1,7-Dimethyluric acid)	396,168,4
+C16366 (5-Acetylamino-6-amino-3-methyluracil)	681,113,4
+C07480 (Theobromine)	550,344,4
+C07130 (Theophylline)	550,481,4
+C16352 (7-Methylxanthosine)	241,210,4
+C01762 (Xanthosine)	88,210,4
+C16365 (5-Acetylamino-6-formylamino-3-methyluracil)	550,113,4
+C16353 (7-Methylxanthine)	396,210,4
+C16360 (3,7-Dimethyluric acid)	550,444,4
+C21144 (1,3,7-Trimethyl-5-hydroxyisourate)	828,430,4
+C16361 (1,3,7-Trimethyluric acid)	729,430,4
+1544 (CYP1A2)	628,618,674,635
+7498 (XDH)	373,632,419,649
+7498 (XDH)	528,399,574,416
+1544 (CYP1A2)	428,149,474,166
+10 (NAT2)	528,139,574,156
+9 (NAT1)	528,139,574,156
+7498 (XDH)	370,350,416,367
+1544 (CYP1A2)	611,259,657,276
+7498 (XDH)	453,170,499,187
+1548 (CYP2A6)	476,149,522,166
+hsa00230: Purine metabolism	34,441,143,466
+hsa00232: Caffeine metabolism	40,45,217,70
+hsa00630: Glyoxylate and dicarboxylate metabolism	558,527,636,561

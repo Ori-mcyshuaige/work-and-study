@@ -1,0 +1,52 @@
+C01528 (Hydrogen selenide)	422,391,4
+C05697 (Selenate)	799,391,4
+C05684 (Selenite)	714,391,4
+C05172 (Selenophosphoric acid)	198,458,4
+C06481 (L-Seryl-tRNA(Sec))	169,427,4
+C06482 (L-Selenocysteinyl-tRNA(Sec))	65,458,4
+C05689 (Se-Methyl-L-selenocysteine)	286,331,4
+C05695 (gamma-Glutamyl-Se-methylselenocysteine)	380,287,4
+C05688 (L-Selenocysteine)	198,391,4
+C05699 (L-Selenocystathionine)	198,331,4
+C05698 (Selenohomocysteine)	198,254,4
+C05335 (L-Selenomethionine)	198,176,4
+C05690 (Se-Methylselenomethionine)	198,107,4
+C05336 (Selenomethionyl-tRNA(Met))	65,176,4
+C00017 (Protein)	65,331,4
+C05703 (Methaneselenol)	422,176,4
+C02535 (Dimethyl selenide)	524,238,4
+C18902 (Methylselenic acid)	524,176,4
+C18904 (Methylselenopyruvate)	380,331,4
+C16638 (O-Phosphoseryl-tRNA(Sec))	169,489,4
+C06481 (L-Seryl-tRNA(Sec))	169,550,4
+C18870 (Selenodiglutathione)	619,391,4
+C18872 (Trimethylselenonium)	619,238,4
+C18871 (Glutathioselenol)	524,391,4
+C18893 (1-Methylseleno-N-acetyl-D-galactosamine)	524,331,4
+C05686 (Adenylylselenate)	799,331,4
+C18905 (Methylselenocysteine Se-oxide)	380,238,4
+C00041 (L-Alanine)	380,422,4
+352924 (txnrd3)	547,450,593,467
+798259 (txnrd2.2)	547,450,593,467
+324947 (sephs1)	305,450,351,467
+352933 (sephs2)	305,450,351,467
+338183 (mars)	95,167,141,184
+566565 (mars2)	95,167,141,184
+393315 (ccbl2)	305,322,351,339
+791592 (kyat1)	305,322,351,339
+103911967	147,516,193,533
+393123 (sepsecs)	102,460,148,477
+322055 (cth)	225,155,271,172
+559537 (scly)	305,386,351,403
+559488 (papss1)	777,356,823,373
+777719 (papss2a)	777,356,823,373
+80939 (papss2b)	777,356,823,373
+393315 (ccbl2)	284,210,330,227
+791592 (kyat1)	284,210,330,227
+393315 (ccbl2)	176,290,222,307
+791592 (kyat1)	176,290,222,307
+378847 (mtr)	176,210,222,227
+352924 (txnrd3)	449,167,495,184
+798259 (txnrd2.2)	449,167,495,184
+322055 (cth)	234,210,280,227
+dre00450: Selenocompound metabolism	40,45,292,70
